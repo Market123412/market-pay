@@ -83,10 +83,10 @@ export default function Footer() {
           <div>
             <h3 className="mb-3 text-sm font-semibold uppercase tracking-wider text-white">Institucional</h3>
             <ul className="space-y-2 text-sm">
-              <li><Link href="#" className="hover:text-emerald-400">Sobre nós</Link></li>
-              <li><Link href="#" className="hover:text-emerald-400">Política de Privacidade</Link></li>
-              <li><Link href="#" className="hover:text-emerald-400">Termos de Uso</Link></li>
-              <li><Link href="#" className="hover:text-emerald-400">Contato</Link></li>
+              <li><Link href="/sobre" className="hover:text-emerald-400">Sobre nós</Link></li>
+              <li><Link href="/privacidade" className="hover:text-emerald-400">Política de Privacidade</Link></li>
+              <li><Link href="/termos" className="hover:text-emerald-400">Termos de Uso</Link></li>
+              <li><Link href="/contato" className="hover:text-emerald-400">Contato</Link></li>
             </ul>
           </div>
         </div>
