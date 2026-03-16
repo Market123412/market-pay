@@ -43,7 +43,7 @@ export const categories: Category[] = [
     icon: "Dumbbell",
     description: "Equipamentos esportivos e fitness",
     productCount: 670,
-    image: "https://images.unsplash.com/photo-1461896836934-bd45ba48c6f4?w=400&q=80",
+    image: "https://images.unsplash.com/photo-1517963879433-6ad2b056d712?w=400&q=80",
   },
   {
     id: "5",
