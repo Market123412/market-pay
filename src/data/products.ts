@@ -174,9 +174,9 @@ export const products: Product[] = [
     price: 349.0,
     originalPrice: 499.0,
     discount: 30,
-    image: "https://images.unsplash.com/photo-1585515320310-259814833e62?w=500&q=80",
+    image: "https://images.pexels.com/photos/8880733/pexels-photo-8880733.jpeg?auto=compress&cs=tinysrgb&w=500",
     images: [
-      "https://images.unsplash.com/photo-1585515320310-259814833e62?w=800&q=80",
+      "https://images.pexels.com/photos/8880733/pexels-photo-8880733.jpeg?auto=compress&cs=tinysrgb&w=800",
     ],
     category: "Casa & Decoração",
     categorySlug: "casa-decoracao",
