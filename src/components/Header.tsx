@@ -1,7 +1,7 @@
 "use client";
 
 import Link from "next/link";
-import { ShoppingBag, Menu, X, User, TrendingUp } from "lucide-react";
+import { ShoppingBag, Menu, X, TrendingUp } from "lucide-react";
 import { useState } from "react";
 import SearchBar from "./SearchBar";
 import { categories } from "@/data/categories";
@@ -42,13 +42,6 @@ export default function Header() {
           >
             <TrendingUp size={16} />
             Ofertas
-          </Link>
-          <Link
-            href="#"
-            className="flex items-center gap-1.5 rounded-full bg-gray-100 px-4 py-2 text-sm font-medium text-gray-700 transition-colors hover:bg-gray-200"
-          >
-            <User size={16} />
-            <span className="hidden sm:inline">Entrar</span>
           </Link>
           <button
             onClick={() => setMenuOpen(!menuOpen)}

@@ -8,9 +8,9 @@ import { Flame, TrendingUp, Tag } from "lucide-react";
 import Link from "next/link";
 
 export default function Home() {
-  const featuredProducts = products.filter((p) => p.discount && p.discount >= 25);
-  const topRated = [...products].sort((a, b) => b.rating - a.rating).slice(0, 4);
-  const recentProducts = products.slice(0, 8);
+  const featuredProducts = products.filter((p) => p.discount && p.discount >= 30).slice(0, 8);
+  const topRated = [...products].sort((a, b) => b.rating - a.rating).slice(0, 8);
+  const recentProducts = products.slice(0, 12);
 
   return (
     <>
