@@ -25,10 +25,6 @@ export async function searchMercadoLivreProducts(
   category?: string,
   limit: number = 10
 ): Promise<MercadoLivreProduct[]> {
-  if (!ML_APP_ID && !ML_ACCESS_TOKEN) {
-    console.warn("[ML API] Chaves não configuradas. Usando dados mock.");
-    return [];
-  }
 
   try {
     const params: Record<string, string | number> = {
