@@ -1,6 +1,6 @@
 import { notFound } from "next/navigation";
 import { categories } from "@/data/categories";
-import { products } from "@/data/products";
+import { allProducts } from "@/data/products";
 import AdBanner from "@/components/AdBanner";
 import Link from "next/link";
 import { ChevronRight } from "lucide-react";
@@ -22,7 +22,7 @@ export default async function CategoryPage({ params }: CategoryPageProps) {
     notFound();
   }
 
-  const categoryProducts = products.filter((p) => p.categorySlug === slug);
+  const categoryProducts = allProducts.filter((p) => p.categorySlug === slug);
 
   return (
     <div className="mx-auto max-w-7xl px-4 py-8">

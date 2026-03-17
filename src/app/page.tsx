@@ -2,15 +2,15 @@ import HeroBanner from "@/components/HeroBanner";
 import ProductCard from "@/components/ProductCard";
 import CategoryCard from "@/components/CategoryCard";
 import AdBanner from "@/components/AdBanner";
-import { products } from "@/data/products";
+import { allProducts } from "@/data/products";
 import { categories } from "@/data/categories";
 import { Flame, TrendingUp, Tag } from "lucide-react";
 import Link from "next/link";
 
 export default function Home() {
-  const featuredProducts = products.filter((p) => p.discount && p.discount >= 30).slice(0, 8);
-  const topRated = [...products].sort((a, b) => b.rating - a.rating).slice(0, 8);
-  const recentProducts = products.slice(0, 12);
+  const featuredProducts = allProducts.filter((p) => p.discount && p.discount >= 30).slice(0, 8);
+  const topRated = [...allProducts].sort((a, b) => b.rating - a.rating).slice(0, 8);
+  const recentProducts = allProducts.slice(0, 12);
 
   return (
     <>

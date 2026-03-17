@@ -1,3 +1,5 @@
+import { generateAllProducts } from "./product-generator";
+
 export type AffiliateSource = "mercadolivre" | "amazon" | "shopee";
 
 export interface ProductReview {
@@ -1014,3 +1016,6 @@ export const products: Product[] = [
     features: ["OLED 7\"", "64GB", "Dock LAN", "Joy-Con Neon", "Portátil"],
   },
 ];
+
+const generatedProducts = generateAllProducts(43);
+export const allProducts: Product[] = [...products, ...generatedProducts];

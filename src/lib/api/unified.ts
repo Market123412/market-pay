@@ -1,7 +1,7 @@
 import { searchAmazonProducts } from "./amazon";
 import { searchMercadoLivreProducts } from "./mercadolivre";
 import { searchShopeeProducts } from "./shopee";
-import { products as mockProducts, Product } from "@/data/products";
+import { allProducts as mockProducts, Product } from "@/data/products";
 import { AffiliateSource } from "@/data/products";
 
 export interface UnifiedProduct {

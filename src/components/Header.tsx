@@ -37,7 +37,7 @@ export default function Header() {
         {/* Actions */}
         <div className="ml-auto flex items-center gap-3">
           <Link
-            href="/busca?q=ofertas"
+            href="/ofertas"
             className="hidden items-center gap-1.5 rounded-full bg-emerald-50 px-4 py-2 text-sm font-medium text-emerald-700 transition-colors hover:bg-emerald-100 lg:flex"
           >
             <TrendingUp size={16} />

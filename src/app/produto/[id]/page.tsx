@@ -1,7 +1,7 @@
 import { notFound } from "next/navigation";
 import Image from "next/image";
 import Link from "next/link";
-import { products } from "@/data/products";
+import { allProducts } from "@/data/products";
 import { sourceLabels, sourceColors, formatPrice, getAffiliateUrl } from "@/lib/affiliate";
 import StarRating from "@/components/StarRating";
 import AdBanner from "@/components/AdBanner";
@@ -21,18 +21,18 @@ interface ProductPageProps {
 }
 
 export function generateStaticParams() {
-  return products.map((p) => ({ id: p.id }));
+  return allProducts.map((p) => ({ id: p.id }));
 }
 
 export default async function ProductPage({ params }: ProductPageProps) {
   const { id } = await params;
-  const product = products.find((p) => p.id === id);
+  const product = allProducts.find((p) => p.id === id);
 
   if (!product) {
     notFound();
   }
 
-  const relatedProducts = products
+  const relatedProducts = allProducts
     .filter((p) => p.categorySlug === product.categorySlug && p.id !== product.id)
     .slice(0, 4);
 
