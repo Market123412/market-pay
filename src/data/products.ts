@@ -1,4 +1,5 @@
 import { loadShopeeProducts } from "./shopee-feed-loader";
+import { loadMLProducts } from "./ml-feed-loader";
 
 export type AffiliateSource = "mercadolivre" | "amazon" | "shopee";
 
@@ -1018,5 +1019,6 @@ export const products: Product[] = [
 ];
 
 const shopeeProducts = loadShopeeProducts(products.length + 1);
-// Only real Shopee products — curated ML/Amazon products have stock photos & generic URLs
-export const allProducts: Product[] = [...shopeeProducts];
+const mlProducts = loadMLProducts();
+// Real products from Shopee feed + Mercado Livre API (with real images & permalinks)
+export const allProducts: Product[] = [...shopeeProducts, ...mlProducts];
