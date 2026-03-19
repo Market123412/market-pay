@@ -37,6 +37,9 @@ yarn-error.log*
 # vercel
 .vercel
 
+# large data files
+src/data/shopee-feed.csv
+
 # word docs
 *.docx
 ~$*
