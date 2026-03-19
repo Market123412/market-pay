@@ -1,4 +1,3 @@
-import { generateAllProducts } from "./product-generator";
 import { loadShopeeProducts } from "./shopee-feed-loader";
 
 export type AffiliateSource = "mercadolivre" | "amazon" | "shopee";
@@ -1018,6 +1017,5 @@ export const products: Product[] = [
   },
 ];
 
-const generatedProducts = generateAllProducts(43);
-const shopeeProducts = loadShopeeProducts(generatedProducts.length + products.length + 1);
-export const allProducts: Product[] = [...products, ...generatedProducts, ...shopeeProducts];
+const shopeeProducts = loadShopeeProducts(products.length + 1);
+export const allProducts: Product[] = [...shopeeProducts];

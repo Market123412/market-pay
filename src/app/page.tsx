@@ -4,60 +4,49 @@ import CategoryCard from "@/components/CategoryCard";
 import AdBanner from "@/components/AdBanner";
 import { allProducts } from "@/data/products";
 import { categories } from "@/data/categories";
-import { Flame, TrendingUp, Tag } from "lucide-react";
+import { Flame, TrendingUp, Zap } from "lucide-react";
 import Link from "next/link";
 
 export default function Home() {
-  const featuredProducts = allProducts.filter((p) => p.discount && p.discount >= 30).slice(0, 8);
-  const topRated = [...allProducts].sort((a, b) => b.rating - a.rating).slice(0, 8);
-  const recentProducts = allProducts.slice(0, 12);
+  const flashDeals = allProducts.filter((p) => p.discount && p.discount >= 30).slice(0, 10);
+  const topRated = [...allProducts].sort((a, b) => b.rating - a.rating).slice(0, 10);
+  const dailyPicks = allProducts.slice(0, 30);
 
   return (
-    <>
+    <div className="bg-gray-100 min-h-screen">
       <HeroBanner />
 
       {/* Categories */}
-      <section className="mx-auto max-w-7xl px-4 py-12">
-        <div className="mb-6 flex items-center justify-between">
-          <h2 className="text-2xl font-bold text-gray-900">Categorias</h2>
-          <Link href="/busca?q=" className="text-sm font-medium text-emerald-600 hover:underline">
-            Ver todas
-          </Link>
-        </div>
-        <div className="grid grid-cols-2 gap-4 sm:grid-cols-3 lg:grid-cols-4">
-          {categories.map((cat) => (
-            <CategoryCard key={cat.id} category={cat} />
-          ))}
-        </div>
-      </section>
-
-      {/* Ad Banner */}
-      <div className="mx-auto max-w-7xl px-4">
-        <AdBanner />
-      </div>
-
-      {/* Featured - Best Discounts */}
-      <section className="mx-auto max-w-7xl px-4 py-12">
-        <div className="mb-6 flex items-center gap-2">
-          <Flame className="text-red-500" size={24} />
-          <h2 className="text-2xl font-bold text-gray-900">Ofertas Imperdíveis</h2>
-        </div>
-        <div className="grid grid-cols-2 gap-4 sm:grid-cols-3 lg:grid-cols-4">
-          {featuredProducts.map((product) => (
-            <ProductCard key={product.id} product={product} />
-          ))}
-        </div>
-      </section>
-
-      {/* Top Rated */}
-      <section className="bg-white py-12">
-        <div className="mx-auto max-w-7xl px-4">
-          <div className="mb-6 flex items-center gap-2">
-            <TrendingUp className="text-emerald-600" size={24} />
-            <h2 className="text-2xl font-bold text-gray-900">Mais Bem Avaliados</h2>
+      <section className="mx-auto max-w-7xl px-4 py-6">
+        <div className="rounded-lg bg-white p-4 shadow-sm">
+          <div className="mb-4 flex items-center justify-between">
+            <h2 className="text-base font-bold text-gray-900">Categorias</h2>
+            <Link href="/busca?q=" className="text-xs text-orange-500 hover:underline">
+              Ver todas &gt;
+            </Link>
           </div>
-          <div className="grid grid-cols-2 gap-4 sm:grid-cols-3 lg:grid-cols-4">
-            {topRated.map((product) => (
+          <div className="grid grid-cols-4 gap-3 sm:grid-cols-8">
+            {categories.map((cat) => (
+              <CategoryCard key={cat.id} category={cat} />
+            ))}
+          </div>
+        </div>
+      </section>
+
+      {/* Flash Deals */}
+      <section className="mx-auto max-w-7xl px-4 py-2">
+        <div className="rounded-lg bg-white p-4 shadow-sm">
+          <div className="mb-4 flex items-center justify-between">
+            <div className="flex items-center gap-2">
+              <Zap className="text-orange-500" size={20} />
+              <h2 className="text-base font-bold text-orange-600">OFERTAS RELÂMPAGO</h2>
+            </div>
+            <Link href="/ofertas" className="text-xs text-orange-500 hover:underline">
+              Ver todas &gt;
+            </Link>
+          </div>
+          <div className="grid grid-cols-2 gap-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5">
+            {flashDeals.map((product) => (
               <ProductCard key={product.id} product={product} />
             ))}
           </div>
@@ -65,22 +54,47 @@ export default function Home() {
       </section>
 
       {/* Ad Banner */}
-      <div className="mx-auto max-w-7xl px-4 py-6">
+      <div className="mx-auto max-w-7xl px-4 py-4">
         <AdBanner />
       </div>
 
-      {/* All Products */}
-      <section className="mx-auto max-w-7xl px-4 py-12">
-        <div className="mb-6 flex items-center gap-2">
-          <Tag className="text-blue-500" size={24} />
-          <h2 className="text-2xl font-bold text-gray-900">Todos os Produtos</h2>
+      {/* Top Rated */}
+      <section className="mx-auto max-w-7xl px-4 py-2">
+        <div className="rounded-lg bg-white p-4 shadow-sm">
+          <div className="mb-4 flex items-center gap-2">
+            <TrendingUp className="text-orange-500" size={20} />
+            <h2 className="text-base font-bold text-gray-900">Mais Bem Avaliados</h2>
+          </div>
+          <div className="grid grid-cols-2 gap-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5">
+            {topRated.map((product) => (
+              <ProductCard key={product.id} product={product} />
+            ))}
+          </div>
         </div>
-        <div className="grid grid-cols-2 gap-4 sm:grid-cols-3 lg:grid-cols-4">
-          {recentProducts.map((product) => (
+      </section>
+
+      {/* Daily Discover */}
+      <section className="mx-auto max-w-7xl px-4 py-6">
+        <div className="mb-4 flex items-center justify-center">
+          <div className="flex items-center gap-2 border-b-2 border-orange-500 pb-2">
+            <Flame className="text-orange-500" size={20} />
+            <h2 className="text-base font-bold text-orange-600 uppercase">Descobertas do Dia</h2>
+          </div>
+        </div>
+        <div className="grid grid-cols-2 gap-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 xl:grid-cols-6">
+          {dailyPicks.map((product) => (
             <ProductCard key={product.id} product={product} />
           ))}
         </div>
+        <div className="mt-6 flex justify-center">
+          <Link
+            href="/ofertas"
+            className="rounded-lg border border-orange-500 px-8 py-2.5 text-sm font-semibold text-orange-500 transition-colors hover:bg-orange-50"
+          >
+            Ver Mais Produtos
+          </Link>
+        </div>
       </section>
-    </>
+    </div>
   );
 }
