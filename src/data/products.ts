@@ -1018,4 +1018,5 @@ export const products: Product[] = [
 ];
 
 const shopeeProducts = loadShopeeProducts(products.length + 1);
-export const allProducts: Product[] = [...products, ...shopeeProducts];
+// Only real Shopee products — curated ML/Amazon products have stock photos & generic URLs
+export const allProducts: Product[] = [...shopeeProducts];
