@@ -1018,4 +1018,4 @@ export const products: Product[] = [
 ];
 
 const shopeeProducts = loadShopeeProducts(products.length + 1);
-export const allProducts: Product[] = [...shopeeProducts];
+export const allProducts: Product[] = [...products, ...shopeeProducts];
