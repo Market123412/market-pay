@@ -36,7 +36,7 @@ export default async function ProductPage({ params }: ProductPageProps) {
     .filter((p) => p.categorySlug === product.categorySlug && p.id !== product.id)
     .slice(0, 4);
 
-  const affiliateLink = getAffiliateUrl(product.affiliateUrl, product.id);
+  const affiliateLink = getAffiliateUrl(product.affiliateUrl, product.id, product.title);
 
   return (
     <div className="mx-auto max-w-7xl px-4 py-8">

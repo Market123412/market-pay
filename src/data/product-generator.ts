@@ -13,11 +13,17 @@ interface ProductTemplate {
 }
 
 const sources: AffiliateSource[] = ["mercadolivre", "amazon", "shopee"];
-const affiliateUrls: Record<AffiliateSource, string> = {
-  mercadolivre: "https://mercadolivre.com.br",
-  amazon: "https://amazon.com.br",
-  shopee: "https://shopee.com.br",
-};
+function buildAffiliateUrl(source: AffiliateSource, productName: string): string {
+  const q = encodeURIComponent(productName);
+  switch (source) {
+    case "mercadolivre":
+      return `https://lista.mercadolivre.com.br/${q.replace(/%20/g, "-")}`;
+    case "amazon":
+      return `https://www.amazon.com.br/s?k=${q}&tag=marketpaycomm-20`;
+    case "shopee":
+      return `https://shopee.com.br/search?keyword=${q}`;
+  }
+}
 
 const reviewAuthors = [
   "Lucas R.", "Maria S.", "Pedro H.", "Julia F.", "Rafael M.", "Camila O.",
@@ -832,7 +838,7 @@ export function generateAllProducts(startId: number): Product[] {
         category: template.category,
         categorySlug: template.categorySlug,
         source,
-        affiliateUrl: affiliateUrls[source],
+        affiliateUrl: buildAffiliateUrl(source, name),
         rating: Math.min(rating, 5.0),
         reviewCount,
         reviews: generateReviews(seed, template.categorySlug),

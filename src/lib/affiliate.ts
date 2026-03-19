@@ -25,8 +25,33 @@ export function formatPrice(price: number): string {
   });
 }
 
-export function getAffiliateUrl(baseUrl: string, productId: string): string {
-  // In production, append your affiliate tag/ID here
-  // Example: `${baseUrl}?tag=YOUR_AFFILIATE_ID&ref=mp-${productId}`
-  return `${baseUrl}?ref=marketpay-${productId}`;
+export function getAffiliateUrl(baseUrl: string, productId: string, title?: string): string {
+  // Shopee datafeed links (shope.ee/an_redir) — already have affiliate tracking
+  if (baseUrl.includes("shope.ee/")) {
+    return baseUrl;
+  }
+
+  // If the URL is just a store homepage/search, build a proper search link using the title
+  const isGenericUrl =
+    baseUrl === "https://mercadolivre.com.br" ||
+    baseUrl === "https://amazon.com.br" ||
+    baseUrl === "https://shopee.com.br" ||
+    baseUrl.match(/^https?:\/\/[^/]+\/?$/);
+
+  if (isGenericUrl && title) {
+    const q = encodeURIComponent(title);
+    if (baseUrl.includes("mercadolivre")) {
+      return `https://lista.mercadolivre.com.br/${q.replace(/%20/g, "-")}`;
+    }
+    if (baseUrl.includes("amazon")) {
+      return `https://www.amazon.com.br/s?k=${q}&tag=marketpaycomm-20`;
+    }
+    if (baseUrl.includes("shopee")) {
+      return `https://shopee.com.br/search?keyword=${q}`;
+    }
+  }
+
+  // URLs with actual product paths — append ref
+  const separator = baseUrl.includes("?") ? "&" : "?";
+  return `${baseUrl}${separator}ref=marketpay-${productId}`;
 }
