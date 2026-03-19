@@ -56,7 +56,7 @@ export default function HeroBanner() {
               <span className="text-yellow-300">Compre com confiança.</span>
             </h1>
             <p className="mt-4 max-w-lg text-base text-emerald-100 sm:text-lg lg:mx-0 mx-auto">
-              Reunimos as melhores ofertas do Mercado Livre, Amazon e Shopee para você
+              Reunimos os melhores achadinhos com as melhores ofertas do Mercado Livre, Amazon e Shopee para você
               encontrar o menor preço.
             </p>
             <div className="mt-6 flex flex-wrap justify-center gap-3 lg:justify-start">
