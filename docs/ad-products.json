@@ -1,0 +1,1051 @@
+{
+  "generatedAt": "2026-03-20T00:21:53.735Z",
+  "totalAdSets": 24,
+  "summary": {
+    "byPlatform": {
+      "meta": 8,
+      "google": 8,
+      "tiktok": 5,
+      "pinterest": 3
+    },
+    "byCategory": {
+      "eletronicos": 3,
+      "moda": 4,
+      "casa-decoracao": 3,
+      "beleza-saude": 4,
+      "esportes": 3,
+      "games": 3,
+      "livros": 2,
+      "automotivo": 2
+    }
+  },
+  "adSets": [
+    {
+      "platform": "Meta Ads (Facebook/Instagram)",
+      "platformId": "meta",
+      "format": "carrossel",
+      "category": "Eletrônicos",
+      "categorySlug": "eletronicos",
+      "audience": "Homens 18-35",
+      "metaInterests": "Tecnologia, Smartphones, Gadgets",
+      "productsPerAd": 5,
+      "products": [
+        {
+          "id": "ml-MLB64162276",
+          "title": "Capa Controle Remoto Case De Silicone Tv LG Magic Vermelha Vermelho",
+          "price": 26.06,
+          "discount": 25,
+          "image": "https://http2.mlstatic.com/D_NQ_NP_990000-MLA104459020825_012026-F.jpg",
+          "source": "mercadolivre",
+          "productUrl": "https://marketpaycommerce.netlify.app/produto/ml-MLB64162276?utm_source=meta&utm_medium=cpc&utm_campaign=eletronicos_carrossel&utm_content=2026-03-20&utm_term=ml-MLB64162276"
+        },
+        {
+          "id": "ml-MLB57492226",
+          "title": "Samsung Galaxy Buds Core, Fone De Ouvido, Sem Fio, Cancelamento De Ruído, Interprete Inteligente Branco",
+          "price": 252.74,
+          "discount": 28,
+          "image": "https://http2.mlstatic.com/D_NQ_NP_730937-MLA95695159026_102025-F.jpg",
+          "source": "mercadolivre",
+          "productUrl": "https://marketpaycommerce.netlify.app/produto/ml-MLB57492226?utm_source=meta&utm_medium=cpc&utm_campaign=eletronicos_carrossel&utm_content=2026-03-20&utm_term=ml-MLB57492226"
+        },
+        {
+          "id": "shp-22595819958",
+          "title": "Carregador Rápido De Parede UGREEN 65W 30W 20W GaN Para Tablet PD 3.0 3.0 4.0 SCP PPS iPhone 14 pro Max Mais USB C Carga",
+          "price": 186.9,
+          "discount": 62,
+          "image": "https://cf.shopee.com.br/file/cn-11134207-7qukw-lh8fjlf5v61o64",
+          "source": "shopee",
+          "productUrl": "https://marketpaycommerce.netlify.app/produto/shp-22595819958?utm_source=meta&utm_medium=cpc&utm_campaign=eletronicos_carrossel&utm_content=2026-03-20&utm_term=shp-22595819958"
+        },
+        {
+          "id": "ml-MLB1040287802",
+          "title": "Apple iPhone 16 (128 GB) - Rosa - Distribuidor Autorizado",
+          "price": 5046.67,
+          "discount": 35,
+          "image": "https://http2.mlstatic.com/D_NQ_NP_814556-MLA95640549800_102025-F.jpg",
+          "source": "mercadolivre",
+          "productUrl": "https://marketpaycommerce.netlify.app/produto/ml-MLB1040287802?utm_source=meta&utm_medium=cpc&utm_campaign=eletronicos_carrossel&utm_content=2026-03-20&utm_term=ml-MLB1040287802"
+        },
+        {
+          "id": "ml-MLB63117057",
+          "title": "Capa Controle Remoto Silicone Smart Tv Samsung Cores Azul",
+          "price": 21.96,
+          "discount": 56,
+          "image": "https://http2.mlstatic.com/D_NQ_NP_974877-MLA100694578604_122025-F.jpg",
+          "source": "mercadolivre",
+          "productUrl": "https://marketpaycommerce.netlify.app/produto/ml-MLB63117057?utm_source=meta&utm_medium=cpc&utm_campaign=eletronicos_carrossel&utm_content=2026-03-20&utm_term=ml-MLB63117057"
+        }
+      ],
+      "categoryUrl": "https://marketpaycommerce.netlify.app/categoria/eletronicos?utm_source=meta&utm_medium=cpc&utm_campaign=eletronicos_carrossel&utm_content=2026-03-20",
+      "suggestedCopy": {
+        "headline": "Eletrônicos com até 62% OFF",
+        "primaryText": "Comparamos preços no Mercado Livre, Amazon e Shopee. Confira as melhores ofertas de Eletrônicos!",
+        "cta": "Ver Ofertas"
+      }
+    },
+    {
+      "platform": "Google Ads",
+      "platformId": "google",
+      "format": "search",
+      "category": "Eletrônicos",
+      "categorySlug": "eletronicos",
+      "audience": "Homens 18-35",
+      "metaInterests": "Tecnologia, Smartphones, Gadgets",
+      "productsPerAd": 1,
+      "products": [
+        {
+          "id": "ml-MLB64162276",
+          "title": "Capa Controle Remoto Case De Silicone Tv LG Magic Vermelha Vermelho",
+          "price": 26.06,
+          "discount": 25,
+          "image": "https://http2.mlstatic.com/D_NQ_NP_990000-MLA104459020825_012026-F.jpg",
+          "source": "mercadolivre",
+          "productUrl": "https://marketpaycommerce.netlify.app/produto/ml-MLB64162276?utm_source=google&utm_medium=cpc&utm_campaign=eletronicos_search&utm_content=2026-03-20&utm_term=ml-MLB64162276"
+        }
+      ],
+      "categoryUrl": "https://marketpaycommerce.netlify.app/categoria/eletronicos?utm_source=google&utm_medium=cpc&utm_campaign=eletronicos_search&utm_content=2026-03-20",
+      "suggestedCopy": {
+        "headline": "Capa Controle Remoto Case De S - R$ 26,06",
+        "description": "Melhor preço de Eletrônicos. Compare Mercado Livre, Shopee e Amazon. Frete grátis disponível.",
+        "keywords": [
+          "melhor preço eletrônicos",
+          "eletrônicos barato",
+          "oferta eletrônicos",
+          "comprar eletrônicos online"
+        ]
+      }
+    },
+    {
+      "platform": "TikTok Ads",
+      "platformId": "tiktok",
+      "format": "video",
+      "category": "Eletrônicos",
+      "categorySlug": "eletronicos",
+      "audience": "Homens 18-35",
+      "metaInterests": "Tecnologia, Smartphones, Gadgets",
+      "productsPerAd": 1,
+      "products": [
+        {
+          "id": "ml-MLB64162276",
+          "title": "Capa Controle Remoto Case De Silicone Tv LG Magic Vermelha Vermelho",
+          "price": 26.06,
+          "discount": 25,
+          "image": "https://http2.mlstatic.com/D_NQ_NP_990000-MLA104459020825_012026-F.jpg",
+          "source": "mercadolivre",
+          "productUrl": "https://marketpaycommerce.netlify.app/produto/ml-MLB64162276?utm_source=tiktok&utm_medium=cpc&utm_campaign=eletronicos_video&utm_content=2026-03-20&utm_term=ml-MLB64162276"
+        }
+      ],
+      "categoryUrl": "https://marketpaycommerce.netlify.app/categoria/eletronicos?utm_source=tiktok&utm_medium=cpc&utm_campaign=eletronicos_video&utm_content=2026-03-20",
+      "suggestedCopy": {
+        "hook": "Achei eletrônicos MUITO barato",
+        "script": "\"Olha esse Capa Controle Remoto Case De Silicone Tv por apenas R$ 26,06! Link na bio.\"",
+        "hashtags": "#achadinhos #oferta #eletronicos #mercadolivre #shopee"
+      }
+    },
+    {
+      "platform": "Meta Ads (Facebook/Instagram)",
+      "platformId": "meta",
+      "format": "carrossel",
+      "category": "Moda",
+      "categorySlug": "moda",
+      "audience": "Mulheres 18-40",
+      "metaInterests": "Moda, Compras Online, Fast Fashion",
+      "productsPerAd": 5,
+      "products": [
+        {
+          "id": "shp-41656659705",
+          "title": "Lovito Vestido Elegante com Babados Acabamento em Contraste Primavera/verão Vestido Rosa claro L137LD113",
+          "price": 65.97,
+          "discount": 29,
+          "image": "https://cf.shopee.com.br/file/sg-11134201-7rdxa-mbxq4x86cp5x8c",
+          "source": "shopee",
+          "productUrl": "https://marketpaycommerce.netlify.app/produto/shp-41656659705?utm_source=meta&utm_medium=cpc&utm_campaign=moda_carrossel&utm_content=2026-03-20&utm_term=shp-41656659705"
+        },
+        {
+          "id": "shp-29582579320",
+          "title": "Relógio Masculino e Feminino Preto Saint Germain - Houston Rosé Gold 40mm",
+          "price": 155.8,
+          "discount": 57,
+          "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m8c3btt8noj507",
+          "source": "shopee",
+          "productUrl": "https://marketpaycommerce.netlify.app/produto/shp-29582579320?utm_source=meta&utm_medium=cpc&utm_campaign=moda_carrossel&utm_content=2026-03-20&utm_term=shp-29582579320"
+        },
+        {
+          "id": "shp-26989966510",
+          "title": "Lovito Sandálias Rasteiras Casuais Clássicas e Versáteis para mulheres LFA91159",
+          "price": 67.05,
+          "discount": 37,
+          "image": "https://cf.shopee.com.br/file/sg-11134201-8258o-mg3mb9dug55859",
+          "source": "shopee",
+          "productUrl": "https://marketpaycommerce.netlify.app/produto/shp-26989966510?utm_source=meta&utm_medium=cpc&utm_campaign=moda_carrossel&utm_content=2026-03-20&utm_term=shp-26989966510"
+        },
+        {
+          "id": "shp-44603515419",
+          "title": "Lovito  Blusa Casual Botão Primavera/verão Blusa Branca para Mulheres L171ED163",
+          "price": 37.9,
+          "discount": 30,
+          "image": "https://cf.shopee.com.br/file/sg-11134201-8261k-mji4tn5gcr2e43",
+          "source": "shopee",
+          "productUrl": "https://marketpaycommerce.netlify.app/produto/shp-44603515419?utm_source=meta&utm_medium=cpc&utm_campaign=moda_carrossel&utm_content=2026-03-20&utm_term=shp-44603515419"
+        },
+        {
+          "id": "shp-23492892974",
+          "title": "Relógio Mondaine Feminino Analógico Dourado MIni 32589LPMVDM1",
+          "price": 269.93,
+          "discount": 25,
+          "image": "https://cf.shopee.com.br/file/sg-11134201-7rfhu-m3oxfm1z34wyc2",
+          "source": "shopee",
+          "productUrl": "https://marketpaycommerce.netlify.app/produto/shp-23492892974?utm_source=meta&utm_medium=cpc&utm_campaign=moda_carrossel&utm_content=2026-03-20&utm_term=shp-23492892974"
+        }
+      ],
+      "categoryUrl": "https://marketpaycommerce.netlify.app/categoria/moda?utm_source=meta&utm_medium=cpc&utm_campaign=moda_carrossel&utm_content=2026-03-20",
+      "suggestedCopy": {
+        "headline": "Moda com até 57% OFF",
+        "primaryText": "Comparamos preços no Mercado Livre, Amazon e Shopee. Confira as melhores ofertas de Moda!",
+        "cta": "Ver Ofertas"
+      }
+    },
+    {
+      "platform": "Google Ads",
+      "platformId": "google",
+      "format": "search",
+      "category": "Moda",
+      "categorySlug": "moda",
+      "audience": "Mulheres 18-40",
+      "metaInterests": "Moda, Compras Online, Fast Fashion",
+      "productsPerAd": 1,
+      "products": [
+        {
+          "id": "shp-41656659705",
+          "title": "Lovito Vestido Elegante com Babados Acabamento em Contraste Primavera/verão Vestido Rosa claro L137LD113",
+          "price": 65.97,
+          "discount": 29,
+          "image": "https://cf.shopee.com.br/file/sg-11134201-7rdxa-mbxq4x86cp5x8c",
+          "source": "shopee",
+          "productUrl": "https://marketpaycommerce.netlify.app/produto/shp-41656659705?utm_source=google&utm_medium=cpc&utm_campaign=moda_search&utm_content=2026-03-20&utm_term=shp-41656659705"
+        }
+      ],
+      "categoryUrl": "https://marketpaycommerce.netlify.app/categoria/moda?utm_source=google&utm_medium=cpc&utm_campaign=moda_search&utm_content=2026-03-20",
+      "suggestedCopy": {
+        "headline": "Lovito Vestido Elegante com Ba - R$ 65,97",
+        "description": "Melhor preço de Moda. Compare Mercado Livre, Shopee e Amazon. Frete grátis disponível.",
+        "keywords": [
+          "melhor preço moda",
+          "moda barato",
+          "oferta moda",
+          "comprar moda online"
+        ]
+      }
+    },
+    {
+      "platform": "TikTok Ads",
+      "platformId": "tiktok",
+      "format": "video",
+      "category": "Moda",
+      "categorySlug": "moda",
+      "audience": "Mulheres 18-40",
+      "metaInterests": "Moda, Compras Online, Fast Fashion",
+      "productsPerAd": 1,
+      "products": [
+        {
+          "id": "shp-41656659705",
+          "title": "Lovito Vestido Elegante com Babados Acabamento em Contraste Primavera/verão Vestido Rosa claro L137LD113",
+          "price": 65.97,
+          "discount": 29,
+          "image": "https://cf.shopee.com.br/file/sg-11134201-7rdxa-mbxq4x86cp5x8c",
+          "source": "shopee",
+          "productUrl": "https://marketpaycommerce.netlify.app/produto/shp-41656659705?utm_source=tiktok&utm_medium=cpc&utm_campaign=moda_video&utm_content=2026-03-20&utm_term=shp-41656659705"
+        }
+      ],
+      "categoryUrl": "https://marketpaycommerce.netlify.app/categoria/moda?utm_source=tiktok&utm_medium=cpc&utm_campaign=moda_video&utm_content=2026-03-20",
+      "suggestedCopy": {
+        "hook": "Achei moda MUITO barato",
+        "script": "\"Olha esse Lovito Vestido Elegante com Babados Acab por apenas R$ 65,97! Link na bio.\"",
+        "hashtags": "#achadinhos #oferta #moda #mercadolivre #shopee"
+      }
+    },
+    {
+      "platform": "Pinterest Ads",
+      "platformId": "pinterest",
+      "format": "pin",
+      "category": "Moda",
+      "categorySlug": "moda",
+      "audience": "Mulheres 18-40",
+      "metaInterests": "Moda, Compras Online, Fast Fashion",
+      "productsPerAd": 3,
+      "products": [
+        {
+          "id": "shp-41656659705",
+          "title": "Lovito Vestido Elegante com Babados Acabamento em Contraste Primavera/verão Vestido Rosa claro L137LD113",
+          "price": 65.97,
+          "discount": 29,
+          "image": "https://cf.shopee.com.br/file/sg-11134201-7rdxa-mbxq4x86cp5x8c",
+          "source": "shopee",
+          "productUrl": "https://marketpaycommerce.netlify.app/produto/shp-41656659705?utm_source=pinterest&utm_medium=cpc&utm_campaign=moda_pin&utm_content=2026-03-20&utm_term=shp-41656659705"
+        },
+        {
+          "id": "shp-29582579320",
+          "title": "Relógio Masculino e Feminino Preto Saint Germain - Houston Rosé Gold 40mm",
+          "price": 155.8,
+          "discount": 57,
+          "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m8c3btt8noj507",
+          "source": "shopee",
+          "productUrl": "https://marketpaycommerce.netlify.app/produto/shp-29582579320?utm_source=pinterest&utm_medium=cpc&utm_campaign=moda_pin&utm_content=2026-03-20&utm_term=shp-29582579320"
+        },
+        {
+          "id": "shp-26989966510",
+          "title": "Lovito Sandálias Rasteiras Casuais Clássicas e Versáteis para mulheres LFA91159",
+          "price": 67.05,
+          "discount": 37,
+          "image": "https://cf.shopee.com.br/file/sg-11134201-8258o-mg3mb9dug55859",
+          "source": "shopee",
+          "productUrl": "https://marketpaycommerce.netlify.app/produto/shp-26989966510?utm_source=pinterest&utm_medium=cpc&utm_campaign=moda_pin&utm_content=2026-03-20&utm_term=shp-26989966510"
+        }
+      ],
+      "categoryUrl": "https://marketpaycommerce.netlify.app/categoria/moda?utm_source=pinterest&utm_medium=cpc&utm_campaign=moda_pin&utm_content=2026-03-20",
+      "suggestedCopy": {
+        "title": "Lovito Vestido Elegante com Babados Acabamento em  - R$ 65,97",
+        "description": "Confira ofertas de Moda. Compare preços no Mercado Livre, Shopee e Amazon."
+      }
+    },
+    {
+      "platform": "Meta Ads (Facebook/Instagram)",
+      "platformId": "meta",
+      "format": "carrossel",
+      "category": "Casa & Decoração",
+      "categorySlug": "casa-decoracao",
+      "audience": "Todos 25-45",
+      "metaInterests": "Decoração, Casa, Organização",
+      "productsPerAd": 5,
+      "products": [
+        {
+          "id": "shp-17092369141",
+          "title": "Caixa Organizadora Empilhável de Bambu E Palhinha 32cm - Oikos",
+          "price": 138.99,
+          "discount": 20,
+          "image": "https://cf.shopee.com.br/file/sg-11134201-8262b-mlfin3jph3bjc5",
+          "source": "shopee",
+          "productUrl": "https://marketpaycommerce.netlify.app/produto/shp-17092369141?utm_source=meta&utm_medium=cpc&utm_campaign=casa-decoracao_carrossel&utm_content=2026-03-20&utm_term=shp-17092369141"
+        },
+        {
+          "id": "shp-14881798050",
+          "title": "Jogo de Porta Copos Quadrado de Bambu 6pcs - Oikos",
+          "price": 53.99,
+          "discount": 24,
+          "image": "https://cf.shopee.com.br/file/sg-11134201-8262h-mlep6o3ixeyq92",
+          "source": "shopee",
+          "productUrl": "https://marketpaycommerce.netlify.app/produto/shp-14881798050?utm_source=meta&utm_medium=cpc&utm_campaign=casa-decoracao_carrossel&utm_content=2026-03-20&utm_term=shp-14881798050"
+        },
+        {
+          "id": "shp-20099237648",
+          "title": "Kit 8 Balizador Led Externo IP65 Super Led 2w Luz Quente Padrão Escada Parede Sobrepor Bivolt",
+          "price": 79.8,
+          "discount": 60,
+          "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m6zethgw0h0w52",
+          "source": "shopee",
+          "productUrl": "https://marketpaycommerce.netlify.app/produto/shp-20099237648?utm_source=meta&utm_medium=cpc&utm_campaign=casa-decoracao_carrossel&utm_content=2026-03-20&utm_term=shp-20099237648"
+        },
+        {
+          "id": "shp-21599828760",
+          "title": "Guarda-Roupa Batrol Magia Infantil 2 Portas 2 Gavetas",
+          "price": 589.9,
+          "discount": 36,
+          "image": "https://cf.shopee.com.br/file/sg-11134201-7ra3m-mbcvr62v8m7qcb",
+          "source": "shopee",
+          "productUrl": "https://marketpaycommerce.netlify.app/produto/shp-21599828760?utm_source=meta&utm_medium=cpc&utm_campaign=casa-decoracao_carrossel&utm_content=2026-03-20&utm_term=shp-21599828760"
+        },
+        {
+          "id": "shp-23197580408",
+          "title": "Conjunto Mesa de Jantar 160cm com 6 Cadeiras Madeira Maciça Estilo Colonial Multimóveis CR50085",
+          "price": 2099.99,
+          "discount": 23,
+          "image": "https://cf.shopee.com.br/file/sg-11134201-7repv-m90pmw1a0t0nc0",
+          "source": "shopee",
+          "productUrl": "https://marketpaycommerce.netlify.app/produto/shp-23197580408?utm_source=meta&utm_medium=cpc&utm_campaign=casa-decoracao_carrossel&utm_content=2026-03-20&utm_term=shp-23197580408"
+        }
+      ],
+      "categoryUrl": "https://marketpaycommerce.netlify.app/categoria/casa-decoracao?utm_source=meta&utm_medium=cpc&utm_campaign=casa-decoracao_carrossel&utm_content=2026-03-20",
+      "suggestedCopy": {
+        "headline": "Casa & Decoração com até 60% OFF",
+        "primaryText": "Comparamos preços no Mercado Livre, Amazon e Shopee. Confira as melhores ofertas de Casa & Decoração!",
+        "cta": "Ver Ofertas"
+      }
+    },
+    {
+      "platform": "Google Ads",
+      "platformId": "google",
+      "format": "search",
+      "category": "Casa & Decoração",
+      "categorySlug": "casa-decoracao",
+      "audience": "Todos 25-45",
+      "metaInterests": "Decoração, Casa, Organização",
+      "productsPerAd": 1,
+      "products": [
+        {
+          "id": "shp-17092369141",
+          "title": "Caixa Organizadora Empilhável de Bambu E Palhinha 32cm - Oikos",
+          "price": 138.99,
+          "discount": 20,
+          "image": "https://cf.shopee.com.br/file/sg-11134201-8262b-mlfin3jph3bjc5",
+          "source": "shopee",
+          "productUrl": "https://marketpaycommerce.netlify.app/produto/shp-17092369141?utm_source=google&utm_medium=cpc&utm_campaign=casa-decoracao_search&utm_content=2026-03-20&utm_term=shp-17092369141"
+        }
+      ],
+      "categoryUrl": "https://marketpaycommerce.netlify.app/categoria/casa-decoracao?utm_source=google&utm_medium=cpc&utm_campaign=casa-decoracao_search&utm_content=2026-03-20",
+      "suggestedCopy": {
+        "headline": "Caixa Organizadora Empilhável  - R$ 138,99",
+        "description": "Melhor preço de Casa & Decoração. Compare Mercado Livre, Shopee e Amazon. Frete grátis disponível.",
+        "keywords": [
+          "melhor preço casa & decoração",
+          "casa & decoração barato",
+          "oferta casa & decoração",
+          "comprar casa & decoração online"
+        ]
+      }
+    },
+    {
+      "platform": "Pinterest Ads",
+      "platformId": "pinterest",
+      "format": "pin",
+      "category": "Casa & Decoração",
+      "categorySlug": "casa-decoracao",
+      "audience": "Todos 25-45",
+      "metaInterests": "Decoração, Casa, Organização",
+      "productsPerAd": 3,
+      "products": [
+        {
+          "id": "shp-17092369141",
+          "title": "Caixa Organizadora Empilhável de Bambu E Palhinha 32cm - Oikos",
+          "price": 138.99,
+          "discount": 20,
+          "image": "https://cf.shopee.com.br/file/sg-11134201-8262b-mlfin3jph3bjc5",
+          "source": "shopee",
+          "productUrl": "https://marketpaycommerce.netlify.app/produto/shp-17092369141?utm_source=pinterest&utm_medium=cpc&utm_campaign=casa-decoracao_pin&utm_content=2026-03-20&utm_term=shp-17092369141"
+        },
+        {
+          "id": "shp-14881798050",
+          "title": "Jogo de Porta Copos Quadrado de Bambu 6pcs - Oikos",
+          "price": 53.99,
+          "discount": 24,
+          "image": "https://cf.shopee.com.br/file/sg-11134201-8262h-mlep6o3ixeyq92",
+          "source": "shopee",
+          "productUrl": "https://marketpaycommerce.netlify.app/produto/shp-14881798050?utm_source=pinterest&utm_medium=cpc&utm_campaign=casa-decoracao_pin&utm_content=2026-03-20&utm_term=shp-14881798050"
+        },
+        {
+          "id": "shp-20099237648",
+          "title": "Kit 8 Balizador Led Externo IP65 Super Led 2w Luz Quente Padrão Escada Parede Sobrepor Bivolt",
+          "price": 79.8,
+          "discount": 60,
+          "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-m6zethgw0h0w52",
+          "source": "shopee",
+          "productUrl": "https://marketpaycommerce.netlify.app/produto/shp-20099237648?utm_source=pinterest&utm_medium=cpc&utm_campaign=casa-decoracao_pin&utm_content=2026-03-20&utm_term=shp-20099237648"
+        }
+      ],
+      "categoryUrl": "https://marketpaycommerce.netlify.app/categoria/casa-decoracao?utm_source=pinterest&utm_medium=cpc&utm_campaign=casa-decoracao_pin&utm_content=2026-03-20",
+      "suggestedCopy": {
+        "title": "Caixa Organizadora Empilhável de Bambu E Palhinha  - R$ 138,99",
+        "description": "Confira ofertas de Casa & Decoração. Compare preços no Mercado Livre, Shopee e Amazon."
+      }
+    },
+    {
+      "platform": "Meta Ads (Facebook/Instagram)",
+      "platformId": "meta",
+      "format": "carrossel",
+      "category": "Beleza & Saúde",
+      "categorySlug": "beleza-saude",
+      "audience": "Mulheres 18-40",
+      "metaInterests": "Skincare, Maquiagem, Perfumes",
+      "productsPerAd": 5,
+      "products": [
+        {
+          "id": "shp-22797673655",
+          "title": "Creme de Pentear e Tratamento para Cachos Explosão de Café 2 em 1 1Kg – Beleza Natural",
+          "price": 41.99,
+          "discount": 28,
+          "image": "https://cf.shopee.com.br/file/sg-11134201-7rdw7-ly2v7ilwq24wdb",
+          "source": "shopee",
+          "productUrl": "https://marketpaycommerce.netlify.app/produto/shp-22797673655?utm_source=meta&utm_medium=cpc&utm_campaign=beleza-saude_carrossel&utm_content=2026-03-20&utm_term=shp-22797673655"
+        },
+        {
+          "id": "ml-MLB21835179",
+          "title": "Barbeador E Cortador De Cabelo 3 Em 1 Kemei Km-6558",
+          "price": 47.99,
+          "discount": 66,
+          "image": "https://http2.mlstatic.com/D_NQ_NP_875537-MLA99498937668_112025-F.jpg",
+          "source": "mercadolivre",
+          "productUrl": "https://marketpaycommerce.netlify.app/produto/ml-MLB21835179?utm_source=meta&utm_medium=cpc&utm_campaign=beleza-saude_carrossel&utm_content=2026-03-20&utm_term=ml-MLB21835179"
+        },
+        {
+          "id": "shp-20298202637",
+          "title": "Cadeira de Alimentação Portátil Bebê 11kgs Mickey Multikids",
+          "price": 119,
+          "discount": 70,
+          "image": "https://cf.shopee.com.br/file/sg-11134201-7rav9-masoeam9cvabf6",
+          "source": "shopee",
+          "productUrl": "https://marketpaycommerce.netlify.app/produto/shp-20298202637?utm_source=meta&utm_medium=cpc&utm_campaign=beleza-saude_carrossel&utm_content=2026-03-20&utm_term=shp-20298202637"
+        },
+        {
+          "id": "shp-58250748651",
+          "title": "Brinquedo Luminária Interativa Fundo Do Mar - Toys Import J24388",
+          "price": 149.9,
+          "discount": 25,
+          "image": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjsr38g7xvcz92",
+          "source": "shopee",
+          "productUrl": "https://marketpaycommerce.netlify.app/produto/shp-58250748651?utm_source=meta&utm_medium=cpc&utm_campaign=beleza-saude_carrossel&utm_content=2026-03-20&utm_term=shp-58250748651"
+        },
+        {
+          "id": "shp-23693838206",
+          "title": "Océane Limited Glowing Stick Spice Pink Rosa - Blush em Bastão 12g",
+          "price": 46.99,
+          "discount": 37,
+          "image": "https://cf.shopee.com.br/file/sg-11134201-7rd4a-m7jwlwkkoeltfb",
+          "source": "shopee",
+          "productUrl": "https://marketpaycommerce.netlify.app/produto/shp-23693838206?utm_source=meta&utm_medium=cpc&utm_campaign=beleza-saude_carrossel&utm_content=2026-03-20&utm_term=shp-23693838206"
+        }
+      ],
+      "categoryUrl": "https://marketpaycommerce.netlify.app/categoria/beleza-saude?utm_source=meta&utm_medium=cpc&utm_campaign=beleza-saude_carrossel&utm_content=2026-03-20",
+      "suggestedCopy": {
+        "headline": "Beleza & Saúde com até 70% OFF",
+        "primaryText": "Comparamos preços no Mercado Livre, Amazon e Shopee. Confira as melhores ofertas de Beleza & Saúde!",
+        "cta": "Ver Ofertas"
+      }
+    },
+    {
+      "platform": "Google Ads",
+      "platformId": "google",
+      "format": "search",
+      "category": "Beleza & Saúde",
+      "categorySlug": "beleza-saude",
+      "audience": "Mulheres 18-40",
+      "metaInterests": "Skincare, Maquiagem, Perfumes",
+      "productsPerAd": 1,
+      "products": [
+        {
+          "id": "shp-22797673655",
+          "title": "Creme de Pentear e Tratamento para Cachos Explosão de Café 2 em 1 1Kg – Beleza Natural",
+          "price": 41.99,
+          "discount": 28,
+          "image": "https://cf.shopee.com.br/file/sg-11134201-7rdw7-ly2v7ilwq24wdb",
+          "source": "shopee",
+          "productUrl": "https://marketpaycommerce.netlify.app/produto/shp-22797673655?utm_source=google&utm_medium=cpc&utm_campaign=beleza-saude_search&utm_content=2026-03-20&utm_term=shp-22797673655"
+        }
+      ],
+      "categoryUrl": "https://marketpaycommerce.netlify.app/categoria/beleza-saude?utm_source=google&utm_medium=cpc&utm_campaign=beleza-saude_search&utm_content=2026-03-20",
+      "suggestedCopy": {
+        "headline": "Creme de Pentear e Tratamento  - R$ 41,99",
+        "description": "Melhor preço de Beleza & Saúde. Compare Mercado Livre, Shopee e Amazon. Frete grátis disponível.",
+        "keywords": [
+          "melhor preço beleza & saúde",
+          "beleza & saúde barato",
+          "oferta beleza & saúde",
+          "comprar beleza & saúde online"
+        ]
+      }
+    },
+    {
+      "platform": "TikTok Ads",
+      "platformId": "tiktok",
+      "format": "video",
+      "category": "Beleza & Saúde",
+      "categorySlug": "beleza-saude",
+      "audience": "Mulheres 18-40",
+      "metaInterests": "Skincare, Maquiagem, Perfumes",
+      "productsPerAd": 1,
+      "products": [
+        {
+          "id": "shp-22797673655",
+          "title": "Creme de Pentear e Tratamento para Cachos Explosão de Café 2 em 1 1Kg – Beleza Natural",
+          "price": 41.99,
+          "discount": 28,
+          "image": "https://cf.shopee.com.br/file/sg-11134201-7rdw7-ly2v7ilwq24wdb",
+          "source": "shopee",
+          "productUrl": "https://marketpaycommerce.netlify.app/produto/shp-22797673655?utm_source=tiktok&utm_medium=cpc&utm_campaign=beleza-saude_video&utm_content=2026-03-20&utm_term=shp-22797673655"
+        }
+      ],
+      "categoryUrl": "https://marketpaycommerce.netlify.app/categoria/beleza-saude?utm_source=tiktok&utm_medium=cpc&utm_campaign=beleza-saude_video&utm_content=2026-03-20",
+      "suggestedCopy": {
+        "hook": "Achei beleza & saúde MUITO barato",
+        "script": "\"Olha esse Creme de Pentear e Tratamento para Cacho por apenas R$ 41,99! Link na bio.\"",
+        "hashtags": "#achadinhos #oferta #belezasaude #mercadolivre #shopee"
+      }
+    },
+    {
+      "platform": "Pinterest Ads",
+      "platformId": "pinterest",
+      "format": "pin",
+      "category": "Beleza & Saúde",
+      "categorySlug": "beleza-saude",
+      "audience": "Mulheres 18-40",
+      "metaInterests": "Skincare, Maquiagem, Perfumes",
+      "productsPerAd": 3,
+      "products": [
+        {
+          "id": "shp-22797673655",
+          "title": "Creme de Pentear e Tratamento para Cachos Explosão de Café 2 em 1 1Kg – Beleza Natural",
+          "price": 41.99,
+          "discount": 28,
+          "image": "https://cf.shopee.com.br/file/sg-11134201-7rdw7-ly2v7ilwq24wdb",
+          "source": "shopee",
+          "productUrl": "https://marketpaycommerce.netlify.app/produto/shp-22797673655?utm_source=pinterest&utm_medium=cpc&utm_campaign=beleza-saude_pin&utm_content=2026-03-20&utm_term=shp-22797673655"
+        },
+        {
+          "id": "ml-MLB21835179",
+          "title": "Barbeador E Cortador De Cabelo 3 Em 1 Kemei Km-6558",
+          "price": 47.99,
+          "discount": 66,
+          "image": "https://http2.mlstatic.com/D_NQ_NP_875537-MLA99498937668_112025-F.jpg",
+          "source": "mercadolivre",
+          "productUrl": "https://marketpaycommerce.netlify.app/produto/ml-MLB21835179?utm_source=pinterest&utm_medium=cpc&utm_campaign=beleza-saude_pin&utm_content=2026-03-20&utm_term=ml-MLB21835179"
+        },
+        {
+          "id": "shp-20298202637",
+          "title": "Cadeira de Alimentação Portátil Bebê 11kgs Mickey Multikids",
+          "price": 119,
+          "discount": 70,
+          "image": "https://cf.shopee.com.br/file/sg-11134201-7rav9-masoeam9cvabf6",
+          "source": "shopee",
+          "productUrl": "https://marketpaycommerce.netlify.app/produto/shp-20298202637?utm_source=pinterest&utm_medium=cpc&utm_campaign=beleza-saude_pin&utm_content=2026-03-20&utm_term=shp-20298202637"
+        }
+      ],
+      "categoryUrl": "https://marketpaycommerce.netlify.app/categoria/beleza-saude?utm_source=pinterest&utm_medium=cpc&utm_campaign=beleza-saude_pin&utm_content=2026-03-20",
+      "suggestedCopy": {
+        "title": "Creme de Pentear e Tratamento para Cachos Explosão - R$ 41,99",
+        "description": "Confira ofertas de Beleza & Saúde. Compare preços no Mercado Livre, Shopee e Amazon."
+      }
+    },
+    {
+      "platform": "Meta Ads (Facebook/Instagram)",
+      "platformId": "meta",
+      "format": "carrossel",
+      "category": "Esportes",
+      "categorySlug": "esportes",
+      "audience": "Todos 20-40",
+      "metaInterests": "Academia, Suplementos, Fitness",
+      "productsPerAd": 5,
+      "products": [
+        {
+          "id": "ml-MLB25410328",
+          "title": "Bola de Basquete XH Tamanho Pro Nº7 Vermelha + Bomba",
+          "price": 37.99,
+          "discount": 42,
+          "image": "https://http2.mlstatic.com/D_NQ_NP_789517-MLA100073342987_122025-F.jpg",
+          "source": "mercadolivre",
+          "productUrl": "https://marketpaycommerce.netlify.app/produto/ml-MLB25410328?utm_source=meta&utm_medium=cpc&utm_campaign=esportes_carrossel&utm_content=2026-03-20&utm_term=ml-MLB25410328"
+        },
+        {
+          "id": "ml-MLB56066268",
+          "title": "Kit Luva Naja + Bolsa + Bandagem + Bucal - Boxe Muay Thai Cor Dourado Tamanho 10oz",
+          "price": 279.9,
+          "discount": 27,
+          "image": "https://http2.mlstatic.com/D_NQ_NP_623742-MLA100173654647_122025-F.jpg",
+          "source": "mercadolivre",
+          "productUrl": "https://marketpaycommerce.netlify.app/produto/ml-MLB56066268?utm_source=meta&utm_medium=cpc&utm_campaign=esportes_carrossel&utm_content=2026-03-20&utm_term=ml-MLB56066268"
+        },
+        {
+          "id": "shp-23897765563",
+          "title": "BICICLETA BIKE ARO 29 MTB ALUMÍNIO ABSOLUTE OU KSX 24V MARCHAS INDEX CABEAMENTO INTERNO UNISSEX",
+          "price": 1019.99,
+          "discount": 32,
+          "image": "https://cf.shopee.com.br/file/br-11134211-81z1k-mesly5h7fbpe7d",
+          "source": "shopee",
+          "productUrl": "https://marketpaycommerce.netlify.app/produto/shp-23897765563?utm_source=meta&utm_medium=cpc&utm_campaign=esportes_carrossel&utm_content=2026-03-20&utm_term=shp-23897765563"
+        },
+        {
+          "id": "shp-42363827355",
+          "title": "GRUPO RELAÇÃO ABSOLUTE WILD 2 12V CASSETE K7 11/50 COROA 34D CÂMBIO ALAVANCA CORRENTE SUNRACE 1X12 MTB",
+          "price": 695.19,
+          "discount": 25,
+          "image": "https://cf.shopee.com.br/file/sg-11134201-7rdxa-mdkgu9c81rssc4",
+          "source": "shopee",
+          "productUrl": "https://marketpaycommerce.netlify.app/produto/shp-42363827355?utm_source=meta&utm_medium=cpc&utm_campaign=esportes_carrossel&utm_content=2026-03-20&utm_term=shp-42363827355"
+        },
+        {
+          "id": "shp-19499716452",
+          "title": "Top Light Rosa Chá SND Fitness",
+          "price": 89.9,
+          "discount": 18,
+          "image": "https://cf.shopee.com.br/file/sg-11134201-7rfh3-m9gavigldl1ce8",
+          "source": "shopee",
+          "productUrl": "https://marketpaycommerce.netlify.app/produto/shp-19499716452?utm_source=meta&utm_medium=cpc&utm_campaign=esportes_carrossel&utm_content=2026-03-20&utm_term=shp-19499716452"
+        }
+      ],
+      "categoryUrl": "https://marketpaycommerce.netlify.app/categoria/esportes?utm_source=meta&utm_medium=cpc&utm_campaign=esportes_carrossel&utm_content=2026-03-20",
+      "suggestedCopy": {
+        "headline": "Esportes com até 42% OFF",
+        "primaryText": "Comparamos preços no Mercado Livre, Amazon e Shopee. Confira as melhores ofertas de Esportes!",
+        "cta": "Ver Ofertas"
+      }
+    },
+    {
+      "platform": "Google Ads",
+      "platformId": "google",
+      "format": "search",
+      "category": "Esportes",
+      "categorySlug": "esportes",
+      "audience": "Todos 20-40",
+      "metaInterests": "Academia, Suplementos, Fitness",
+      "productsPerAd": 1,
+      "products": [
+        {
+          "id": "ml-MLB25410328",
+          "title": "Bola de Basquete XH Tamanho Pro Nº7 Vermelha + Bomba",
+          "price": 37.99,
+          "discount": 42,
+          "image": "https://http2.mlstatic.com/D_NQ_NP_789517-MLA100073342987_122025-F.jpg",
+          "source": "mercadolivre",
+          "productUrl": "https://marketpaycommerce.netlify.app/produto/ml-MLB25410328?utm_source=google&utm_medium=cpc&utm_campaign=esportes_search&utm_content=2026-03-20&utm_term=ml-MLB25410328"
+        }
+      ],
+      "categoryUrl": "https://marketpaycommerce.netlify.app/categoria/esportes?utm_source=google&utm_medium=cpc&utm_campaign=esportes_search&utm_content=2026-03-20",
+      "suggestedCopy": {
+        "headline": "Bola de Basquete XH Tamanho Pr - R$ 37,99",
+        "description": "Melhor preço de Esportes. Compare Mercado Livre, Shopee e Amazon. Frete grátis disponível.",
+        "keywords": [
+          "melhor preço esportes",
+          "esportes barato",
+          "oferta esportes",
+          "comprar esportes online"
+        ]
+      }
+    },
+    {
+      "platform": "TikTok Ads",
+      "platformId": "tiktok",
+      "format": "video",
+      "category": "Esportes",
+      "categorySlug": "esportes",
+      "audience": "Todos 20-40",
+      "metaInterests": "Academia, Suplementos, Fitness",
+      "productsPerAd": 1,
+      "products": [
+        {
+          "id": "ml-MLB25410328",
+          "title": "Bola de Basquete XH Tamanho Pro Nº7 Vermelha + Bomba",
+          "price": 37.99,
+          "discount": 42,
+          "image": "https://http2.mlstatic.com/D_NQ_NP_789517-MLA100073342987_122025-F.jpg",
+          "source": "mercadolivre",
+          "productUrl": "https://marketpaycommerce.netlify.app/produto/ml-MLB25410328?utm_source=tiktok&utm_medium=cpc&utm_campaign=esportes_video&utm_content=2026-03-20&utm_term=ml-MLB25410328"
+        }
+      ],
+      "categoryUrl": "https://marketpaycommerce.netlify.app/categoria/esportes?utm_source=tiktok&utm_medium=cpc&utm_campaign=esportes_video&utm_content=2026-03-20",
+      "suggestedCopy": {
+        "hook": "Achei esportes MUITO barato",
+        "script": "\"Olha esse Bola de Basquete XH Tamanho Pro Nº7 Verm por apenas R$ 37,99! Link na bio.\"",
+        "hashtags": "#achadinhos #oferta #esportes #mercadolivre #shopee"
+      }
+    },
+    {
+      "platform": "Meta Ads (Facebook/Instagram)",
+      "platformId": "meta",
+      "format": "carrossel",
+      "category": "Games",
+      "categorySlug": "games",
+      "audience": "Homens 16-30",
+      "metaInterests": "PlayStation, Xbox, PC Gaming",
+      "productsPerAd": 5,
+      "products": [
+        {
+          "id": "ml-MLB28815337",
+          "title": "Escorregador Infantil Medio 3 Degraus - Linha A Escorrega Cor Amarelo c/ Vermelho",
+          "price": 213.51,
+          "discount": 33,
+          "image": "https://http2.mlstatic.com/D_NQ_NP_847367-MLA95636617258_102025-F.jpg",
+          "source": "mercadolivre",
+          "productUrl": "https://marketpaycommerce.netlify.app/produto/ml-MLB28815337?utm_source=meta&utm_medium=cpc&utm_campaign=games_carrossel&utm_content=2026-03-20&utm_term=ml-MLB28815337"
+        },
+        {
+          "id": "shp-22697639579",
+          "title": "5 Surprise, Candide, Unicorn Squad, Série 7",
+          "price": 64.99,
+          "discount": 16,
+          "image": "https://cf.shopee.com.br/file/sg-11134201-7rdxm-lxmwa6171j7u79",
+          "source": "shopee",
+          "productUrl": "https://marketpaycommerce.netlify.app/produto/shp-22697639579?utm_source=meta&utm_medium=cpc&utm_campaign=games_carrossel&utm_content=2026-03-20&utm_term=shp-22697639579"
+        },
+        {
+          "id": "shp-22398780727",
+          "title": "Gambit e Wolverine  X-Men Special Size Minico Iron Studios",
+          "price": 315,
+          "discount": 30,
+          "image": "https://cf.shopee.com.br/file/sg-11134201-7rdwq-md21otds5zda17",
+          "source": "shopee",
+          "productUrl": "https://marketpaycommerce.netlify.app/produto/shp-22398780727?utm_source=meta&utm_medium=cpc&utm_campaign=games_carrossel&utm_content=2026-03-20&utm_term=shp-22398780727"
+        },
+        {
+          "id": "ml-MLB45888980",
+          "title": "Brinquedo Bloco De Montar Personagens Desenho Animado Quantidade De Peças 176 Versão Do Personagem Lula Molusco",
+          "price": 24.18,
+          "discount": 38,
+          "image": "https://http2.mlstatic.com/D_NQ_NP_868489-MLA99638876540_122025-F.jpg",
+          "source": "mercadolivre",
+          "productUrl": "https://marketpaycommerce.netlify.app/produto/ml-MLB45888980?utm_source=meta&utm_medium=cpc&utm_campaign=games_carrossel&utm_content=2026-03-20&utm_term=ml-MLB45888980"
+        },
+        {
+          "id": "shp-11500759567",
+          "title": "BTS - BE Essential Edition",
+          "price": 219,
+          "discount": 31,
+          "image": "https://cf.shopee.com.br/file/9fc2a3ef08fd9ae47be7548593f42a01",
+          "source": "shopee",
+          "productUrl": "https://marketpaycommerce.netlify.app/produto/shp-11500759567?utm_source=meta&utm_medium=cpc&utm_campaign=games_carrossel&utm_content=2026-03-20&utm_term=shp-11500759567"
+        }
+      ],
+      "categoryUrl": "https://marketpaycommerce.netlify.app/categoria/games?utm_source=meta&utm_medium=cpc&utm_campaign=games_carrossel&utm_content=2026-03-20",
+      "suggestedCopy": {
+        "headline": "Games com até 38% OFF",
+        "primaryText": "Comparamos preços no Mercado Livre, Amazon e Shopee. Confira as melhores ofertas de Games!",
+        "cta": "Ver Ofertas"
+      }
+    },
+    {
+      "platform": "Google Ads",
+      "platformId": "google",
+      "format": "search",
+      "category": "Games",
+      "categorySlug": "games",
+      "audience": "Homens 16-30",
+      "metaInterests": "PlayStation, Xbox, PC Gaming",
+      "productsPerAd": 1,
+      "products": [
+        {
+          "id": "ml-MLB28815337",
+          "title": "Escorregador Infantil Medio 3 Degraus - Linha A Escorrega Cor Amarelo c/ Vermelho",
+          "price": 213.51,
+          "discount": 33,
+          "image": "https://http2.mlstatic.com/D_NQ_NP_847367-MLA95636617258_102025-F.jpg",
+          "source": "mercadolivre",
+          "productUrl": "https://marketpaycommerce.netlify.app/produto/ml-MLB28815337?utm_source=google&utm_medium=cpc&utm_campaign=games_search&utm_content=2026-03-20&utm_term=ml-MLB28815337"
+        }
+      ],
+      "categoryUrl": "https://marketpaycommerce.netlify.app/categoria/games?utm_source=google&utm_medium=cpc&utm_campaign=games_search&utm_content=2026-03-20",
+      "suggestedCopy": {
+        "headline": "Escorregador Infantil Medio 3  - R$ 213,51",
+        "description": "Melhor preço de Games. Compare Mercado Livre, Shopee e Amazon. Frete grátis disponível.",
+        "keywords": [
+          "melhor preço games",
+          "games barato",
+          "oferta games",
+          "comprar games online"
+        ]
+      }
+    },
+    {
+      "platform": "TikTok Ads",
+      "platformId": "tiktok",
+      "format": "video",
+      "category": "Games",
+      "categorySlug": "games",
+      "audience": "Homens 16-30",
+      "metaInterests": "PlayStation, Xbox, PC Gaming",
+      "productsPerAd": 1,
+      "products": [
+        {
+          "id": "ml-MLB28815337",
+          "title": "Escorregador Infantil Medio 3 Degraus - Linha A Escorrega Cor Amarelo c/ Vermelho",
+          "price": 213.51,
+          "discount": 33,
+          "image": "https://http2.mlstatic.com/D_NQ_NP_847367-MLA95636617258_102025-F.jpg",
+          "source": "mercadolivre",
+          "productUrl": "https://marketpaycommerce.netlify.app/produto/ml-MLB28815337?utm_source=tiktok&utm_medium=cpc&utm_campaign=games_video&utm_content=2026-03-20&utm_term=ml-MLB28815337"
+        }
+      ],
+      "categoryUrl": "https://marketpaycommerce.netlify.app/categoria/games?utm_source=tiktok&utm_medium=cpc&utm_campaign=games_video&utm_content=2026-03-20",
+      "suggestedCopy": {
+        "hook": "Achei games MUITO barato",
+        "script": "\"Olha esse Escorregador Infantil Medio 3 Degraus -  por apenas R$ 213,51! Link na bio.\"",
+        "hashtags": "#achadinhos #oferta #games #mercadolivre #shopee"
+      }
+    },
+    {
+      "platform": "Meta Ads (Facebook/Instagram)",
+      "platformId": "meta",
+      "format": "carrossel",
+      "category": "Livros",
+      "categorySlug": "livros",
+      "audience": "Todos 20-50",
+      "metaInterests": "Livros, Leitura, Kindle",
+      "productsPerAd": 5,
+      "products": [
+        {
+          "id": "shp-15586303931",
+          "title": "Bíblia de Estudo Thompson | AEC Letra Grande | Preta Luxo",
+          "price": 202.99,
+          "discount": 26,
+          "image": "https://cf.shopee.com.br/file/sg-11134201-7rdyb-mbqr5q9181tl12",
+          "source": "shopee",
+          "productUrl": "https://marketpaycommerce.netlify.app/produto/shp-15586303931?utm_source=meta&utm_medium=cpc&utm_campaign=livros_carrossel&utm_content=2026-03-20&utm_term=shp-15586303931"
+        },
+        {
+          "id": "shp-58251035416",
+          "title": "Lápis de Cor Faber-Castell Supersoft 120 Cores Redondo",
+          "price": 391.9,
+          "discount": 18,
+          "image": "https://cf.shopee.com.br/file/sg-11134201-8225n-mhi3uj5m603n46",
+          "source": "shopee",
+          "productUrl": "https://marketpaycommerce.netlify.app/produto/shp-58251035416?utm_source=meta&utm_medium=cpc&utm_campaign=livros_carrossel&utm_content=2026-03-20&utm_term=shp-58251035416"
+        },
+        {
+          "id": "shp-23491904708",
+          "title": "Livro A Vida na Antiga Grécia",
+          "price": 29.9,
+          "discount": 25,
+          "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-luhwcr9dvgio79",
+          "source": "shopee",
+          "productUrl": "https://marketpaycommerce.netlify.app/produto/shp-23491904708?utm_source=meta&utm_medium=cpc&utm_campaign=livros_carrossel&utm_content=2026-03-20&utm_term=shp-23491904708"
+        },
+        {
+          "id": "shp-40257094464",
+          "title": "Livro Minha Primeira Bíblia Infantil Meninas Capa Dura Rosa Histórias Da Bíblia Ilustrada",
+          "price": 22.99,
+          "discount": 54,
+          "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mbpig5s2ajs74b",
+          "source": "shopee",
+          "productUrl": "https://marketpaycommerce.netlify.app/produto/shp-40257094464?utm_source=meta&utm_medium=cpc&utm_campaign=livros_carrossel&utm_content=2026-03-20&utm_term=shp-40257094464"
+        },
+        {
+          "id": "shp-8781349924",
+          "title": "Caneta hidrográfica Fine Pen Colors 48 cores FPB/ES48ZF Faber-Castell",
+          "price": 224.9,
+          "discount": 26,
+          "image": "https://cf.shopee.com.br/file/sg-11134201-7rdxp-mc6cxb8lrros61",
+          "source": "shopee",
+          "productUrl": "https://marketpaycommerce.netlify.app/produto/shp-8781349924?utm_source=meta&utm_medium=cpc&utm_campaign=livros_carrossel&utm_content=2026-03-20&utm_term=shp-8781349924"
+        }
+      ],
+      "categoryUrl": "https://marketpaycommerce.netlify.app/categoria/livros?utm_source=meta&utm_medium=cpc&utm_campaign=livros_carrossel&utm_content=2026-03-20",
+      "suggestedCopy": {
+        "headline": "Livros com até 54% OFF",
+        "primaryText": "Comparamos preços no Mercado Livre, Amazon e Shopee. Confira as melhores ofertas de Livros!",
+        "cta": "Ver Ofertas"
+      }
+    },
+    {
+      "platform": "Google Ads",
+      "platformId": "google",
+      "format": "search",
+      "category": "Livros",
+      "categorySlug": "livros",
+      "audience": "Todos 20-50",
+      "metaInterests": "Livros, Leitura, Kindle",
+      "productsPerAd": 1,
+      "products": [
+        {
+          "id": "shp-15586303931",
+          "title": "Bíblia de Estudo Thompson | AEC Letra Grande | Preta Luxo",
+          "price": 202.99,
+          "discount": 26,
+          "image": "https://cf.shopee.com.br/file/sg-11134201-7rdyb-mbqr5q9181tl12",
+          "source": "shopee",
+          "productUrl": "https://marketpaycommerce.netlify.app/produto/shp-15586303931?utm_source=google&utm_medium=cpc&utm_campaign=livros_search&utm_content=2026-03-20&utm_term=shp-15586303931"
+        }
+      ],
+      "categoryUrl": "https://marketpaycommerce.netlify.app/categoria/livros?utm_source=google&utm_medium=cpc&utm_campaign=livros_search&utm_content=2026-03-20",
+      "suggestedCopy": {
+        "headline": "Bíblia de Estudo Thompson | AE - R$ 202,99",
+        "description": "Melhor preço de Livros. Compare Mercado Livre, Shopee e Amazon. Frete grátis disponível.",
+        "keywords": [
+          "melhor preço livros",
+          "livros barato",
+          "oferta livros",
+          "comprar livros online"
+        ]
+      }
+    },
+    {
+      "platform": "Meta Ads (Facebook/Instagram)",
+      "platformId": "meta",
+      "format": "carrossel",
+      "category": "Automotivo",
+      "categorySlug": "automotivo",
+      "audience": "Homens 25-50",
+      "metaInterests": "Carros, Acessórios Automotivos",
+      "productsPerAd": 5,
+      "products": [
+        {
+          "id": "shp-58202501993",
+          "title": "Monte Seu Kit Da Vonixx Restaurax Intense Prizm Lava Auto V Floc V Mol Blend 500ml",
+          "price": 29.31,
+          "discount": 15,
+          "image": "https://cf.shopee.com.br/file/sg-11134201-81zvp-miqbqafdwh6oa5",
+          "source": "shopee",
+          "productUrl": "https://marketpaycommerce.netlify.app/produto/shp-58202501993?utm_source=meta&utm_medium=cpc&utm_campaign=automotivo_carrossel&utm_content=2026-03-20&utm_term=shp-58202501993"
+        },
+        {
+          "id": "shp-26727075753",
+          "title": "ESSGOO Bluetooth Carro MP5 Player 9 2 Din 4 + 64GB Android Tela De Lmagem Invertida Toque Sem Fio Carplay E Multimídia",
+          "price": 565.99,
+          "discount": 32,
+          "image": "https://cf.shopee.com.br/file/cn-11134207-7ras8-m6nvoq6liq5k7c",
+          "source": "shopee",
+          "productUrl": "https://marketpaycommerce.netlify.app/produto/shp-26727075753?utm_source=meta&utm_medium=cpc&utm_campaign=automotivo_carrossel&utm_content=2026-03-20&utm_term=shp-26727075753"
+        },
+        {
+          "id": "shp-22198687593",
+          "title": "Driver Jbl Selenium D220ti Titanium Titânio Profissional 80w Rms 8 Ohms",
+          "price": 259.9,
+          "discount": 26,
+          "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mbfjnqlitbp4d7",
+          "source": "shopee",
+          "productUrl": "https://marketpaycommerce.netlify.app/produto/shp-22198687593?utm_source=meta&utm_medium=cpc&utm_campaign=automotivo_carrossel&utm_content=2026-03-20&utm_term=shp-22198687593"
+        },
+        {
+          "id": "shp-26789145021",
+          "title": "DDPAI N1 Dual Câmera Veicular 1296p+1080p Uber Nightvis App Sensor G Modo de Estacionamento 24 Hora",
+          "price": 557.99,
+          "discount": 71,
+          "image": "https://cf.shopee.com.br/file/br-11134207-81z1k-megrpn0o8r9e79",
+          "source": "shopee",
+          "productUrl": "https://marketpaycommerce.netlify.app/produto/shp-26789145021?utm_source=meta&utm_medium=cpc&utm_campaign=automotivo_carrossel&utm_content=2026-03-20&utm_term=shp-26789145021"
+        },
+        {
+          "id": "shp-18096892227",
+          "title": "Escapamento Escape Para Moto Gemoto Racing Titan 1976 a 1999",
+          "price": 171.9,
+          "discount": 30,
+          "image": "https://cf.shopee.com.br/file/br-11134207-7r98o-mcrs10jf4ge902",
+          "source": "shopee",
+          "productUrl": "https://marketpaycommerce.netlify.app/produto/shp-18096892227?utm_source=meta&utm_medium=cpc&utm_campaign=automotivo_carrossel&utm_content=2026-03-20&utm_term=shp-18096892227"
+        }
+      ],
+      "categoryUrl": "https://marketpaycommerce.netlify.app/categoria/automotivo?utm_source=meta&utm_medium=cpc&utm_campaign=automotivo_carrossel&utm_content=2026-03-20",
+      "suggestedCopy": {
+        "headline": "Automotivo com até 71% OFF",
+        "primaryText": "Comparamos preços no Mercado Livre, Amazon e Shopee. Confira as melhores ofertas de Automotivo!",
+        "cta": "Ver Ofertas"
+      }
+    },
+    {
+      "platform": "Google Ads",
+      "platformId": "google",
+      "format": "search",
+      "category": "Automotivo",
+      "categorySlug": "automotivo",
+      "audience": "Homens 25-50",
+      "metaInterests": "Carros, Acessórios Automotivos",
+      "productsPerAd": 1,
+      "products": [
+        {
+          "id": "shp-58202501993",
+          "title": "Monte Seu Kit Da Vonixx Restaurax Intense Prizm Lava Auto V Floc V Mol Blend 500ml",
+          "price": 29.31,
+          "discount": 15,
+          "image": "https://cf.shopee.com.br/file/sg-11134201-81zvp-miqbqafdwh6oa5",
+          "source": "shopee",
+          "productUrl": "https://marketpaycommerce.netlify.app/produto/shp-58202501993?utm_source=google&utm_medium=cpc&utm_campaign=automotivo_search&utm_content=2026-03-20&utm_term=shp-58202501993"
+        }
+      ],
+      "categoryUrl": "https://marketpaycommerce.netlify.app/categoria/automotivo?utm_source=google&utm_medium=cpc&utm_campaign=automotivo_search&utm_content=2026-03-20",
+      "suggestedCopy": {
+        "headline": "Monte Seu Kit Da Vonixx Restau - R$ 29,31",
+        "description": "Melhor preço de Automotivo. Compare Mercado Livre, Shopee e Amazon. Frete grátis disponível.",
+        "keywords": [
+          "melhor preço automotivo",
+          "automotivo barato",
+          "oferta automotivo",
+          "comprar automotivo online"
+        ]
+      }
+    }
+  ]
+}
