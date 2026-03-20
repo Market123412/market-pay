@@ -1,12 +1,13 @@
 "use client";
 
 import { useSearchParams } from "next/navigation";
-import { Suspense, useState, useEffect, useCallback, useMemo } from "react";
-import { allProducts as localProducts, Product } from "@/data/products";
+import { Suspense, useState, useEffect, useMemo } from "react";
+import { allProducts as allLocalProducts } from "@/data/products";
+import { shuffle } from "@/lib/shuffle";
 import ProductCard from "@/components/ProductCard";
 import AdBanner from "@/components/AdBanner";
 import Link from "next/link";
-import { ChevronRight, SearchX, Loader2 } from "lucide-react";
+import { ChevronRight, SearchX } from "lucide-react";
 
 type SortOption = "relevancia" | "menor-preco" | "maior-desconto" | "mais-avaliados";
 type SourceFilter = "todos" | "mercadolivre" | "amazon" | "shopee";
@@ -15,80 +16,33 @@ function SearchResults() {
   const searchParams = useSearchParams();
   const query = searchParams.get("q") || "";
 
-  const [apiProducts, setApiProducts] = useState<Product[]>([]);
-  const [loading, setLoading] = useState(false);
-  const [searched, setSearched] = useState(false);
   const [sortBy, setSortBy] = useState<SortOption>("relevancia");
   const [sourceFilter, setSourceFilter] = useState<SourceFilter>("todos");
   const [freeShippingOnly, setFreeShippingOnly] = useState(false);
+  const [shuffled, setShuffled] = useState(allLocalProducts);
 
-  const fetchFromApi = useCallback(async (q: string) => {
-    if (!q.trim()) return;
-    setLoading(true);
-    try {
-      const res = await fetch(`/api/products/search?q=${encodeURIComponent(q)}&limit=40`);
-      const data = await res.json();
-      if (data.products && data.products.length > 0) {
-        const mapped: Product[] = data.products.map((p: Record<string, unknown>) => ({
-          id: p.id as string,
-          title: p.title as string,
-          description: (p.title as string) || "",
-          price: p.price as number,
-          originalPrice: p.originalPrice as number | undefined,
-          discount: p.discount as number | undefined,
-          image: p.image as string,
-          images: (p.images as string[]) || [p.image as string],
-          category: "",
-          categorySlug: "",
-          source: p.source as "mercadolivre" | "amazon" | "shopee",
-          affiliateUrl: p.url as string,
-          rating: (p.rating as number) || 0,
-          reviewCount: (p.reviewCount as number) || 0,
-          reviews: [],
-          freeShipping: (p.freeShipping as boolean) || false,
-          seller: (p.seller as string) || "",
-          features: (p.features as string[]) || [],
-        }));
-        setApiProducts(mapped);
-      }
-    } catch {
-      // API falhou, vamos usar dados locais
-    } finally {
-      setLoading(false);
-      setSearched(true);
-    }
+  // Shuffle on mount for varied results every visit
+  useEffect(() => {
+    setShuffled(shuffle(allLocalProducts));
   }, []);
 
-  useEffect(() => {
-    if (query.trim()) {
-      fetchFromApi(query);
-    } else {
-      setSearched(true);
-    }
-  }, [query, fetchFromApi]);
-
-  // Combinar produtos locais filtrados + produtos da API
-  const localFiltered = useMemo(() => {
-    if (!query.trim()) return localProducts;
-    return localProducts.filter(
+  // Filter by search query
+  const queryFiltered = useMemo(() => {
+    if (!query.trim()) return shuffled;
+    const q = query.toLowerCase();
+    return shuffled.filter(
       (p) =>
-        p.title.toLowerCase().includes(query.toLowerCase()) ||
-        p.category.toLowerCase().includes(query.toLowerCase()) ||
-        p.description.toLowerCase().includes(query.toLowerCase()) ||
-        p.seller.toLowerCase().includes(query.toLowerCase()) ||
-        p.features.some((f) => f.toLowerCase().includes(query.toLowerCase()))
+        p.title.toLowerCase().includes(q) ||
+        p.category.toLowerCase().includes(q) ||
+        p.description.toLowerCase().includes(q) ||
+        p.seller.toLowerCase().includes(q) ||
+        p.features.some((f) => f.toLowerCase().includes(q))
     );
-  }, [query]);
+  }, [query, shuffled]);
 
-  const allProducts = useMemo(() => {
-    const apiIds = new Set(apiProducts.map((p) => p.id));
-    const combined = [...apiProducts, ...localFiltered.filter((p) => !apiIds.has(p.id))];
-    return combined;
-  }, [apiProducts, localFiltered]);
-
-  // Aplicar filtros
+  // Apply source + shipping + sort filters
   const filteredProducts = useMemo(() => {
-    let result = [...allProducts];
+    let result = [...queryFiltered];
 
     if (sourceFilter !== "todos") {
       result = result.filter((p) => p.source === sourceFilter);
@@ -111,7 +65,7 @@ function SearchResults() {
     }
 
     return result;
-  }, [allProducts, sourceFilter, freeShippingOnly, sortBy]);
+  }, [queryFiltered, sourceFilter, freeShippingOnly, sortBy]);
 
   const sortButtons: { key: SortOption; label: string }[] = [
     { key: "relevancia", label: "Todos" },
@@ -148,14 +102,7 @@ function SearchResults() {
           )}
         </h1>
         <p className="mt-1 text-sm text-gray-500">
-          {loading ? (
-            <span className="flex items-center gap-2">
-              <Loader2 size={14} className="animate-spin" />
-              Buscando nos melhores sites...
-            </span>
-          ) : (
-            `${filteredProducts.length} produto${filteredProducts.length !== 1 ? "s" : ""} encontrado${filteredProducts.length !== 1 ? "s" : ""}`
-          )}
+          {`${filteredProducts.length} produto${filteredProducts.length !== 1 ? "s" : ""} encontrado${filteredProducts.length !== 1 ? "s" : ""}`}
         </p>
       </div>
 
@@ -208,18 +155,8 @@ function SearchResults() {
         <AdBanner />
       </div>
 
-      {/* Loading */}
-      {loading && (
-        <div className="flex items-center justify-center py-20">
-          <div className="flex flex-col items-center gap-3">
-            <div className="h-10 w-10 animate-spin rounded-full border-4 border-emerald-600 border-t-transparent" />
-            <p className="text-sm text-gray-500">Buscando ofertas no Mercado Livre, Amazon e Shopee...</p>
-          </div>
-        </div>
-      )}
-
       {/* Results */}
-      {!loading && filteredProducts.length > 0 && (
+      {filteredProducts.length > 0 && (
         <div className="grid grid-cols-2 gap-4 sm:grid-cols-3 lg:grid-cols-4">
           {filteredProducts.map((product, index) => (
             <ProductCard key={`${product.id}-${index}`} product={product} />
@@ -227,7 +164,7 @@ function SearchResults() {
         </div>
       )}
 
-      {!loading && searched && filteredProducts.length === 0 && (
+      {filteredProducts.length === 0 && (
         <div className="flex flex-col items-center justify-center py-20 text-center">
           <SearchX size={48} className="text-gray-300" />
           <p className="mt-4 text-lg font-medium text-gray-600">

@@ -6,13 +6,12 @@ import { ArrowRight, Zap } from "lucide-react";
 import { useState, useEffect, useMemo } from "react";
 import { allProducts } from "@/data/products";
 import { formatPrice } from "@/lib/affiliate";
+import { shuffle } from "@/lib/shuffle";
 
 const CAROUSEL_COUNT = 6;
 const CAROUSEL_INTERVAL = 8000;
 
-const allDeals = [...allProducts]
-  .filter((p) => p.discount && p.discount >= 15)
-  .sort((a, b) => (b.discount || 0) - (a.discount || 0));
+const allDeals = allProducts.filter((p) => p.discount && p.discount >= 15);
 
 function MiniProductCard({ product }: { product: typeof allDeals[0] }) {
   return (
@@ -84,24 +83,28 @@ function RotatingCard({ products }: { products: typeof allDeals }) {
 }
 
 export default function HeroBanner() {
-  // Two fixed side products — change only on page refresh (seeded by date)
-  const sideProducts = useMemo(() => {
-    const day = new Date().getDate();
-    const left = allDeals[day % allDeals.length];
-    const right = allDeals[(day + 7) % allDeals.length];
-    return { left, right };
+  // Shuffle deals on each mount so they vary per page load
+  const [shuffledDeals, setShuffledDeals] = useState<typeof allDeals>([]);
+
+  useEffect(() => {
+    setShuffledDeals(shuffle(allDeals));
   }, []);
 
-  // Carousel products — each slot gets its own pool for rotating
+  const sideProducts = useMemo(() => {
+    if (shuffledDeals.length < 2) return { left: shuffledDeals[0], right: shuffledDeals[1] };
+    return { left: shuffledDeals[0], right: shuffledDeals[1] };
+  }, [shuffledDeals]);
+
+  // Carousel products — each slot gets its own shuffled pool for rotating
   const carouselSlots = useMemo(() => {
-    const pool = allDeals.slice(0, CAROUSEL_COUNT * 5);
+    const pool = shuffledDeals.slice(2, 2 + CAROUSEL_COUNT * 5);
     const slots: (typeof allDeals)[] = [];
     for (let i = 0; i < CAROUSEL_COUNT; i++) {
       const slotPool = pool.filter((_, idx) => idx % CAROUSEL_COUNT === i);
-      slots.push(slotPool.length > 0 ? slotPool : [pool[i] || allDeals[0]]);
+      slots.push(slotPool.length > 0 ? slotPool : pool[i] ? [pool[i]] : []);
     }
-    return slots;
-  }, []);
+    return slots.filter((s) => s.length > 0);
+  }, [shuffledDeals]);
 
   return (
     <section className="relative overflow-hidden bg-gradient-to-br from-emerald-600 via-emerald-700 to-teal-800">
