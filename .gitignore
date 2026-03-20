@@ -51,5 +51,3 @@ node_modules
 
 .vercel
 
-# Local Netlify folder
-.netlify
