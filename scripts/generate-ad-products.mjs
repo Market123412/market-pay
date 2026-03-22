@@ -14,7 +14,7 @@ const SHOPEE_PATH = join(__dirname, "..", "src", "data", "shopee-products.json")
 const ML_PATH = join(__dirname, "..", "src", "data", "ml-products.json");
 const OUT_PATH = join(__dirname, "..", "docs", "ad-products.json");
 
-const SITE_URL = "https://marketpaycommerce.netlify.app";
+const SITE_URL = "https://marketpaycommerce.com.br";
 
 // ─── Load all products ───────────────────────────────
 const shopee = JSON.parse(readFileSync(SHOPEE_PATH, "utf-8")).map((p) => ({
