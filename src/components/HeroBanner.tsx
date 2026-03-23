@@ -1,7 +1,6 @@
 "use client";
 
 import Link from "next/link";
-import Image from "next/image";
 import { ArrowRight, Zap } from "lucide-react";
 import { useState, useEffect, useMemo } from "react";
 import { allProducts } from "@/data/products";
@@ -20,12 +19,11 @@ function MiniProductCard({ product }: { product: typeof allDeals[0] }) {
       className="group flex flex-col overflow-hidden rounded-lg bg-white shadow transition-shadow hover:shadow-md"
     >
       <div className="relative aspect-square overflow-hidden bg-white">
-        <Image
+        <img
           src={product.image}
           alt={product.title}
-          fill
-          className="object-contain p-1 transition-transform group-hover:scale-105"
-          sizes="160px"
+          loading="lazy"
+          className="absolute inset-0 w-full h-full object-contain p-1 transition-transform group-hover:scale-105"
         />
         {product.discount && (
           <span className="absolute right-0 top-1 rounded-l bg-red-500 px-1 py-0.5 text-[9px] font-bold text-white">
@@ -61,12 +59,11 @@ function RotatingCard({ products }: { products: typeof allDeals }) {
       className="group flex flex-col overflow-hidden rounded-lg bg-white shadow transition-shadow hover:shadow-md"
     >
       <div className="relative aspect-square overflow-hidden bg-white">
-        <Image
+        <img
           src={product.image}
           alt={product.title}
-          fill
-          className="object-contain p-1 transition-transform group-hover:scale-105"
-          sizes="160px"
+          loading="lazy"
+          className="absolute inset-0 w-full h-full object-contain p-1 transition-transform group-hover:scale-105"
         />
         {product.discount && (
           <span className="absolute right-0 top-1 rounded-l bg-red-500 px-1 py-0.5 text-[9px] font-bold text-white">

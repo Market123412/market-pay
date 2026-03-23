@@ -1,8 +1,6 @@
 "use client";
 
-import { useState } from "react";
 import Link from "next/link";
-import Image from "next/image";
 import { Star } from "lucide-react";
 import { Product } from "@/data/products";
 import { formatPrice } from "@/lib/affiliate";
@@ -12,7 +10,6 @@ interface ProductCardProps {
 }
 
 export default function ProductCard({ product }: ProductCardProps) {
-  const [imgError, setImgError] = useState(false);
   const soldCount = product.reviewCount > 1000
     ? `${(product.reviewCount / 1000).toFixed(0)}mil+`
     : product.reviewCount > 0
@@ -26,22 +23,12 @@ export default function ProductCard({ product }: ProductCardProps) {
     >
       {/* Image */}
       <div className="relative aspect-square overflow-hidden bg-white">
-        {imgError ? (
-          <img
-            src={product.image}
-            alt={product.title}
-            className="absolute inset-0 w-full h-full object-contain p-2 transition-transform group-hover:scale-105"
-          />
-        ) : (
-          <Image
-            src={product.image}
-            alt={product.title}
-            fill
-            className="object-contain p-2 transition-transform group-hover:scale-105"
-            sizes="(max-width: 640px) 50vw, (max-width: 1024px) 33vw, 20vw"
-            onError={() => setImgError(true)}
-          />
-        )}
+        <img
+          src={product.image}
+          alt={product.title}
+          loading="lazy"
+          className="absolute inset-0 w-full h-full object-contain p-2 transition-transform group-hover:scale-105"
+        />
         {product.discount && product.discount >= 10 && (
           <span className="absolute right-0 top-2 rounded-l-sm bg-red-500 px-1.5 py-0.5 text-[10px] font-bold text-white">
             -{product.discount}%

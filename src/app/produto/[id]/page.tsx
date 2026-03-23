@@ -1,6 +1,5 @@
 import { notFound } from "next/navigation";
 import Link from "next/link";
-import Image from "next/image";
 import { allProducts } from "@/data/products";
 import { sourceLabels, formatPrice, getAffiliateUrl } from "@/lib/affiliate";
 import AdBanner from "@/components/AdBanner";
