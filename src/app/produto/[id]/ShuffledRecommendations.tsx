@@ -2,7 +2,6 @@
 
 import { useState, useEffect } from "react";
 import Link from "next/link";
-import Image from "next/image";
 import { allProducts } from "@/data/products";
 import { formatPrice } from "@/lib/affiliate";
 import { shuffle } from "@/lib/shuffle";
@@ -14,12 +13,10 @@ function SidebarCard({ product }: { product: typeof allProducts[0] }) {
       className="group flex gap-2 rounded-lg border border-gray-100 bg-white p-2 transition-shadow hover:shadow-sm"
     >
       <div className="relative h-16 w-16 flex-shrink-0 overflow-hidden rounded bg-white">
-        <Image
+        <img
           src={product.image}
           alt={product.title}
-          fill
-          className="object-contain p-1"
-          sizes="64px"
+          className="absolute inset-0 w-full h-full object-contain p-1"
         />
       </div>
       <div className="flex-1 min-w-0">
