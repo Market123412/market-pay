@@ -41,7 +41,7 @@ export function getAffiliateUrl(baseUrl: string, productId: string, title?: stri
   if (isGenericUrl && title) {
     const q = encodeURIComponent(title);
     if (baseUrl.includes("mercadolivre")) {
-      return `https://lista.mercadolivre.com.br/${q.replace(/%20/g, "-")}`;
+      return `https://lista.mercadolivre.com.br/${q.replace(/%20/g, "-")}?matt_tool=35864491&matt_word=marcelwillianreissales`;
     }
     if (baseUrl.includes("amazon")) {
       return `https://www.amazon.com.br/s?k=${q}&tag=marketpaycomm-20`;

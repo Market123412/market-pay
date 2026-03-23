@@ -1,7 +1,7 @@
 import type { Product } from "./products";
 import mlRaw from "./ml-products.json";
 
-const ML_APP_ID = "4743146735590344";
+const ML_AFFILIATE_ID = "35864491";
 
 interface MLRawProduct {
   mlProductId: string;
@@ -29,7 +29,7 @@ function seeded(seed: number): number {
 
 function buildMLAffiliateUrl(permalink: string): string {
   const sep = permalink.includes("?") ? "&" : "?";
-  return `${permalink}${sep}matt_tool=${ML_APP_ID}&matt_word=&matt_source=marketpay&matt_campaign_id=marketpay_site`;
+  return `${permalink}${sep}matt_tool=${ML_AFFILIATE_ID}&matt_word=marcelwillianreissales&matt_source=marketpay&matt_campaign_id=marketpay_site`;
 }
 
 export function loadMLProducts(): Product[] {
