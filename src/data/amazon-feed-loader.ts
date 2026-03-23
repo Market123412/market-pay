@@ -28,7 +28,9 @@ export function loadAmazonProducts(): Product[] {
     const rating = 4.0 + seededRandom(seed) * 0.9;
     const reviewCount = Math.floor(100 + seededRandom(seed + 1) * 2000);
 
-    const affiliateUrl = `https://www.amazon.com.br/dp/${item.asin}?tag=${AFFILIATE_TAG}`;
+    // Search-based affiliate link — always lands on real results, any purchase in 24h earns commission
+    const searchQuery = encodeURIComponent(item.title);
+    const affiliateUrl = `https://www.amazon.com.br/s?k=${searchQuery}&tag=${AFFILIATE_TAG}`;
 
     return {
       id,
