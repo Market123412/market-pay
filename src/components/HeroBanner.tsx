@@ -24,6 +24,8 @@ function MiniProductCard({ product }: { product: typeof allDeals[0] }) {
           alt={product.title}
           loading="lazy"
           className="absolute inset-0 w-full h-full object-contain p-1 transition-transform group-hover:scale-105"
+          onError={(e) => { e.currentTarget.src = '/placeholder-product.svg'; }}
+          onLoad={(e) => { if (e.currentTarget.naturalWidth <= 2) e.currentTarget.src = '/placeholder-product.svg'; }}
         />
         {product.discount && (
           <span className="absolute right-0 top-1 rounded-l bg-red-500 px-1 py-0.5 text-[9px] font-bold text-white">
@@ -64,6 +66,8 @@ function RotatingCard({ products }: { products: typeof allDeals }) {
           alt={product.title}
           loading="lazy"
           className="absolute inset-0 w-full h-full object-contain p-1 transition-transform group-hover:scale-105"
+          onError={(e) => { e.currentTarget.src = '/placeholder-product.svg'; }}
+          onLoad={(e) => { if (e.currentTarget.naturalWidth <= 2) e.currentTarget.src = '/placeholder-product.svg'; }}
         />
         {product.discount && (
           <span className="absolute right-0 top-1 rounded-l bg-red-500 px-1 py-0.5 text-[9px] font-bold text-white">

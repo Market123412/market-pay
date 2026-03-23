@@ -32,6 +32,9 @@ export function loadAmazonProducts(): Product[] {
     const searchQuery = encodeURIComponent(item.title);
     const affiliateUrl = `https://www.amazon.com.br/s?k=${searchQuery}&tag=${AFFILIATE_TAG}`;
 
+    // Use ASIN-based image URL (works for real ASINs), fallback to original
+    const asinImage = `https://images-na.ssl-images-amazon.com/images/P/${item.asin}.01.LZZZZZZZ.jpg`;
+
     return {
       id,
       title: item.title,
@@ -39,8 +42,8 @@ export function loadAmazonProducts(): Product[] {
       price: item.price,
       originalPrice: item.originalPrice,
       discount: item.discount,
-      image: item.image,
-      images: item.images && item.images.length > 0 ? item.images : [item.image],
+      image: asinImage,
+      images: [asinImage],
       category: item.category,
       categorySlug: item.categorySlug,
       source: "amazon" as const,

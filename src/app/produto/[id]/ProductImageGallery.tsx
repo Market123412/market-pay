@@ -19,6 +19,8 @@ export default function ProductImageGallery({ images, title, discount }: Product
           src={images[selected] || images[0]}
           alt={title}
           className="absolute inset-0 w-full h-full object-contain p-4"
+          onError={(e) => { e.currentTarget.src = '/placeholder-product.svg'; }}
+          onLoad={(e) => { if (e.currentTarget.naturalWidth <= 2) e.currentTarget.src = '/placeholder-product.svg'; }}
         />
         {discount && discount >= 10 && (
           <span className="absolute left-3 top-3 rounded bg-red-500 px-2 py-1 text-xs font-bold text-white">
@@ -42,6 +44,8 @@ export default function ProductImageGallery({ images, title, discount }: Product
                 src={img}
                 alt={`${title} ${i + 1}`}
                 className="absolute inset-0 w-full h-full object-contain p-1"
+                onError={(e) => { e.currentTarget.src = '/placeholder-product.svg'; }}
+                onLoad={(e) => { if (e.currentTarget.naturalWidth <= 2) e.currentTarget.src = '/placeholder-product.svg'; }}
               />
             </button>
           ))}

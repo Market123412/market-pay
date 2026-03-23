@@ -28,6 +28,8 @@ export default function ProductCard({ product }: ProductCardProps) {
           alt={product.title}
           loading="lazy"
           className="absolute inset-0 w-full h-full object-contain p-2 transition-transform group-hover:scale-105"
+          onError={(e) => { e.currentTarget.src = '/placeholder-product.svg'; }}
+          onLoad={(e) => { if (e.currentTarget.naturalWidth <= 2) e.currentTarget.src = '/placeholder-product.svg'; }}
         />
         {product.discount && product.discount >= 10 && (
           <span className="absolute right-0 top-2 rounded-l-sm bg-red-500 px-1.5 py-0.5 text-[10px] font-bold text-white">
