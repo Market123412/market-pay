@@ -1,3 +1,4 @@
+import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import Link from "next/link";
 import { allProducts } from "@/data/products";
@@ -15,12 +16,45 @@ import {
   ThumbsUp,
 } from "lucide-react";
 
+const SITE_URL = "https://marketpaycommerce.com.br";
+
 interface ProductPageProps {
   params: Promise<{ id: string }>;
 }
 
 export function generateStaticParams() {
   return allProducts.map((p) => ({ id: p.id }));
+}
+
+export async function generateMetadata({ params }: ProductPageProps): Promise<Metadata> {
+  const { id } = await params;
+  const product = allProducts.find((p) => p.id === id);
+  if (!product) return { title: "Produto não encontrado" };
+
+  const title = `${product.title} | MarketPay`;
+  const description = `${product.title} por ${formatPrice(product.price)}${product.discount ? ` com ${product.discount}% OFF` : ""}. Frete ${product.freeShipping ? "Grátis" : "disponível"}. Compare preços no Mercado Livre, Amazon e Shopee.`;
+  const url = `${SITE_URL}/produto/${product.id}`;
+
+  return {
+    title,
+    description,
+    alternates: { canonical: url },
+    openGraph: {
+      title,
+      description,
+      url,
+      siteName: "MarketPay",
+      images: [{ url: product.image, width: 600, height: 600, alt: product.title }],
+      type: "website",
+      locale: "pt_BR",
+    },
+    twitter: {
+      card: "summary_large_image",
+      title,
+      description,
+      images: [product.image],
+    },
+  };
 }
 
 export default async function ProductPage({ params }: ProductPageProps) {
@@ -37,8 +71,36 @@ export default async function ProductPage({ params }: ProductPageProps) {
     ? `${(product.reviewCount / 1000).toFixed(0)}mil+`
     : `${product.reviewCount}`;
 
+  const jsonLd = {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    name: product.title,
+    description: product.description,
+    image: product.image,
+    url: `${SITE_URL}/produto/${product.id}`,
+    brand: { "@type": "Brand", name: product.seller },
+    offers: {
+      "@type": "Offer",
+      price: product.price,
+      priceCurrency: "BRL",
+      availability: "https://schema.org/InStock",
+      itemCondition: "https://schema.org/NewCondition",
+      seller: { "@type": "Organization", name: product.seller },
+    },
+    aggregateRating: {
+      "@type": "AggregateRating",
+      ratingValue: product.rating,
+      reviewCount: product.reviewCount,
+      bestRating: 5,
+    },
+  };
+
   return (
     <div className="bg-gray-50 min-h-screen">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+      />
       {/* Breadcrumb */}
       <nav className="mx-auto max-w-[1400px] px-4 py-3 flex items-center gap-1.5 text-xs text-gray-500 overflow-x-auto whitespace-nowrap">
         <Link href="/" className="hover:text-orange-600">Início</Link>

@@ -3,7 +3,8 @@ import Link from "next/link";
 
 export const metadata = {
   title: "Sobre nós — MarketPay",
-  description: "Conheça o MarketPay, a plataforma que reúne as melhores ofertas da internet em um só lugar.",
+  description: "Conheça o MarketPay, a plataforma que reúne as melhores ofertas da internet em um só lugar. Compare preços no Mercado Livre, Amazon e Shopee.",
+  alternates: { canonical: "https://marketpaycommerce.com.br/sobre" },
 };
 
 export default function SobrePage() {

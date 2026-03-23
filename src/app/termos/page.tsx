@@ -2,7 +2,8 @@ import Link from "next/link";
 
 export const metadata = {
   title: "Termos de Uso — MarketPay",
-  description: "Termos de uso do MarketPay. Leia antes de utilizar nosso serviço.",
+  description: "Termos de uso do MarketPay. Leia antes de utilizar nosso serviço de comparação de preços.",
+  alternates: { canonical: "https://marketpaycommerce.com.br/termos" },
 };
 
 export default function TermosPage() {

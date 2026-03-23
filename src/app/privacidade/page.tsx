@@ -2,7 +2,8 @@ import Link from "next/link";
 
 export const metadata = {
   title: "Política de Privacidade — MarketPay",
-  description: "Política de privacidade do MarketPay. Saiba como tratamos seus dados.",
+  description: "Política de privacidade do MarketPay. Saiba como tratamos seus dados e protegemos sua navegação.",
+  alternates: { canonical: "https://marketpaycommerce.com.br/privacidade" },
 };
 
 export default function PrivacidadePage() {

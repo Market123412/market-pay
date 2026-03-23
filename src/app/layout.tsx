@@ -16,10 +16,46 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "MarketPay — Melhores ofertas da internet em um só lugar",
+  metadataBase: new URL("https://marketpaycommerce.com.br"),
+  title: {
+    default: "MarketPay — Melhores ofertas da internet em um só lugar",
+    template: "%s | MarketPay",
+  },
   description:
     "Compare preços e encontre as melhores ofertas do Mercado Livre, Amazon e Shopee. Economize comprando com segurança nos maiores sites do Brasil.",
-  keywords: ["ofertas", "comparar preços", "mercado livre", "amazon", "shopee", "cupons", "promoções"],
+  keywords: [
+    "ofertas", "comparar preços", "mercado livre", "amazon", "shopee",
+    "cupons", "promoções", "desconto", "frete grátis", "menor preço",
+    "compras online", "ecommerce brasil",
+  ],
+  alternates: { canonical: "https://marketpaycommerce.com.br" },
+  openGraph: {
+    title: "MarketPay — Melhores ofertas da internet em um só lugar",
+    description: "Compare preços no Mercado Livre, Amazon e Shopee. Milhares de produtos com até 90% OFF e frete grátis.",
+    url: "https://marketpaycommerce.com.br",
+    siteName: "MarketPay",
+    type: "website",
+    locale: "pt_BR",
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "MarketPay — Melhores ofertas da internet",
+    description: "Compare preços no Mercado Livre, Amazon e Shopee. Até 90% OFF.",
+  },
+  robots: {
+    index: true,
+    follow: true,
+    googleBot: {
+      index: true,
+      follow: true,
+      "max-video-preview": -1,
+      "max-image-preview": "large",
+      "max-snippet": -1,
+    },
+  },
+  verification: {
+    google: process.env.GOOGLE_SITE_VERIFICATION,
+  },
 };
 
 const adsenseId = process.env.NEXT_PUBLIC_ADSENSE_CLIENT_ID;
