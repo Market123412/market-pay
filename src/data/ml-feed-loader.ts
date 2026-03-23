@@ -1,6 +1,8 @@
 import type { Product } from "./products";
 import mlRaw from "./ml-products.json";
 
+const ML_APP_ID = "4743146735590344";
+
 interface MLRawProduct {
   mlProductId: string;
   mlItemId: string;
@@ -25,6 +27,11 @@ function seeded(seed: number): number {
   return x - Math.floor(x);
 }
 
+function buildMLAffiliateUrl(permalink: string): string {
+  const sep = permalink.includes("?") ? "&" : "?";
+  return `${permalink}${sep}matt_tool=${ML_APP_ID}&matt_word=&matt_source=marketpay&matt_campaign_id=marketpay_site`;
+}
+
 export function loadMLProducts(): Product[] {
   return raw.map((item, i) => {
     const seed = parseInt(item.mlProductId.replace(/\D/g, "").slice(-6)) || i;
@@ -40,7 +47,7 @@ export function loadMLProducts(): Product[] {
       category: item.category,
       categorySlug: item.categorySlug,
       source: "mercadolivre" as const,
-      affiliateUrl: item.permalink,
+      affiliateUrl: buildMLAffiliateUrl(item.permalink),
       rating: Math.round((3.8 + seeded(seed) * 1.2) * 10) / 10,
       reviewCount: Math.floor(seeded(seed + 1) * 800) + 20,
       reviews: [],

@@ -83,9 +83,9 @@ O objetivo é gerar tráfego qualificado para o site, aumentar cliques nos produ
 O script `scripts/generate-ad-products.mjs` gera automaticamente seleções de produtos otimizadas para cada plataforma/categoria.
 
 ### URLs de destino:
-- **Categoria específica**: `https://marketpaycommerce.netlify.app/categoria/eletronicos`
-- **Busca filtrada**: `https://marketpaycommerce.netlify.app/busca?q=notebook`
-- **Produto direto**: `https://marketpaycommerce.netlify.app/produto/ml-MLB12345678`
+- **Categoria específica**: `https://marketpaycommerce.com.br/categoria/eletronicos`
+- **Busca filtrada**: `https://marketpaycommerce.com.br/busca?q=notebook`
+- **Produto direto**: `https://marketpaycommerce.com.br/produto/ml-MLB12345678`
 
 Adicionar parâmetros UTM para rastreio:
 ```
@@ -216,3 +216,127 @@ Usar em todos os links de anúncio:
 
 ### Script de geração de produtos para anúncios:
 Executar `node scripts/generate-ad-products.mjs` para gerar automaticamente listas de produtos por categoria, otimizados para cada plataforma de anúncio.
+
+---
+
+## 8. MISSÃO: 10 Vendas Amazon até fim de Março/2026
+
+### Objetivo
+Gerar **10 vendas qualificadas na Amazon** para desbloquear acesso à **PA-API** (Product Advertising API), que permite buscar produtos reais com preços atualizados automaticamente.
+
+### Por que é urgente
+- Sem PA-API, os 49 produtos Amazon são curados manualmente (preços podem ficar desatualizados)
+- Com PA-API, podemos ter **milhares de produtos Amazon** com dados em tempo real
+- A Amazon exige 10 vendas nos últimos 30 dias para liberar a API
+
+### Produtos Amazon com maior chance de conversão
+
+| Produto | Preço | Por que converte |
+|---------|-------|-----------------|
+| Echo Dot 5ª Geração | R$ 349 | Marca Amazon, ticket acessível, muito buscado |
+| Fire TV Stick Lite | R$ 284 | Barato, impulso, todo mundo quer |
+| Kindle 11ª Geração | R$ 474 | Presente popular, alta demanda |
+| JBL Tune 510BT Fone | R$ 159 | Preço baixo, marca conhecida |
+| Havaianas Top | R$ 29,99 | Menor ticket = mais fácil converter |
+| Garrafa Stanley 1L | R$ 249 | Trend atual, altíssima demanda |
+| O Poder do Hábito | R$ 33,90 | Livro popular, ticket baixo |
+| Pai Rico Pai Pobre | R$ 34,90 | Best-seller eterno |
+
+### Plano de ação semanal
+
+#### Semana 1 (23-29 mar): Meta Ads focado em Amazon
+1. **Criar 2 campanhas no Meta Ads** focadas APENAS em produtos Amazon:
+   - **Campanha 1 — "Achados Amazon"**: Carrossel com Echo Dot + Fire TV + Kindle + JBL
+     - Público: Interessados em tecnologia, Amazon, gadgets. 18-40 anos.
+     - Orçamento: R$ 20/dia
+     - Link: `https://marketpaycommerce.com.br/busca?q=amazon&utm_source=meta&utm_medium=cpc&utm_campaign=amazon_tech`
+   - **Campanha 2 — "Livros Best-Seller"**: Carrossel com livros populares
+     - Público: Interessados em livros, desenvolvimento pessoal, leitura. 20-45 anos.
+     - Orçamento: R$ 10/dia
+     - Link: `https://marketpaycommerce.com.br/categoria/livros?utm_source=meta&utm_medium=cpc&utm_campaign=amazon_livros`
+
+2. **Copy sugerida para os anúncios:**
+   ```
+   Campanha 1 (Tech):
+   🔥 Os gadgets mais vendidos da Amazon com desconto!
+   📦 Frete grátis em todos
+   ✅ Echo Dot por R$ 349 | Fire TV por R$ 284 | Kindle por R$ 474
+   👉 Compare preços e economize no MarketPay
+
+   Campanha 2 (Livros):
+   📚 Os livros que vão mudar sua vida — a partir de R$ 26,90
+   ⭐ Best-sellers com até 46% OFF na Amazon
+   🚀 Pai Rico Pai Pobre | O Poder do Hábito | Essencialismo
+   👉 Veja todas as ofertas
+   ```
+
+#### Semana 2 (30 mar - 5 abr): Otimizar + Orgânico
+1. **Pausar** o que não está convertendo (CTR < 1%)
+2. **Dobrar orçamento** do que está funcionando
+3. **Posts orgânicos** no Instagram/TikTok:
+   - "5 gadgets Amazon que valem a pena em 2026"
+   - "Livros abaixo de R$ 35 que mudaram minha vida"
+   - "Comparei preços: Shopee vs Amazon vs ML"
+4. **WhatsApp/Telegram**: compartilhar links dos produtos Amazon com amigos/grupos
+
+#### Semana 3 (6-12 abr): Escalar
+1. Se já tiver 5+ vendas: **aumentar orçamento** 50%
+2. Adicionar **Google Ads Search** para termos:
+   - "echo dot preço"
+   - "kindle promoção"
+   - "fire tv stick barato"
+   - "livros baratos amazon"
+3. Considerar **influenciadores micro** (500-5k seguidores) para divulgar
+
+### Orçamento estimado para a missão
+
+| Canal | Diário | 30 dias | Esperado |
+|-------|--------|---------|----------|
+| Meta Ads (Amazon Tech) | R$ 20 | R$ 600 | 4-6 vendas |
+| Meta Ads (Amazon Livros) | R$ 10 | R$ 300 | 3-5 vendas |
+| Orgânico (grátis) | R$ 0 | R$ 0 | 1-3 vendas |
+| **Total** | **R$ 30** | **R$ 900** | **8-14 vendas** |
+
+### Dicas para maximizar conversão Amazon
+1. **Cookie de 24h**: quando alguém clica no seu link, QUALQUER compra na Amazon em 24h gera comissão (não só o produto clicado)
+2. **Produtos baratos convertem mais**: livros de R$ 30 convertem 5x mais que eletrônicos de R$ 2.000
+3. **Prime Day / Ofertas relâmpago**: ficar atento a promoções da Amazon para impulsionar
+4. **Produtos Amazon (marca própria)**: Echo, Kindle, Fire TV têm comissão maior (~8% vs 2-4% geral)
+
+### Links diretos dos produtos Amazon para anúncios
+
+```
+Echo Dot:      https://marketpaycommerce.com.br/produto/amz-B0CHX3QBCH
+Fire TV Stick: https://marketpaycommerce.com.br/produto/amz-B0BSHF7WHW
+Kindle:        https://marketpaycommerce.com.br/produto/amz-B09V3KXJPB
+JBL Fone:      https://marketpaycommerce.com.br/produto/amz-B09JQMJHXY
+Stanley:       https://marketpaycommerce.com.br/produto/amz-B0CDR9M7TT
+Havaianas:     https://marketpaycommerce.com.br/produto/amz-B0CN1M8K3Q
+Poder Hábito:  https://marketpaycommerce.com.br/produto/amz-B07PJV3JP6
+Pai Rico:      https://marketpaycommerce.com.br/produto/amz-B07HCZLHPF
+```
+
+### Acompanhamento
+Verificar diariamente em https://associados.amazon.com.br:
+- [ ] Cliques (meta: 50+/dia)
+- [ ] Pedidos (meta: 1-2/dia)
+- [ ] Ganhos totais
+- [ ] Quando atingir 10 vendas → solicitar PA-API imediatamente
+
+---
+
+## 9. Status dos Programas de Afiliados
+
+| Plataforma | Produtos | Comissão ativa? | Tag/ID | Ação necessária |
+|---|---|---|---|---|
+| **Shopee** | 3.000 | ✅ Sim | Links shope.ee/an_redir | Nenhuma |
+| **Amazon** | 49 | ✅ Sim | tag=marketpaycomm-20 | Vender 10 para PA-API |
+| **Mercado Livre** | 666 | ❌ NÃO | Sem tracking | Criar conta ML Afiliados |
+
+### Mercado Livre — AÇÃO NECESSÁRIA
+Os 666 produtos do ML usam permalinks diretos SEM rastreamento de afiliado.
+Para ganhar comissão:
+1. Acessar https://afiliados.mercadolivre.com.br/
+2. Criar conta de afiliado
+3. Gerar links com tracking
+4. Atualizar o código do site para usar links de afiliado ML
