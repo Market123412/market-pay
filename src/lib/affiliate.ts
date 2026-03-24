@@ -47,7 +47,7 @@ export function getAffiliateUrl(baseUrl: string, productId: string, title?: stri
       return `https://www.amazon.com.br/s?k=${q}&tag=marketpaycomm-20`;
     }
     if (baseUrl.includes("shopee")) {
-      return `https://shopee.com.br/search?keyword=${q}`;
+      return `https://shope.ee/an_redir?origin_link=${encodeURIComponent(`https://shopee.com.br/search?keyword=${q}`)}`;
     }
   }
 

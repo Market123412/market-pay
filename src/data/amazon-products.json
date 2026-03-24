@@ -2,11 +2,13 @@
   {
     "asin": "B0CHX3QBCH",
     "title": "Echo Dot 5ª Geração Smart Speaker com Alexa",
-    "price": 349.00,
-    "originalPrice": 499.00,
+    "price": 349,
+    "originalPrice": 499,
     "discount": 30,
     "image": "https://images-na.ssl-images-amazon.com/images/P/B0CHX3QBCH.01.LZZZZZZZ.jpg",
-    "images": ["https://images-na.ssl-images-amazon.com/images/P/B0CHX3QBCH.01.LZZZZZZZ.jpg"],
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0CHX3QBCH.01.LZZZZZZZ.jpg"
+    ],
     "category": "Eletrônicos",
     "categorySlug": "eletronicos",
     "freeShipping": true
@@ -15,10 +17,12 @@
     "asin": "B0BSHF7WHW",
     "title": "Fire TV Stick Lite com Controle Remoto por Voz com Alexa",
     "price": 284.05,
-    "originalPrice": 349.00,
+    "originalPrice": 349,
     "discount": 19,
     "image": "https://images-na.ssl-images-amazon.com/images/P/B0BSHF7WHW.01.LZZZZZZZ.jpg",
-    "images": ["https://images-na.ssl-images-amazon.com/images/P/B0BSHF7WHW.01.LZZZZZZZ.jpg"],
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0BSHF7WHW.01.LZZZZZZZ.jpg"
+    ],
     "category": "Eletrônicos",
     "categorySlug": "eletronicos",
     "freeShipping": true
@@ -27,10 +31,12 @@
     "asin": "B09V3KXJPB",
     "title": "Kindle 11ª Geração Tela 6\" 16GB Wi-Fi Com Iluminação Embutida",
     "price": 474.05,
-    "originalPrice": 549.00,
+    "originalPrice": 549,
     "discount": 14,
     "image": "https://images-na.ssl-images-amazon.com/images/P/B09V3KXJPB.01.LZZZZZZZ.jpg",
-    "images": ["https://images-na.ssl-images-amazon.com/images/P/B09V3KXJPB.01.LZZZZZZZ.jpg"],
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B09V3KXJPB.01.LZZZZZZZ.jpg"
+    ],
     "category": "Eletrônicos",
     "categorySlug": "eletronicos",
     "freeShipping": true
@@ -38,11 +44,13 @@
   {
     "asin": "B09JQMJHXY",
     "title": "JBL Tune 510BT Fone de Ouvido Bluetooth Sem Fio",
-    "price": 159.90,
-    "originalPrice": 249.00,
+    "price": 159.9,
+    "originalPrice": 249,
     "discount": 36,
     "image": "https://images-na.ssl-images-amazon.com/images/P/B09JQMJHXY.01.LZZZZZZZ.jpg",
-    "images": ["https://images-na.ssl-images-amazon.com/images/P/B09JQMJHXY.01.LZZZZZZZ.jpg"],
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B09JQMJHXY.01.LZZZZZZZ.jpg"
+    ],
     "category": "Eletrônicos",
     "categorySlug": "eletronicos",
     "freeShipping": true
@@ -50,11 +58,13 @@
   {
     "asin": "B0BT9CXXXX",
     "title": "Logitech MX Master 3S Mouse Sem Fio Ergonômico USB-C",
-    "price": 499.00,
-    "originalPrice": 699.00,
+    "price": 499,
+    "originalPrice": 699,
     "discount": 29,
     "image": "https://images-na.ssl-images-amazon.com/images/P/B0BT9CXXXX.01.LZZZZZZZ.jpg",
-    "images": ["https://images-na.ssl-images-amazon.com/images/P/B0BT9CXXXX.01.LZZZZZZZ.jpg"],
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0BT9CXXXX.01.LZZZZZZZ.jpg"
+    ],
     "category": "Eletrônicos",
     "categorySlug": "eletronicos",
     "freeShipping": true
@@ -62,11 +72,13 @@
   {
     "asin": "B0D1XD1ZV3",
     "title": "Carregador Portátil Power Bank 20000mAh USB-C Carga Rápida",
-    "price": 119.90,
-    "originalPrice": 179.90,
+    "price": 119.9,
+    "originalPrice": 179.9,
     "discount": 33,
     "image": "https://images-na.ssl-images-amazon.com/images/P/B0D1XD1ZV3.01.LZZZZZZZ.jpg",
-    "images": ["https://images-na.ssl-images-amazon.com/images/P/B0D1XD1ZV3.01.LZZZZZZZ.jpg"],
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0D1XD1ZV3.01.LZZZZZZZ.jpg"
+    ],
     "category": "Eletrônicos",
     "categorySlug": "eletronicos",
     "freeShipping": true
@@ -74,11 +86,13 @@
   {
     "asin": "B07FZ8S74R",
     "title": "Webcam Logitech C920s HD Pro 1080p com Tampa de Privacidade",
-    "price": 339.00,
-    "originalPrice": 499.00,
+    "price": 339,
+    "originalPrice": 499,
     "discount": 32,
     "image": "https://images-na.ssl-images-amazon.com/images/P/B07FZ8S74R.01.LZZZZZZZ.jpg",
-    "images": ["https://images-na.ssl-images-amazon.com/images/P/B07FZ8S74R.01.LZZZZZZZ.jpg"],
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B07FZ8S74R.01.LZZZZZZZ.jpg"
+    ],
     "category": "Eletrônicos",
     "categorySlug": "eletronicos",
     "freeShipping": true
@@ -86,11 +100,13 @@
   {
     "asin": "B07PDHSJ1H",
     "title": "Fire TV Stick 4K com Controle Remoto por Voz com Alexa",
-    "price": 399.00,
-    "originalPrice": 499.00,
+    "price": 399,
+    "originalPrice": 499,
     "discount": 20,
     "image": "https://images-na.ssl-images-amazon.com/images/P/B07PDHSJ1H.01.LZZZZZZZ.jpg",
-    "images": ["https://images-na.ssl-images-amazon.com/images/P/B07PDHSJ1H.01.LZZZZZZZ.jpg"],
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B07PDHSJ1H.01.LZZZZZZZ.jpg"
+    ],
     "category": "Eletrônicos",
     "categorySlug": "eletronicos",
     "freeShipping": true
@@ -98,11 +114,13 @@
   {
     "asin": "B07B428M7F",
     "title": "Kindle Paperwhite 10ª Geração 8GB Tela 6pol à Prova dÁgua",
-    "price": 599.00,
-    "originalPrice": 749.00,
+    "price": 599,
+    "originalPrice": 749,
     "discount": 20,
     "image": "https://images-na.ssl-images-amazon.com/images/P/B07B428M7F.01.LZZZZZZZ.jpg",
-    "images": ["https://images-na.ssl-images-amazon.com/images/P/B07B428M7F.01.LZZZZZZZ.jpg"],
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B07B428M7F.01.LZZZZZZZ.jpg"
+    ],
     "category": "Eletrônicos",
     "categorySlug": "eletronicos",
     "freeShipping": true
@@ -110,11 +128,13 @@
   {
     "asin": "B08N5WRWNW",
     "title": "Teclado Mecânico Gamer Redragon Kumara RGB Switch Brown",
-    "price": 189.90,
-    "originalPrice": 279.90,
+    "price": 189.9,
+    "originalPrice": 279.9,
     "discount": 32,
     "image": "https://images-na.ssl-images-amazon.com/images/P/B08N5WRWNW.01.LZZZZZZZ.jpg",
-    "images": ["https://images-na.ssl-images-amazon.com/images/P/B08N5WRWNW.01.LZZZZZZZ.jpg"],
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B08N5WRWNW.01.LZZZZZZZ.jpg"
+    ],
     "category": "Games",
     "categorySlug": "games",
     "freeShipping": true
@@ -122,11 +142,13 @@
   {
     "asin": "B0CX23V2ZK",
     "title": "Cadeira Gamer ThunderX3 EC3 Ergonômica com Apoio Lombar",
-    "price": 899.00,
-    "originalPrice": 1299.00,
+    "price": 899,
+    "originalPrice": 1299,
     "discount": 31,
     "image": "https://images-na.ssl-images-amazon.com/images/P/B0CX23V2ZK.01.LZZZZZZZ.jpg",
-    "images": ["https://images-na.ssl-images-amazon.com/images/P/B0CX23V2ZK.01.LZZZZZZZ.jpg"],
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0CX23V2ZK.01.LZZZZZZZ.jpg"
+    ],
     "category": "Games",
     "categorySlug": "games",
     "freeShipping": true
@@ -134,11 +156,13 @@
   {
     "asin": "B08FC5L3RG",
     "title": "Console Xbox Series S 512GB Digital Branco",
-    "price": 1999.00,
-    "originalPrice": 2499.00,
+    "price": 1999,
+    "originalPrice": 2499,
     "discount": 20,
     "image": "https://images-na.ssl-images-amazon.com/images/P/B08FC5L3RG.01.LZZZZZZZ.jpg",
-    "images": ["https://images-na.ssl-images-amazon.com/images/P/B08FC5L3RG.01.LZZZZZZZ.jpg"],
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B08FC5L3RG.01.LZZZZZZZ.jpg"
+    ],
     "category": "Games",
     "categorySlug": "games",
     "freeShipping": true
@@ -146,11 +170,13 @@
   {
     "asin": "B08BHXG144",
     "title": "Panela de Pressão Elétrica Mondial Digital Master 5L",
-    "price": 279.90,
-    "originalPrice": 399.90,
+    "price": 279.9,
+    "originalPrice": 399.9,
     "discount": 30,
     "image": "https://images-na.ssl-images-amazon.com/images/P/B08BHXG144.01.LZZZZZZZ.jpg",
-    "images": ["https://images-na.ssl-images-amazon.com/images/P/B08BHXG144.01.LZZZZZZZ.jpg"],
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B08BHXG144.01.LZZZZZZZ.jpg"
+    ],
     "category": "Casa & Decoração",
     "categorySlug": "casa-decoracao",
     "freeShipping": true
@@ -158,11 +184,13 @@
   {
     "asin": "B07JG7DS1T",
     "title": "Panela Elétrica de Pressão Instant Pot DUO 6L 7-em-1",
-    "price": 599.00,
-    "originalPrice": 799.00,
+    "price": 599,
+    "originalPrice": 799,
     "discount": 25,
     "image": "https://images-na.ssl-images-amazon.com/images/P/B07JG7DS1T.01.LZZZZZZZ.jpg",
-    "images": ["https://images-na.ssl-images-amazon.com/images/P/B07JG7DS1T.01.LZZZZZZZ.jpg"],
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B07JG7DS1T.01.LZZZZZZZ.jpg"
+    ],
     "category": "Casa & Decoração",
     "categorySlug": "casa-decoracao",
     "freeShipping": true
@@ -170,11 +198,13 @@
   {
     "asin": "B00FLYWNYQ",
     "title": "Frigideira de Ferro Fundido Lodge 26cm Pré-Temperada",
-    "price": 299.00,
-    "originalPrice": 399.00,
+    "price": 299,
+    "originalPrice": 399,
     "discount": 25,
     "image": "https://images-na.ssl-images-amazon.com/images/P/B00FLYWNYQ.01.LZZZZZZZ.jpg",
-    "images": ["https://images-na.ssl-images-amazon.com/images/P/B00FLYWNYQ.01.LZZZZZZZ.jpg"],
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B00FLYWNYQ.01.LZZZZZZZ.jpg"
+    ],
     "category": "Casa & Decoração",
     "categorySlug": "casa-decoracao",
     "freeShipping": true
@@ -182,11 +212,13 @@
   {
     "asin": "B00005IBXJ",
     "title": "Batedeira Planetária KitchenAid Stand Mixer 4.8L",
-    "price": 2499.00,
-    "originalPrice": 3299.00,
+    "price": 2499,
+    "originalPrice": 3299,
     "discount": 24,
     "image": "https://images-na.ssl-images-amazon.com/images/P/B00005IBXJ.01.LZZZZZZZ.jpg",
-    "images": ["https://images-na.ssl-images-amazon.com/images/P/B00005IBXJ.01.LZZZZZZZ.jpg"],
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B00005IBXJ.01.LZZZZZZZ.jpg"
+    ],
     "category": "Casa & Decoração",
     "categorySlug": "casa-decoracao",
     "freeShipping": true
@@ -194,11 +226,13 @@
   {
     "asin": "B07VGRJDFY",
     "title": "Mochila Notebook 15.6\" Impermeável com USB Executiva",
-    "price": 99.90,
-    "originalPrice": 169.90,
+    "price": 99.9,
+    "originalPrice": 169.9,
     "discount": 41,
     "image": "https://images-na.ssl-images-amazon.com/images/P/B07VGRJDFY.01.LZZZZZZZ.jpg",
-    "images": ["https://images-na.ssl-images-amazon.com/images/P/B07VGRJDFY.01.LZZZZZZZ.jpg"],
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B07VGRJDFY.01.LZZZZZZZ.jpg"
+    ],
     "category": "Moda",
     "categorySlug": "moda",
     "freeShipping": true
@@ -206,11 +240,13 @@
   {
     "asin": "B07QK955LS",
     "title": "Relógio Casio G-Shock GA-2100 CasiOak Preto",
-    "price": 399.00,
-    "originalPrice": 599.00,
+    "price": 399,
+    "originalPrice": 599,
     "discount": 33,
     "image": "https://images-na.ssl-images-amazon.com/images/P/B07QK955LS.01.LZZZZZZZ.jpg",
-    "images": ["https://images-na.ssl-images-amazon.com/images/P/B07QK955LS.01.LZZZZZZZ.jpg"],
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B07QK955LS.01.LZZZZZZZ.jpg"
+    ],
     "category": "Moda",
     "categorySlug": "moda",
     "freeShipping": true
@@ -218,11 +254,13 @@
   {
     "asin": "8535914846",
     "title": "Sapiens: Uma Breve História da Humanidade - Yuval Harari",
-    "price": 44.90,
-    "originalPrice": 79.90,
+    "price": 44.9,
+    "originalPrice": 79.9,
     "discount": 44,
     "image": "https://images-na.ssl-images-amazon.com/images/P/8535914846.01.LZZZZZZZ.jpg",
-    "images": ["https://images-na.ssl-images-amazon.com/images/P/8535914846.01.LZZZZZZZ.jpg"],
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/8535914846.01.LZZZZZZZ.jpg"
+    ],
     "category": "Livros",
     "categorySlug": "livros",
     "freeShipping": false
@@ -230,11 +268,13 @@
   {
     "asin": "6555600802",
     "title": "Mais Esperto que o Diabo - Napoleon Hill",
-    "price": 29.90,
-    "originalPrice": 49.90,
+    "price": 29.9,
+    "originalPrice": 49.9,
     "discount": 40,
     "image": "https://images-na.ssl-images-amazon.com/images/P/6555600802.01.LZZZZZZZ.jpg",
-    "images": ["https://images-na.ssl-images-amazon.com/images/P/6555600802.01.LZZZZZZZ.jpg"],
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/6555600802.01.LZZZZZZZ.jpg"
+    ],
     "category": "Livros",
     "categorySlug": "livros",
     "freeShipping": false
@@ -242,11 +282,13 @@
   {
     "asin": "8532530788",
     "title": "O Alquimista - Paulo Coelho",
-    "price": 29.90,
-    "originalPrice": 54.90,
+    "price": 29.9,
+    "originalPrice": 54.9,
     "discount": 46,
     "image": "https://images-na.ssl-images-amazon.com/images/P/8532530788.01.LZZZZZZZ.jpg",
-    "images": ["https://images-na.ssl-images-amazon.com/images/P/8532530788.01.LZZZZZZZ.jpg"],
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/8532530788.01.LZZZZZZZ.jpg"
+    ],
     "category": "Livros",
     "categorySlug": "livros",
     "freeShipping": false
@@ -254,11 +296,13 @@
   {
     "asin": "8543102146",
     "title": "As 48 Leis do Poder - Robert Greene",
-    "price": 49.90,
-    "originalPrice": 89.90,
+    "price": 49.9,
+    "originalPrice": 89.9,
     "discount": 44,
     "image": "https://images-na.ssl-images-amazon.com/images/P/8543102146.01.LZZZZZZZ.jpg",
-    "images": ["https://images-na.ssl-images-amazon.com/images/P/8543102146.01.LZZZZZZZ.jpg"],
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/8543102146.01.LZZZZZZZ.jpg"
+    ],
     "category": "Livros",
     "categorySlug": "livros",
     "freeShipping": false
@@ -266,11 +310,13 @@
   {
     "asin": "8550804681",
     "title": "O Homem Mais Rico da Babilônia - George S. Clason",
-    "price": 19.90,
-    "originalPrice": 39.90,
+    "price": 19.9,
+    "originalPrice": 39.9,
     "discount": 50,
     "image": "https://images-na.ssl-images-amazon.com/images/P/8550804681.01.LZZZZZZZ.jpg",
-    "images": ["https://images-na.ssl-images-amazon.com/images/P/8550804681.01.LZZZZZZZ.jpg"],
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/8550804681.01.LZZZZZZZ.jpg"
+    ],
     "category": "Livros",
     "categorySlug": "livros",
     "freeShipping": false
@@ -278,11 +324,13 @@
   {
     "asin": "8595083517",
     "title": "Hábitos Atômicos - James Clear",
-    "price": 39.90,
-    "originalPrice": 69.90,
+    "price": 39.9,
+    "originalPrice": 69.9,
     "discount": 43,
     "image": "https://images-na.ssl-images-amazon.com/images/P/8595083517.01.LZZZZZZZ.jpg",
-    "images": ["https://images-na.ssl-images-amazon.com/images/P/8595083517.01.LZZZZZZZ.jpg"],
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/8595083517.01.LZZZZZZZ.jpg"
+    ],
     "category": "Livros",
     "categorySlug": "livros",
     "freeShipping": false
@@ -290,11 +338,13 @@
   {
     "asin": "8544001149",
     "title": "Quem Pensa Enriquece - Napoleon Hill",
-    "price": 24.90,
-    "originalPrice": 44.90,
+    "price": 24.9,
+    "originalPrice": 44.9,
     "discount": 45,
     "image": "https://images-na.ssl-images-amazon.com/images/P/8544001149.01.LZZZZZZZ.jpg",
-    "images": ["https://images-na.ssl-images-amazon.com/images/P/8544001149.01.LZZZZZZZ.jpg"],
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/8544001149.01.LZZZZZZZ.jpg"
+    ],
     "category": "Livros",
     "categorySlug": "livros",
     "freeShipping": false
@@ -302,11 +352,13 @@
   {
     "asin": "8566997360",
     "title": "O Milagre da Manhã - Hal Elrod",
-    "price": 29.90,
-    "originalPrice": 49.90,
+    "price": 29.9,
+    "originalPrice": 49.9,
     "discount": 40,
     "image": "https://images-na.ssl-images-amazon.com/images/P/8566997360.01.LZZZZZZZ.jpg",
-    "images": ["https://images-na.ssl-images-amazon.com/images/P/8566997360.01.LZZZZZZZ.jpg"],
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/8566997360.01.LZZZZZZZ.jpg"
+    ],
     "category": "Livros",
     "categorySlug": "livros",
     "freeShipping": false
@@ -314,11 +366,13 @@
   {
     "asin": "8580575397",
     "title": "A Coragem de Ser Imperfeito - Brené Brown",
-    "price": 34.90,
-    "originalPrice": 59.90,
+    "price": 34.9,
+    "originalPrice": 59.9,
     "discount": 42,
     "image": "https://images-na.ssl-images-amazon.com/images/P/8580575397.01.LZZZZZZZ.jpg",
-    "images": ["https://images-na.ssl-images-amazon.com/images/P/8580575397.01.LZZZZZZZ.jpg"],
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/8580575397.01.LZZZZZZZ.jpg"
+    ],
     "category": "Livros",
     "categorySlug": "livros",
     "freeShipping": false
@@ -326,103 +380,3179 @@
   {
     "asin": "8568014542",
     "title": "Me Poupe! 10 Passos para Nunca Mais Faltar Dinheiro - Nathalia Arcuri",
-    "price": 26.90,
-    "originalPrice": 49.90,
+    "price": 26.9,
+    "originalPrice": 49.9,
     "discount": 46,
     "image": "https://images-na.ssl-images-amazon.com/images/P/8568014542.01.LZZZZZZZ.jpg",
-    "images": ["https://images-na.ssl-images-amazon.com/images/P/8568014542.01.LZZZZZZZ.jpg"],
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/8568014542.01.LZZZZZZZ.jpg"
+    ],
     "category": "Livros",
     "categorySlug": "livros",
     "freeShipping": false
   },
-  {"asin":"B0DCWL62TJ","title":"Samsung Galaxy S24 FE 128GB 5G Tela 6.7\" Câmera Tripla 50MP","price":2999.00,"originalPrice":3999.00,"discount":25,"image":"https://images-na.ssl-images-amazon.com/images/P/B0DCWL62TJ.01.LZZZZZZZ.jpg","images":["https://images-na.ssl-images-amazon.com/images/P/B0DCWL62TJ.01.LZZZZZZZ.jpg"],"category":"Eletrônicos","categorySlug":"eletronicos","freeShipping":true},
-  {"asin":"B0D77BFF2K","title":"Samsung Galaxy A55 5G 128GB Tela 6.6\" Super AMOLED 120Hz","price":1899.00,"originalPrice":2499.00,"discount":24,"image":"https://images-na.ssl-images-amazon.com/images/P/B0D77BFF2K.01.LZZZZZZZ.jpg","images":["https://images-na.ssl-images-amazon.com/images/P/B0D77BFF2K.01.LZZZZZZZ.jpg"],"category":"Eletrônicos","categorySlug":"eletronicos","freeShipping":true},
-  {"asin":"B0CN1TNXBK","title":"Motorola Edge 40 Neo 5G 256GB Tela 6.55\" pOLED 144Hz","price":1799.00,"originalPrice":2299.00,"discount":22,"image":"https://images-na.ssl-images-amazon.com/images/P/B0CN1TNXBK.01.LZZZZZZZ.jpg","images":["https://images-na.ssl-images-amazon.com/images/P/B0CN1TNXBK.01.LZZZZZZZ.jpg"],"category":"Eletrônicos","categorySlug":"eletronicos","freeShipping":true},
-  {"asin":"B0CG32KM7P","title":"Xiaomi Redmi Note 13 256GB Tela 6.67\" AMOLED 120Hz","price":1299.00,"originalPrice":1699.00,"discount":24,"image":"https://images-na.ssl-images-amazon.com/images/P/B0CG32KM7P.01.LZZZZZZZ.jpg","images":["https://images-na.ssl-images-amazon.com/images/P/B0CG32KM7P.01.LZZZZZZZ.jpg"],"category":"Eletrônicos","categorySlug":"eletronicos","freeShipping":true},
-  {"asin":"B0CT5P7FR5","title":"JBL Tune 520BT Fone Bluetooth Sem Fio com Microfone 57h","price":179.00,"originalPrice":299.00,"discount":40,"image":"https://images-na.ssl-images-amazon.com/images/P/B0CT5P7FR5.01.LZZZZZZZ.jpg","images":["https://images-na.ssl-images-amazon.com/images/P/B0CT5P7FR5.01.LZZZZZZZ.jpg"],"category":"Eletrônicos","categorySlug":"eletronicos","freeShipping":true},
-  {"asin":"B0C8PSRWFG","title":"JBL Flip 6 Caixa de Som Bluetooth Portátil à Prova dÁgua","price":599.00,"originalPrice":899.00,"discount":33,"image":"https://images-na.ssl-images-amazon.com/images/P/B0C8PSRWFG.01.LZZZZZZZ.jpg","images":["https://images-na.ssl-images-amazon.com/images/P/B0C8PSRWFG.01.LZZZZZZZ.jpg"],"category":"Eletrônicos","categorySlug":"eletronicos","freeShipping":true},
-  {"asin":"B0BVH2PL4S","title":"Sony WH-CH720N Fone Bluetooth com Cancelamento de Ruído","price":399.00,"originalPrice":699.00,"discount":43,"image":"https://images-na.ssl-images-amazon.com/images/P/B0BVH2PL4S.01.LZZZZZZZ.jpg","images":["https://images-na.ssl-images-amazon.com/images/P/B0BVH2PL4S.01.LZZZZZZZ.jpg"],"category":"Eletrônicos","categorySlug":"eletronicos","freeShipping":true},
-  {"asin":"B09XS7JWHH","title":"JBL Tune 510BT Fone On-Ear Bluetooth Sem Fio Preto","price":159.90,"originalPrice":249.00,"discount":36,"image":"https://images-na.ssl-images-amazon.com/images/P/B09XS7JWHH.01.LZZZZZZZ.jpg","images":["https://images-na.ssl-images-amazon.com/images/P/B09XS7JWHH.01.LZZZZZZZ.jpg"],"category":"Eletrônicos","categorySlug":"eletronicos","freeShipping":true},
-  {"asin":"B07PXN42FV","title":"JBL GO 3 Caixa de Som Bluetooth Portátil à Prova dÁgua","price":199.00,"originalPrice":299.00,"discount":33,"image":"https://images-na.ssl-images-amazon.com/images/P/B07PXN42FV.01.LZZZZZZZ.jpg","images":["https://images-na.ssl-images-amazon.com/images/P/B07PXN42FV.01.LZZZZZZZ.jpg"],"category":"Eletrônicos","categorySlug":"eletronicos","freeShipping":true},
-  {"asin":"B0CSTJ2Y5F","title":"Samsung Galaxy Watch 6 40mm Bluetooth Smartwatch","price":1299.00,"originalPrice":1799.00,"discount":28,"image":"https://images-na.ssl-images-amazon.com/images/P/B0CSTJ2Y5F.01.LZZZZZZZ.jpg","images":["https://images-na.ssl-images-amazon.com/images/P/B0CSTJ2Y5F.01.LZZZZZZZ.jpg"],"category":"Eletrônicos","categorySlug":"eletronicos","freeShipping":true},
-  {"asin":"B0CHX8SZQS","title":"Apple Watch SE 2ª Geração GPS 40mm Caixa de Alumínio","price":1999.00,"originalPrice":2799.00,"discount":29,"image":"https://images-na.ssl-images-amazon.com/images/P/B0CHX8SZQS.01.LZZZZZZZ.jpg","images":["https://images-na.ssl-images-amazon.com/images/P/B0CHX8SZQS.01.LZZZZZZZ.jpg"],"category":"Eletrônicos","categorySlug":"eletronicos","freeShipping":true},
-  {"asin":"B0CFPJYX7R","title":"Tablet Samsung Galaxy Tab A9 64GB Wi-Fi Tela 8.7\"","price":899.00,"originalPrice":1299.00,"discount":31,"image":"https://images-na.ssl-images-amazon.com/images/P/B0CFPJYX7R.01.LZZZZZZZ.jpg","images":["https://images-na.ssl-images-amazon.com/images/P/B0CFPJYX7R.01.LZZZZZZZ.jpg"],"category":"Eletrônicos","categorySlug":"eletronicos","freeShipping":true},
-  {"asin":"B0DGXBXNM1","title":"iPhone 16 128GB Preto Tela 6.1\" Câmera 48MP A18","price":5999.00,"originalPrice":7299.00,"discount":18,"image":"https://images-na.ssl-images-amazon.com/images/P/B0DGXBXNM1.01.LZZZZZZZ.jpg","images":["https://images-na.ssl-images-amazon.com/images/P/B0DGXBXNM1.01.LZZZZZZZ.jpg"],"category":"Eletrônicos","categorySlug":"eletronicos","freeShipping":true},
-  {"asin":"B0D6KKWG48","title":"Motorola Moto G85 5G 256GB Tela 6.67\" pOLED 120Hz","price":1599.00,"originalPrice":1999.00,"discount":20,"image":"https://images-na.ssl-images-amazon.com/images/P/B0D6KKWG48.01.LZZZZZZZ.jpg","images":["https://images-na.ssl-images-amazon.com/images/P/B0D6KKWG48.01.LZZZZZZZ.jpg"],"category":"Eletrônicos","categorySlug":"eletronicos","freeShipping":true},
-  {"asin":"B0BDHX8Z7R","title":"Xiaomi Mi Band 8 Smartband AMOLED 1.62\" à Prova dÁgua","price":189.00,"originalPrice":299.00,"discount":37,"image":"https://images-na.ssl-images-amazon.com/images/P/B0BDHX8Z7R.01.LZZZZZZZ.jpg","images":["https://images-na.ssl-images-amazon.com/images/P/B0BDHX8Z7R.01.LZZZZZZZ.jpg"],"category":"Eletrônicos","categorySlug":"eletronicos","freeShipping":true},
-  {"asin":"B0BTMMK982","title":"Notebook Lenovo IdeaPad 3i Intel Core i5 8GB 256GB SSD 15.6\"","price":2699.00,"originalPrice":3499.00,"discount":23,"image":"https://images-na.ssl-images-amazon.com/images/P/B0BTMMK982.01.LZZZZZZZ.jpg","images":["https://images-na.ssl-images-amazon.com/images/P/B0BTMMK982.01.LZZZZZZZ.jpg"],"category":"Eletrônicos","categorySlug":"eletronicos","freeShipping":true},
-  {"asin":"B0CXHM4GVN","title":"Smart TV Samsung 50\" Crystal UHD 4K Tizen","price":2199.00,"originalPrice":2999.00,"discount":27,"image":"https://images-na.ssl-images-amazon.com/images/P/B0CXHM4GVN.01.LZZZZZZZ.jpg","images":["https://images-na.ssl-images-amazon.com/images/P/B0CXHM4GVN.01.LZZZZZZZ.jpg"],"category":"Eletrônicos","categorySlug":"eletronicos","freeShipping":true},
-  {"asin":"B0BM3WR5RG","title":"Câmera de Segurança Wi-Fi Intelbras IM3 Full HD Noturna","price":189.00,"originalPrice":279.00,"discount":32,"image":"https://images-na.ssl-images-amazon.com/images/P/B0BM3WR5RG.01.LZZZZZZZ.jpg","images":["https://images-na.ssl-images-amazon.com/images/P/B0BM3WR5RG.01.LZZZZZZZ.jpg"],"category":"Eletrônicos","categorySlug":"eletronicos","freeShipping":true},
-  {"asin":"B08MQHWFH1","title":"Carregador Portátil Baseus 10000mAh USB-C Slim","price":89.90,"originalPrice":149.90,"discount":40,"image":"https://images-na.ssl-images-amazon.com/images/P/B08MQHWFH1.01.LZZZZZZZ.jpg","images":["https://images-na.ssl-images-amazon.com/images/P/B08MQHWFH1.01.LZZZZZZZ.jpg"],"category":"Eletrônicos","categorySlug":"eletronicos","freeShipping":true},
-  {"asin":"B0BXRYQR3G","title":"Echo Show 5 3ª Geração Smart Display com Alexa","price":499.00,"originalPrice":699.00,"discount":29,"image":"https://images-na.ssl-images-amazon.com/images/P/B0BXRYQR3G.01.LZZZZZZZ.jpg","images":["https://images-na.ssl-images-amazon.com/images/P/B0BXRYQR3G.01.LZZZZZZZ.jpg"],"category":"Eletrônicos","categorySlug":"eletronicos","freeShipping":true},
-  {"asin":"B0C5GGRQJF","title":"Fone de Ouvido Bluetooth QCY T13 ANC TWS Sem Fio","price":89.90,"originalPrice":149.90,"discount":40,"image":"https://images-na.ssl-images-amazon.com/images/P/B0C5GGRQJF.01.LZZZZZZZ.jpg","images":["https://images-na.ssl-images-amazon.com/images/P/B0C5GGRQJF.01.LZZZZZZZ.jpg"],"category":"Eletrônicos","categorySlug":"eletronicos","freeShipping":true},
-  {"asin":"B09WB3GQXN","title":"Samsung Galaxy Buds FE Fone Bluetooth ANC Preto","price":349.00,"originalPrice":549.00,"discount":36,"image":"https://images-na.ssl-images-amazon.com/images/P/B09WB3GQXN.01.LZZZZZZZ.jpg","images":["https://images-na.ssl-images-amazon.com/images/P/B09WB3GQXN.01.LZZZZZZZ.jpg"],"category":"Eletrônicos","categorySlug":"eletronicos","freeShipping":true},
-  {"asin":"B0979F79YG","title":"Caixa de Som Bluetooth JBL Charge 5 30W à Prova dÁgua","price":849.00,"originalPrice":1199.00,"discount":29,"image":"https://images-na.ssl-images-amazon.com/images/P/B0979F79YG.01.LZZZZZZZ.jpg","images":["https://images-na.ssl-images-amazon.com/images/P/B0979F79YG.01.LZZZZZZZ.jpg"],"category":"Eletrônicos","categorySlug":"eletronicos","freeShipping":true},
-  {"asin":"B09V2J9WBP","title":"Alexa Echo Pop Smart Speaker Compacto com Alexa","price":249.00,"originalPrice":349.00,"discount":29,"image":"https://images-na.ssl-images-amazon.com/images/P/B09V2J9WBP.01.LZZZZZZZ.jpg","images":["https://images-na.ssl-images-amazon.com/images/P/B09V2J9WBP.01.LZZZZZZZ.jpg"],"category":"Eletrônicos","categorySlug":"eletronicos","freeShipping":true},
-  {"asin":"B09HM2M4SN","title":"Mouse Gamer Logitech G203 Lightsync RGB 8000 DPI","price":99.90,"originalPrice":159.90,"discount":38,"image":"https://images-na.ssl-images-amazon.com/images/P/B09HM2M4SN.01.LZZZZZZZ.jpg","images":["https://images-na.ssl-images-amazon.com/images/P/B09HM2M4SN.01.LZZZZZZZ.jpg"],"category":"Games","categorySlug":"games","freeShipping":true},
-  {"asin":"B0BT7MMZ4X","title":"Fire TV Stick 4K Max 2ª Geração Wi-Fi 6E Dolby Vision","price":449.00,"originalPrice":599.00,"discount":25,"image":"https://images-na.ssl-images-amazon.com/images/P/B0BT7MMZ4X.01.LZZZZZZZ.jpg","images":["https://images-na.ssl-images-amazon.com/images/P/B0BT7MMZ4X.01.LZZZZZZZ.jpg"],"category":"Eletrônicos","categorySlug":"eletronicos","freeShipping":true},
-  {"asin":"B0BXKCZFP1","title":"Ring Video Doorbell Câmera de Segurança Wi-Fi HD","price":399.00,"originalPrice":599.00,"discount":33,"image":"https://images-na.ssl-images-amazon.com/images/P/B0BXKCZFP1.01.LZZZZZZZ.jpg","images":["https://images-na.ssl-images-amazon.com/images/P/B0BXKCZFP1.01.LZZZZZZZ.jpg"],"category":"Eletrônicos","categorySlug":"eletronicos","freeShipping":true},
-  {"asin":"B0BN72Y7NH","title":"Headset Gamer HyperX Cloud Stinger 2 Core PC/PS4/PS5","price":199.00,"originalPrice":299.00,"discount":33,"image":"https://images-na.ssl-images-amazon.com/images/P/B0BN72Y7NH.01.LZZZZZZZ.jpg","images":["https://images-na.ssl-images-amazon.com/images/P/B0BN72Y7NH.01.LZZZZZZZ.jpg"],"category":"Games","categorySlug":"games","freeShipping":true},
-  {"asin":"B0B3PSRHHN","title":"Blink Mini 2 Câmera de Segurança Compacta Plug-In HD","price":199.00,"originalPrice":299.00,"discount":33,"image":"https://images-na.ssl-images-amazon.com/images/P/B0B3PSRHHN.01.LZZZZZZZ.jpg","images":["https://images-na.ssl-images-amazon.com/images/P/B0B3PSRHHN.01.LZZZZZZZ.jpg"],"category":"Eletrônicos","categorySlug":"eletronicos","freeShipping":true},
-  {"asin":"B09JQRJD5B","title":"Controle DualSense PlayStation 5 Sem Fio Branco","price":349.00,"originalPrice":499.00,"discount":30,"image":"https://images-na.ssl-images-amazon.com/images/P/B09JQRJD5B.01.LZZZZZZZ.jpg","images":["https://images-na.ssl-images-amazon.com/images/P/B09JQRJD5B.01.LZZZZZZZ.jpg"],"category":"Games","categorySlug":"games","freeShipping":true},
-  {"asin":"B07VJYZFVR","title":"Controle Xbox Sem Fio Carbon Black Bluetooth PC/Xbox","price":399.00,"originalPrice":549.00,"discount":27,"image":"https://images-na.ssl-images-amazon.com/images/P/B07VJYZFVR.01.LZZZZZZZ.jpg","images":["https://images-na.ssl-images-amazon.com/images/P/B07VJYZFVR.01.LZZZZZZZ.jpg"],"category":"Games","categorySlug":"games","freeShipping":true},
-  {"asin":"B0BL2K42TN","title":"Tênis Nike Revolution 6 Masculino Preto","price":249.90,"originalPrice":399.99,"discount":38,"image":"https://images-na.ssl-images-amazon.com/images/P/B0BL2K42TN.01.LZZZZZZZ.jpg","images":["https://images-na.ssl-images-amazon.com/images/P/B0BL2K42TN.01.LZZZZZZZ.jpg"],"category":"Moda","categorySlug":"moda","freeShipping":true},
-  {"asin":"B09NNRFLZN","title":"Tênis Nike Air Max SC Masculino Branco","price":299.90,"originalPrice":449.99,"discount":33,"image":"https://images-na.ssl-images-amazon.com/images/P/B09NNRFLZN.01.LZZZZZZZ.jpg","images":["https://images-na.ssl-images-amazon.com/images/P/B09NNRFLZN.01.LZZZZZZZ.jpg"],"category":"Moda","categorySlug":"moda","freeShipping":true},
-  {"asin":"B0CY5JD84X","title":"Tênis Adidas Runfalcon 3.0 Masculino Preto","price":199.90,"originalPrice":349.99,"discount":43,"image":"https://images-na.ssl-images-amazon.com/images/P/B0CY5JD84X.01.LZZZZZZZ.jpg","images":["https://images-na.ssl-images-amazon.com/images/P/B0CY5JD84X.01.LZZZZZZZ.jpg"],"category":"Moda","categorySlug":"moda","freeShipping":true},
-  {"asin":"B0BXKJ2WGV","title":"Tênis Olympikus Corre 3 Masculino Academia Corrida","price":159.90,"originalPrice":249.90,"discount":36,"image":"https://images-na.ssl-images-amazon.com/images/P/B0BXKJ2WGV.01.LZZZZZZZ.jpg","images":["https://images-na.ssl-images-amazon.com/images/P/B0BXKJ2WGV.01.LZZZZZZZ.jpg"],"category":"Moda","categorySlug":"moda","freeShipping":true},
-  {"asin":"B0CGK3W5RQ","title":"Tênis Nike Court Vision Low Feminino Branco","price":279.90,"originalPrice":399.99,"discount":30,"image":"https://images-na.ssl-images-amazon.com/images/P/B0CGK3W5RQ.01.LZZZZZZZ.jpg","images":["https://images-na.ssl-images-amazon.com/images/P/B0CGK3W5RQ.01.LZZZZZZZ.jpg"],"category":"Moda","categorySlug":"moda","freeShipping":true},
-  {"asin":"B0BKJQ8DQR","title":"Tênis Adidas Grand Court Base 2.0 Feminino Branco Rosa","price":229.90,"originalPrice":349.99,"discount":34,"image":"https://images-na.ssl-images-amazon.com/images/P/B0BKJQ8DQR.01.LZZZZZZZ.jpg","images":["https://images-na.ssl-images-amazon.com/images/P/B0BKJQ8DQR.01.LZZZZZZZ.jpg"],"category":"Moda","categorySlug":"moda","freeShipping":true},
-  {"asin":"B0CPJQFH7D","title":"Sandália Havaianas Slim Feminina Rosa","price":34.90,"originalPrice":49.90,"discount":30,"image":"https://images-na.ssl-images-amazon.com/images/P/B0CPJQFH7D.01.LZZZZZZZ.jpg","images":["https://images-na.ssl-images-amazon.com/images/P/B0CPJQFH7D.01.LZZZZZZZ.jpg"],"category":"Moda","categorySlug":"moda","freeShipping":false},
-  {"asin":"B0CXK7MMWZ","title":"Calça Jeans Masculina Slim Fit Lycra Azul Escuro","price":89.90,"originalPrice":149.90,"discount":40,"image":"https://images-na.ssl-images-amazon.com/images/P/B0CXK7MMWZ.01.LZZZZZZZ.jpg","images":["https://images-na.ssl-images-amazon.com/images/P/B0CXK7MMWZ.01.LZZZZZZZ.jpg"],"category":"Moda","categorySlug":"moda","freeShipping":true},
-  {"asin":"B0CRWJT5N7","title":"Calça Jeans Feminina Skinny Cintura Alta Azul","price":79.90,"originalPrice":129.90,"discount":38,"image":"https://images-na.ssl-images-amazon.com/images/P/B0CRWJT5N7.01.LZZZZZZZ.jpg","images":["https://images-na.ssl-images-amazon.com/images/P/B0CRWJT5N7.01.LZZZZZZZ.jpg"],"category":"Moda","categorySlug":"moda","freeShipping":true},
-  {"asin":"B0CPJDT4MR","title":"Camiseta Polo Masculina Lacoste Classic Fit Algodão","price":299.90,"originalPrice":449.00,"discount":33,"image":"https://images-na.ssl-images-amazon.com/images/P/B0CPJDT4MR.01.LZZZZZZZ.jpg","images":["https://images-na.ssl-images-amazon.com/images/P/B0CPJDT4MR.01.LZZZZZZZ.jpg"],"category":"Moda","categorySlug":"moda","freeShipping":true},
-  {"asin":"B0BX4T2ZRP","title":"Camiseta Básica Masculina Algodão Lisa Preta","price":39.90,"originalPrice":69.90,"discount":43,"image":"https://images-na.ssl-images-amazon.com/images/P/B0BX4T2ZRP.01.LZZZZZZZ.jpg","images":["https://images-na.ssl-images-amazon.com/images/P/B0BX4T2ZRP.01.LZZZZZZZ.jpg"],"category":"Moda","categorySlug":"moda","freeShipping":false},
-  {"asin":"B0CRWK2PNR","title":"Bermuda Masculina Sarja Slim com Lycra Bege","price":69.90,"originalPrice":119.90,"discount":42,"image":"https://images-na.ssl-images-amazon.com/images/P/B0CRWK2PNR.01.LZZZZZZZ.jpg","images":["https://images-na.ssl-images-amazon.com/images/P/B0CRWK2PNR.01.LZZZZZZZ.jpg"],"category":"Moda","categorySlug":"moda","freeShipping":true},
-  {"asin":"B0BWGJF5JQ","title":"Jaqueta Corta Vento Masculina Impermeável com Capuz","price":99.90,"originalPrice":179.90,"discount":44,"image":"https://images-na.ssl-images-amazon.com/images/P/B0BWGJF5JQ.01.LZZZZZZZ.jpg","images":["https://images-na.ssl-images-amazon.com/images/P/B0BWGJF5JQ.01.LZZZZZZZ.jpg"],"category":"Moda","categorySlug":"moda","freeShipping":true},
-  {"asin":"B0CRN6LRG9","title":"Vestido Feminino Midi Canelado Manga Longa Preto","price":79.90,"originalPrice":139.90,"discount":43,"image":"https://images-na.ssl-images-amazon.com/images/P/B0CRN6LRG9.01.LZZZZZZZ.jpg","images":["https://images-na.ssl-images-amazon.com/images/P/B0CRN6LRG9.01.LZZZZZZZ.jpg"],"category":"Moda","categorySlug":"moda","freeShipping":true},
-  {"asin":"B0CXJQP2HL","title":"Vestido Feminino Longo Floral Estampado Verão","price":89.90,"originalPrice":159.90,"discount":44,"image":"https://images-na.ssl-images-amazon.com/images/P/B0CXJQP2HL.01.LZZZZZZZ.jpg","images":["https://images-na.ssl-images-amazon.com/images/P/B0CXJQP2HL.01.LZZZZZZZ.jpg"],"category":"Moda","categorySlug":"moda","freeShipping":true},
-  {"asin":"B0CPJKQT8Z","title":"Blusa Feminina Cropped Canelada Manga Curta Branca","price":39.90,"originalPrice":79.90,"discount":50,"image":"https://images-na.ssl-images-amazon.com/images/P/B0CPJKQT8Z.01.LZZZZZZZ.jpg","images":["https://images-na.ssl-images-amazon.com/images/P/B0CPJKQT8Z.01.LZZZZZZZ.jpg"],"category":"Moda","categorySlug":"moda","freeShipping":false},
-  {"asin":"B0CRN58WGH","title":"Conjunto Feminino Moletom Cropped e Calça Jogger","price":109.90,"originalPrice":189.90,"discount":42,"image":"https://images-na.ssl-images-amazon.com/images/P/B0CRN58WGH.01.LZZZZZZZ.jpg","images":["https://images-na.ssl-images-amazon.com/images/P/B0CRN58WGH.01.LZZZZZZZ.jpg"],"category":"Moda","categorySlug":"moda","freeShipping":true},
-  {"asin":"B0BX5K7QJR","title":"Bolsa Feminina Transversal Couro Sintético Preta","price":59.90,"originalPrice":99.90,"discount":40,"image":"https://images-na.ssl-images-amazon.com/images/P/B0BX5K7QJR.01.LZZZZZZZ.jpg","images":["https://images-na.ssl-images-amazon.com/images/P/B0BX5K7QJR.01.LZZZZZZZ.jpg"],"category":"Moda","categorySlug":"moda","freeShipping":true},
-  {"asin":"B0CK4RJQWN","title":"Bolsa Feminina Grande Tote Bag Shopper Couro PU","price":89.90,"originalPrice":159.90,"discount":44,"image":"https://images-na.ssl-images-amazon.com/images/P/B0CK4RJQWN.01.LZZZZZZZ.jpg","images":["https://images-na.ssl-images-amazon.com/images/P/B0CK4RJQWN.01.LZZZZZZZ.jpg"],"category":"Moda","categorySlug":"moda","freeShipping":true},
-  {"asin":"B0CRWJ7HPN","title":"Saia Feminina Midi Plissada Cintura Alta Preta","price":69.90,"originalPrice":119.90,"discount":42,"image":"https://images-na.ssl-images-amazon.com/images/P/B0CRWJ7HPN.01.LZZZZZZZ.jpg","images":["https://images-na.ssl-images-amazon.com/images/P/B0CRWJ7HPN.01.LZZZZZZZ.jpg"],"category":"Moda","categorySlug":"moda","freeShipping":true},
-  {"asin":"B0CPJGV8DL","title":"Sandália Feminina Plataforma Anabela Tratorada","price":89.90,"originalPrice":149.90,"discount":40,"image":"https://images-na.ssl-images-amazon.com/images/P/B0CPJGV8DL.01.LZZZZZZZ.jpg","images":["https://images-na.ssl-images-amazon.com/images/P/B0CPJGV8DL.01.LZZZZZZZ.jpg"],"category":"Moda","categorySlug":"moda","freeShipping":true},
-  {"asin":"B0CXK8NWT5","title":"Relógio Casio Vintage A168WA-1WDF Unissex Prateado","price":199.90,"originalPrice":299.00,"discount":33,"image":"https://images-na.ssl-images-amazon.com/images/P/B0CXK8NWT5.01.LZZZZZZZ.jpg","images":["https://images-na.ssl-images-amazon.com/images/P/B0CXK8NWT5.01.LZZZZZZZ.jpg"],"category":"Moda","categorySlug":"moda","freeShipping":true},
-  {"asin":"B0BKJFR3WZ","title":"Relógio Masculino Casio G-Shock DW-5600BB Preto Digital","price":449.00,"originalPrice":649.00,"discount":31,"image":"https://images-na.ssl-images-amazon.com/images/P/B0BKJFR3WZ.01.LZZZZZZZ.jpg","images":["https://images-na.ssl-images-amazon.com/images/P/B0BKJFR3WZ.01.LZZZZZZZ.jpg"],"category":"Moda","categorySlug":"moda","freeShipping":true},
-  {"asin":"B0CRN42JVN","title":"Óculos de Sol Masculino Polarizado UV400 Esportivo","price":59.90,"originalPrice":99.90,"discount":40,"image":"https://images-na.ssl-images-amazon.com/images/P/B0CRN42JVN.01.LZZZZZZZ.jpg","images":["https://images-na.ssl-images-amazon.com/images/P/B0CRN42JVN.01.LZZZZZZZ.jpg"],"category":"Moda","categorySlug":"moda","freeShipping":true},
-  {"asin":"B0CPJFR4QZ","title":"Óculos de Sol Feminino Gatinho Vintage UV400","price":49.90,"originalPrice":89.90,"discount":44,"image":"https://images-na.ssl-images-amazon.com/images/P/B0CPJFR4QZ.01.LZZZZZZZ.jpg","images":["https://images-na.ssl-images-amazon.com/images/P/B0CPJFR4QZ.01.LZZZZZZZ.jpg"],"category":"Moda","categorySlug":"moda","freeShipping":false},
-  {"asin":"B0BWGKF8ZN","title":"Mochila Masculina Executiva Notebook 15.6\" Couro","price":129.90,"originalPrice":219.90,"discount":41,"image":"https://images-na.ssl-images-amazon.com/images/P/B0BWGKF8ZN.01.LZZZZZZZ.jpg","images":["https://images-na.ssl-images-amazon.com/images/P/B0BWGKF8ZN.01.LZZZZZZZ.jpg"],"category":"Moda","categorySlug":"moda","freeShipping":true},
-  {"asin":"B0CXK6JD2M","title":"Cinto Masculino Couro Legítimo Fivela Automática","price":49.90,"originalPrice":89.90,"discount":44,"image":"https://images-na.ssl-images-amazon.com/images/P/B0CXK6JD2M.01.LZZZZZZZ.jpg","images":["https://images-na.ssl-images-amazon.com/images/P/B0CXK6JD2M.01.LZZZZZZZ.jpg"],"category":"Moda","categorySlug":"moda","freeShipping":false},
-  {"asin":"B0CRWH9FJL","title":"Carteira Masculina Couro Legítimo Slim Bifold","price":59.90,"originalPrice":99.90,"discount":40,"image":"https://images-na.ssl-images-amazon.com/images/P/B0CRWH9FJL.01.LZZZZZZZ.jpg","images":["https://images-na.ssl-images-amazon.com/images/P/B0CRWH9FJL.01.LZZZZZZZ.jpg"],"category":"Moda","categorySlug":"moda","freeShipping":false},
-  {"asin":"B0CPJHT6QK","title":"Calça Legging Feminina Fitness Cintura Alta Preta","price":49.90,"originalPrice":89.90,"discount":44,"image":"https://images-na.ssl-images-amazon.com/images/P/B0CPJHT6QK.01.LZZZZZZZ.jpg","images":["https://images-na.ssl-images-amazon.com/images/P/B0CPJHT6QK.01.LZZZZZZZ.jpg"],"category":"Moda","categorySlug":"moda","freeShipping":false},
-  {"asin":"B0CRN3BQ8R","title":"Top Fitness Feminino com Bojo Removível Preto","price":34.90,"originalPrice":59.90,"discount":42,"image":"https://images-na.ssl-images-amazon.com/images/P/B0CRN3BQ8R.01.LZZZZZZZ.jpg","images":["https://images-na.ssl-images-amazon.com/images/P/B0CRN3BQ8R.01.LZZZZZZZ.jpg"],"category":"Moda","categorySlug":"moda","freeShipping":false},
-  {"asin":"B0BX4VTR8G","title":"Moletom Masculino com Capuz Básico Algodão Cinza","price":79.90,"originalPrice":139.90,"discount":43,"image":"https://images-na.ssl-images-amazon.com/images/P/B0BX4VTR8G.01.LZZZZZZZ.jpg","images":["https://images-na.ssl-images-amazon.com/images/P/B0BX4VTR8G.01.LZZZZZZZ.jpg"],"category":"Moda","categorySlug":"moda","freeShipping":true},
-  {"asin":"B0CXJHFNW4","title":"Calça Jogger Masculina Moletom com Bolso Preta","price":69.90,"originalPrice":119.90,"discount":42,"image":"https://images-na.ssl-images-amazon.com/images/P/B0CXJHFNW4.01.LZZZZZZZ.jpg","images":["https://images-na.ssl-images-amazon.com/images/P/B0CXJHFNW4.01.LZZZZZZZ.jpg"],"category":"Moda","categorySlug":"moda","freeShipping":true},
-  {"asin":"B0CPJMQZ4W","title":"Vestido Feminino Tubinho Social Manga Curta Azul","price":99.90,"originalPrice":179.90,"discount":44,"image":"https://images-na.ssl-images-amazon.com/images/P/B0CPJMQZ4W.01.LZZZZZZZ.jpg","images":["https://images-na.ssl-images-amazon.com/images/P/B0CPJMQZ4W.01.LZZZZZZZ.jpg"],"category":"Moda","categorySlug":"moda","freeShipping":true},
-  {"asin":"B0CRN67JWH","title":"Camisa Social Masculina Slim Fit Manga Longa Branca","price":79.90,"originalPrice":139.90,"discount":43,"image":"https://images-na.ssl-images-amazon.com/images/P/B0CRN67JWH.01.LZZZZZZZ.jpg","images":["https://images-na.ssl-images-amazon.com/images/P/B0CRN67JWH.01.LZZZZZZZ.jpg"],"category":"Moda","categorySlug":"moda","freeShipping":true},
-  {"asin":"B0BWGM2RNV","title":"Kit 5 Camisetas Masculinas Básicas Algodão Cores","price":89.90,"originalPrice":149.90,"discount":40,"image":"https://images-na.ssl-images-amazon.com/images/P/B0BWGM2RNV.01.LZZZZZZZ.jpg","images":["https://images-na.ssl-images-amazon.com/images/P/B0BWGM2RNV.01.LZZZZZZZ.jpg"],"category":"Moda","categorySlug":"moda","freeShipping":true},
-  {"asin":"B0CXK4NGRT","title":"Chinelo Havaianas Brasil Logo Unissex Verde","price":29.90,"originalPrice":44.90,"discount":33,"image":"https://images-na.ssl-images-amazon.com/images/P/B0CXK4NGRT.01.LZZZZZZZ.jpg","images":["https://images-na.ssl-images-amazon.com/images/P/B0CXK4NGRT.01.LZZZZZZZ.jpg"],"category":"Moda","categorySlug":"moda","freeShipping":false},
-  {"asin":"B0CRWF4PKD","title":"Jaqueta Feminina Puffer Nylon com Capuz Preta","price":149.90,"originalPrice":249.90,"discount":40,"image":"https://images-na.ssl-images-amazon.com/images/P/B0CRWF4PKD.01.LZZZZZZZ.jpg","images":["https://images-na.ssl-images-amazon.com/images/P/B0CRWF4PKD.01.LZZZZZZZ.jpg"],"category":"Moda","categorySlug":"moda","freeShipping":true},
-  {"asin":"B0CPJNW3QL","title":"Short Feminino Jeans Cintura Alta Destroyed Azul","price":59.90,"originalPrice":99.90,"discount":40,"image":"https://images-na.ssl-images-amazon.com/images/P/B0CPJNW3QL.01.LZZZZZZZ.jpg","images":["https://images-na.ssl-images-amazon.com/images/P/B0CPJNW3QL.01.LZZZZZZZ.jpg"],"category":"Moda","categorySlug":"moda","freeShipping":false},
-  {"asin":"B0CRN5KQMR","title":"Blazer Feminino Alfaiataria Oversized Bege","price":149.90,"originalPrice":249.90,"discount":40,"image":"https://images-na.ssl-images-amazon.com/images/P/B0CRN5KQMR.01.LZZZZZZZ.jpg","images":["https://images-na.ssl-images-amazon.com/images/P/B0CRN5KQMR.01.LZZZZZZZ.jpg"],"category":"Moda","categorySlug":"moda","freeShipping":true},
-  {"asin":"B0BX5JFQP8","title":"Sapatênis Masculino Casual Couro Confort Marrom","price":119.90,"originalPrice":199.90,"discount":40,"image":"https://images-na.ssl-images-amazon.com/images/P/B0BX5JFQP8.01.LZZZZZZZ.jpg","images":["https://images-na.ssl-images-amazon.com/images/P/B0BX5JFQP8.01.LZZZZZZZ.jpg"],"category":"Moda","categorySlug":"moda","freeShipping":true},
-  {"asin":"B0CXJRT5GN","title":"Kit 3 Cuecas Boxer Masculina Algodão Sem Costura","price":49.90,"originalPrice":79.90,"discount":38,"image":"https://images-na.ssl-images-amazon.com/images/P/B0CXJRT5GN.01.LZZZZZZZ.jpg","images":["https://images-na.ssl-images-amazon.com/images/P/B0CXJRT5GN.01.LZZZZZZZ.jpg"],"category":"Moda","categorySlug":"moda","freeShipping":false},
-  {"asin":"B0CPJKQWZ2","title":"Pijama Feminino Longo Inverno Estampado Confort","price":69.90,"originalPrice":109.90,"discount":36,"image":"https://images-na.ssl-images-amazon.com/images/P/B0CPJKQWZ2.01.LZZZZZZZ.jpg","images":["https://images-na.ssl-images-amazon.com/images/P/B0CPJKQWZ2.01.LZZZZZZZ.jpg"],"category":"Moda","categorySlug":"moda","freeShipping":true},
-  {"asin":"B0BX4RJ7NQ","title":"Aspirador de Pó Robô Inteligente Wi-Fi com Mapeamento","price":799.00,"originalPrice":1199.00,"discount":33,"image":"https://images-na.ssl-images-amazon.com/images/P/B0BX4RJ7NQ.01.LZZZZZZZ.jpg","images":["https://images-na.ssl-images-amazon.com/images/P/B0BX4RJ7NQ.01.LZZZZZZZ.jpg"],"category":"Casa & Decoração","categorySlug":"casa-decoracao","freeShipping":true},
-  {"asin":"B0CK4M2FQZ","title":"Air Fryer Mondial Forno 12L Digital Inox 1500W","price":399.00,"originalPrice":599.00,"discount":33,"image":"https://images-na.ssl-images-amazon.com/images/P/B0CK4M2FQZ.01.LZZZZZZZ.jpg","images":["https://images-na.ssl-images-amazon.com/images/P/B0CK4M2FQZ.01.LZZZZZZZ.jpg"],"category":"Casa & Decoração","categorySlug":"casa-decoracao","freeShipping":true},
-  {"asin":"B0CRWGN5MR","title":"Lâmpada Inteligente Wi-Fi LED RGB 10W Alexa Google","price":29.90,"originalPrice":49.90,"discount":40,"image":"https://images-na.ssl-images-amazon.com/images/P/B0CRWGN5MR.01.LZZZZZZZ.jpg","images":["https://images-na.ssl-images-amazon.com/images/P/B0CRWGN5MR.01.LZZZZZZZ.jpg"],"category":"Casa & Decoração","categorySlug":"casa-decoracao","freeShipping":false},
-  {"asin":"B0BWGH4RJD","title":"Jogo de Cama Queen 4 Peças Microfibra 150 Fios","price":79.90,"originalPrice":129.90,"discount":38,"image":"https://images-na.ssl-images-amazon.com/images/P/B0BWGH4RJD.01.LZZZZZZZ.jpg","images":["https://images-na.ssl-images-amazon.com/images/P/B0BWGH4RJD.01.LZZZZZZZ.jpg"],"category":"Casa & Decoração","categorySlug":"casa-decoracao","freeShipping":true},
-  {"asin":"B0CPJRWZ7K","title":"Purificador de Água IBBL Avanti Refrigerado Branco","price":599.00,"originalPrice":799.00,"discount":25,"image":"https://images-na.ssl-images-amazon.com/images/P/B0CPJRWZ7K.01.LZZZZZZZ.jpg","images":["https://images-na.ssl-images-amazon.com/images/P/B0CPJRWZ7K.01.LZZZZZZZ.jpg"],"category":"Casa & Decoração","categorySlug":"casa-decoracao","freeShipping":true},
-  {"asin":"B0CRN8KQVR","title":"Perfume Masculino Malbec Gold O Boticário 100ml","price":149.90,"originalPrice":219.90,"discount":32,"image":"https://images-na.ssl-images-amazon.com/images/P/B0CRN8KQVR.01.LZZZZZZZ.jpg","images":["https://images-na.ssl-images-amazon.com/images/P/B0CRN8KQVR.01.LZZZZZZZ.jpg"],"category":"Beleza & Saúde","categorySlug":"beleza-saude","freeShipping":true},
-  {"asin":"B0CPJW4KRZ","title":"Secador de Cabelo Profissional 2200W Íons Taiff","price":199.90,"originalPrice":299.90,"discount":33,"image":"https://images-na.ssl-images-amazon.com/images/P/B0CPJW4KRZ.01.LZZZZZZZ.jpg","images":["https://images-na.ssl-images-amazon.com/images/P/B0CPJW4KRZ.01.LZZZZZZZ.jpg"],"category":"Beleza & Saúde","categorySlug":"beleza-saude","freeShipping":true},
-  {"asin":"B0BX5HQJR7","title":"Kit Maquiagem Completo Paleta Sombras + Pincéis 12 Peças","price":69.90,"originalPrice":119.90,"discount":42,"image":"https://images-na.ssl-images-amazon.com/images/P/B0BX5HQJR7.01.LZZZZZZZ.jpg","images":["https://images-na.ssl-images-amazon.com/images/P/B0BX5HQJR7.01.LZZZZZZZ.jpg"],"category":"Beleza & Saúde","categorySlug":"beleza-saude","freeShipping":true},
-  {"asin":"B0CXJM3QWR","title":"Aparador de Barba e Cabelo Philips OneBlade QP2521","price":149.90,"originalPrice":229.00,"discount":35,"image":"https://images-na.ssl-images-amazon.com/images/P/B0CXJM3QWR.01.LZZZZZZZ.jpg","images":["https://images-na.ssl-images-amazon.com/images/P/B0CXJM3QWR.01.LZZZZZZZ.jpg"],"category":"Beleza & Saúde","categorySlug":"beleza-saude","freeShipping":true},
-  {"asin":"B0CRWN2QJK","title":"Perfume Feminino Egeo Dolce O Boticário 90ml","price":129.90,"originalPrice":189.90,"discount":32,"image":"https://images-na.ssl-images-amazon.com/images/P/B0CRWN2QJK.01.LZZZZZZZ.jpg","images":["https://images-na.ssl-images-amazon.com/images/P/B0CRWN2QJK.01.LZZZZZZZ.jpg"],"category":"Beleza & Saúde","categorySlug":"beleza-saude","freeShipping":true},
-  {"asin":"B0CPJZ5KR8","title":"Chapinha Profissional Titanium 450°F Bivolt Lizze","price":179.90,"originalPrice":279.00,"discount":36,"image":"https://images-na.ssl-images-amazon.com/images/P/B0CPJZ5KR8.01.LZZZZZZZ.jpg","images":["https://images-na.ssl-images-amazon.com/images/P/B0CPJZ5KR8.01.LZZZZZZZ.jpg"],"category":"Beleza & Saúde","categorySlug":"beleza-saude","freeShipping":true},
-  {"asin":"B0BX5NWR3Q","title":"Protetor Solar Facial La Roche-Posay Anthelios FPS70","price":79.90,"originalPrice":109.90,"discount":27,"image":"https://images-na.ssl-images-amazon.com/images/P/B0BX5NWR3Q.01.LZZZZZZZ.jpg","images":["https://images-na.ssl-images-amazon.com/images/P/B0BX5NWR3Q.01.LZZZZZZZ.jpg"],"category":"Beleza & Saúde","categorySlug":"beleza-saude","freeShipping":true},
-  {"asin":"B0CRN7WQJ4","title":"Whey Protein Concentrado 1kg Sabor Chocolate","price":89.90,"originalPrice":139.90,"discount":36,"image":"https://images-na.ssl-images-amazon.com/images/P/B0CRN7WQJ4.01.LZZZZZZZ.jpg","images":["https://images-na.ssl-images-amazon.com/images/P/B0CRN7WQJ4.01.LZZZZZZZ.jpg"],"category":"Esportes","categorySlug":"esportes","freeShipping":true},
-  {"asin":"B0CPJV5QR2","title":"Creatina Monohidratada 300g Max Titanium","price":69.90,"originalPrice":99.90,"discount":30,"image":"https://images-na.ssl-images-amazon.com/images/P/B0CPJV5QR2.01.LZZZZZZZ.jpg","images":["https://images-na.ssl-images-amazon.com/images/P/B0CPJV5QR2.01.LZZZZZZZ.jpg"],"category":"Esportes","categorySlug":"esportes","freeShipping":true},
-  {"asin":"B0BWGR4MQJ","title":"Garrafa Térmica Inox 1 Litro com Tampa Rosca","price":49.90,"originalPrice":79.90,"discount":38,"image":"https://images-na.ssl-images-amazon.com/images/P/B0BWGR4MQJ.01.LZZZZZZZ.jpg","images":["https://images-na.ssl-images-amazon.com/images/P/B0BWGR4MQJ.01.LZZZZZZZ.jpg"],"category":"Esportes","categorySlug":"esportes","freeShipping":true},
-  {"asin":"B0CXJKFR2Q","title":"Corda de Pular Speed Rope Rolamento Crossfit","price":29.90,"originalPrice":49.90,"discount":40,"image":"https://images-na.ssl-images-amazon.com/images/P/B0CXJKFR2Q.01.LZZZZZZZ.jpg","images":["https://images-na.ssl-images-amazon.com/images/P/B0CXJKFR2Q.01.LZZZZZZZ.jpg"],"category":"Esportes","categorySlug":"esportes","freeShipping":false},
-  {"asin":"B0CRN4MWQ7","title":"Colchonete Yoga Mat 10mm com Alça Transporte","price":49.90,"originalPrice":89.90,"discount":44,"image":"https://images-na.ssl-images-amazon.com/images/P/B0CRN4MWQ7.01.LZZZZZZZ.jpg","images":["https://images-na.ssl-images-amazon.com/images/P/B0CRN4MWQ7.01.LZZZZZZZ.jpg"],"category":"Esportes","categorySlug":"esportes","freeShipping":true}
+  {
+    "asin": "B0DCWL62TJ",
+    "title": "Samsung Galaxy S24 FE 128GB 5G Tela 6.7\" Câmera Tripla 50MP",
+    "price": 2999,
+    "originalPrice": 3999,
+    "discount": 25,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0DCWL62TJ.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0DCWL62TJ.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Eletrônicos",
+    "categorySlug": "eletronicos",
+    "freeShipping": true
+  },
+  {
+    "asin": "B0D77BFF2K",
+    "title": "Samsung Galaxy A55 5G 128GB Tela 6.6\" Super AMOLED 120Hz",
+    "price": 1899,
+    "originalPrice": 2499,
+    "discount": 24,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0D77BFF2K.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0D77BFF2K.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Eletrônicos",
+    "categorySlug": "eletronicos",
+    "freeShipping": true
+  },
+  {
+    "asin": "B0CN1TNXBK",
+    "title": "Motorola Edge 40 Neo 5G 256GB Tela 6.55\" pOLED 144Hz",
+    "price": 1799,
+    "originalPrice": 2299,
+    "discount": 22,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0CN1TNXBK.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0CN1TNXBK.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Eletrônicos",
+    "categorySlug": "eletronicos",
+    "freeShipping": true
+  },
+  {
+    "asin": "B0CG32KM7P",
+    "title": "Xiaomi Redmi Note 13 256GB Tela 6.67\" AMOLED 120Hz",
+    "price": 1299,
+    "originalPrice": 1699,
+    "discount": 24,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0CG32KM7P.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0CG32KM7P.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Eletrônicos",
+    "categorySlug": "eletronicos",
+    "freeShipping": true
+  },
+  {
+    "asin": "B0CT5P7FR5",
+    "title": "JBL Tune 520BT Fone Bluetooth Sem Fio com Microfone 57h",
+    "price": 179,
+    "originalPrice": 299,
+    "discount": 40,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0CT5P7FR5.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0CT5P7FR5.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Eletrônicos",
+    "categorySlug": "eletronicos",
+    "freeShipping": true
+  },
+  {
+    "asin": "B0C8PSRWFG",
+    "title": "JBL Flip 6 Caixa de Som Bluetooth Portátil à Prova dÁgua",
+    "price": 599,
+    "originalPrice": 899,
+    "discount": 33,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0C8PSRWFG.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0C8PSRWFG.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Eletrônicos",
+    "categorySlug": "eletronicos",
+    "freeShipping": true
+  },
+  {
+    "asin": "B0BVH2PL4S",
+    "title": "Sony WH-CH720N Fone Bluetooth com Cancelamento de Ruído",
+    "price": 399,
+    "originalPrice": 699,
+    "discount": 43,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0BVH2PL4S.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0BVH2PL4S.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Eletrônicos",
+    "categorySlug": "eletronicos",
+    "freeShipping": true
+  },
+  {
+    "asin": "B09XS7JWHH",
+    "title": "JBL Tune 510BT Fone On-Ear Bluetooth Sem Fio Preto",
+    "price": 159.9,
+    "originalPrice": 249,
+    "discount": 36,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B09XS7JWHH.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B09XS7JWHH.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Eletrônicos",
+    "categorySlug": "eletronicos",
+    "freeShipping": true
+  },
+  {
+    "asin": "B07PXN42FV",
+    "title": "JBL GO 3 Caixa de Som Bluetooth Portátil à Prova dÁgua",
+    "price": 199,
+    "originalPrice": 299,
+    "discount": 33,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B07PXN42FV.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B07PXN42FV.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Eletrônicos",
+    "categorySlug": "eletronicos",
+    "freeShipping": true
+  },
+  {
+    "asin": "B0CSTJ2Y5F",
+    "title": "Samsung Galaxy Watch 6 40mm Bluetooth Smartwatch",
+    "price": 1299,
+    "originalPrice": 1799,
+    "discount": 28,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0CSTJ2Y5F.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0CSTJ2Y5F.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Eletrônicos",
+    "categorySlug": "eletronicos",
+    "freeShipping": true
+  },
+  {
+    "asin": "B0CHX8SZQS",
+    "title": "Apple Watch SE 2ª Geração GPS 40mm Caixa de Alumínio",
+    "price": 1999,
+    "originalPrice": 2799,
+    "discount": 29,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0CHX8SZQS.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0CHX8SZQS.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Eletrônicos",
+    "categorySlug": "eletronicos",
+    "freeShipping": true
+  },
+  {
+    "asin": "B0CFPJYX7R",
+    "title": "Tablet Samsung Galaxy Tab A9 64GB Wi-Fi Tela 8.7\"",
+    "price": 899,
+    "originalPrice": 1299,
+    "discount": 31,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0CFPJYX7R.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0CFPJYX7R.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Eletrônicos",
+    "categorySlug": "eletronicos",
+    "freeShipping": true
+  },
+  {
+    "asin": "B0DGXBXNM1",
+    "title": "iPhone 16 128GB Preto Tela 6.1\" Câmera 48MP A18",
+    "price": 5999,
+    "originalPrice": 7299,
+    "discount": 18,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0DGXBXNM1.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0DGXBXNM1.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Eletrônicos",
+    "categorySlug": "eletronicos",
+    "freeShipping": true
+  },
+  {
+    "asin": "B0D6KKWG48",
+    "title": "Motorola Moto G85 5G 256GB Tela 6.67\" pOLED 120Hz",
+    "price": 1599,
+    "originalPrice": 1999,
+    "discount": 20,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0D6KKWG48.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0D6KKWG48.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Eletrônicos",
+    "categorySlug": "eletronicos",
+    "freeShipping": true
+  },
+  {
+    "asin": "B0BDHX8Z7R",
+    "title": "Xiaomi Mi Band 8 Smartband AMOLED 1.62\" à Prova dÁgua",
+    "price": 189,
+    "originalPrice": 299,
+    "discount": 37,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0BDHX8Z7R.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0BDHX8Z7R.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Eletrônicos",
+    "categorySlug": "eletronicos",
+    "freeShipping": true
+  },
+  {
+    "asin": "B0BTMMK982",
+    "title": "Notebook Lenovo IdeaPad 3i Intel Core i5 8GB 256GB SSD 15.6\"",
+    "price": 2699,
+    "originalPrice": 3499,
+    "discount": 23,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0BTMMK982.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0BTMMK982.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Eletrônicos",
+    "categorySlug": "eletronicos",
+    "freeShipping": true
+  },
+  {
+    "asin": "B0CXHM4GVN",
+    "title": "Smart TV Samsung 50\" Crystal UHD 4K Tizen",
+    "price": 2199,
+    "originalPrice": 2999,
+    "discount": 27,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0CXHM4GVN.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0CXHM4GVN.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Eletrônicos",
+    "categorySlug": "eletronicos",
+    "freeShipping": true
+  },
+  {
+    "asin": "B0BM3WR5RG",
+    "title": "Câmera de Segurança Wi-Fi Intelbras IM3 Full HD Noturna",
+    "price": 189,
+    "originalPrice": 279,
+    "discount": 32,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0BM3WR5RG.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0BM3WR5RG.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Eletrônicos",
+    "categorySlug": "eletronicos",
+    "freeShipping": true
+  },
+  {
+    "asin": "B08MQHWFH1",
+    "title": "Carregador Portátil Baseus 10000mAh USB-C Slim",
+    "price": 89.9,
+    "originalPrice": 149.9,
+    "discount": 40,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B08MQHWFH1.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B08MQHWFH1.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Eletrônicos",
+    "categorySlug": "eletronicos",
+    "freeShipping": true
+  },
+  {
+    "asin": "B0BXRYQR3G",
+    "title": "Echo Show 5 3ª Geração Smart Display com Alexa",
+    "price": 499,
+    "originalPrice": 699,
+    "discount": 29,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0BXRYQR3G.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0BXRYQR3G.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Eletrônicos",
+    "categorySlug": "eletronicos",
+    "freeShipping": true
+  },
+  {
+    "asin": "B0C5GGRQJF",
+    "title": "Fone de Ouvido Bluetooth QCY T13 ANC TWS Sem Fio",
+    "price": 89.9,
+    "originalPrice": 149.9,
+    "discount": 40,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0C5GGRQJF.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0C5GGRQJF.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Eletrônicos",
+    "categorySlug": "eletronicos",
+    "freeShipping": true
+  },
+  {
+    "asin": "B09WB3GQXN",
+    "title": "Samsung Galaxy Buds FE Fone Bluetooth ANC Preto",
+    "price": 349,
+    "originalPrice": 549,
+    "discount": 36,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B09WB3GQXN.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B09WB3GQXN.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Eletrônicos",
+    "categorySlug": "eletronicos",
+    "freeShipping": true
+  },
+  {
+    "asin": "B0979F79YG",
+    "title": "Caixa de Som Bluetooth JBL Charge 5 30W à Prova dÁgua",
+    "price": 849,
+    "originalPrice": 1199,
+    "discount": 29,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0979F79YG.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0979F79YG.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Eletrônicos",
+    "categorySlug": "eletronicos",
+    "freeShipping": true
+  },
+  {
+    "asin": "B09V2J9WBP",
+    "title": "Alexa Echo Pop Smart Speaker Compacto com Alexa",
+    "price": 249,
+    "originalPrice": 349,
+    "discount": 29,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B09V2J9WBP.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B09V2J9WBP.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Eletrônicos",
+    "categorySlug": "eletronicos",
+    "freeShipping": true
+  },
+  {
+    "asin": "B09HM2M4SN",
+    "title": "Mouse Gamer Logitech G203 Lightsync RGB 8000 DPI",
+    "price": 99.9,
+    "originalPrice": 159.9,
+    "discount": 38,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B09HM2M4SN.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B09HM2M4SN.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Games",
+    "categorySlug": "games",
+    "freeShipping": true
+  },
+  {
+    "asin": "B0BT7MMZ4X",
+    "title": "Fire TV Stick 4K Max 2ª Geração Wi-Fi 6E Dolby Vision",
+    "price": 449,
+    "originalPrice": 599,
+    "discount": 25,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0BT7MMZ4X.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0BT7MMZ4X.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Eletrônicos",
+    "categorySlug": "eletronicos",
+    "freeShipping": true
+  },
+  {
+    "asin": "B0BXKCZFP1",
+    "title": "Ring Video Doorbell Câmera de Segurança Wi-Fi HD",
+    "price": 399,
+    "originalPrice": 599,
+    "discount": 33,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0BXKCZFP1.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0BXKCZFP1.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Eletrônicos",
+    "categorySlug": "eletronicos",
+    "freeShipping": true
+  },
+  {
+    "asin": "B0BN72Y7NH",
+    "title": "Headset Gamer HyperX Cloud Stinger 2 Core PC/PS4/PS5",
+    "price": 199,
+    "originalPrice": 299,
+    "discount": 33,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0BN72Y7NH.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0BN72Y7NH.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Games",
+    "categorySlug": "games",
+    "freeShipping": true
+  },
+  {
+    "asin": "B0B3PSRHHN",
+    "title": "Blink Mini 2 Câmera de Segurança Compacta Plug-In HD",
+    "price": 199,
+    "originalPrice": 299,
+    "discount": 33,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0B3PSRHHN.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0B3PSRHHN.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Eletrônicos",
+    "categorySlug": "eletronicos",
+    "freeShipping": true
+  },
+  {
+    "asin": "B09JQRJD5B",
+    "title": "Controle DualSense PlayStation 5 Sem Fio Branco",
+    "price": 349,
+    "originalPrice": 499,
+    "discount": 30,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B09JQRJD5B.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B09JQRJD5B.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Games",
+    "categorySlug": "games",
+    "freeShipping": true
+  },
+  {
+    "asin": "B07VJYZFVR",
+    "title": "Controle Xbox Sem Fio Carbon Black Bluetooth PC/Xbox",
+    "price": 399,
+    "originalPrice": 549,
+    "discount": 27,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B07VJYZFVR.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B07VJYZFVR.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Games",
+    "categorySlug": "games",
+    "freeShipping": true
+  },
+  {
+    "asin": "B0BL2K42TN",
+    "title": "Tênis Nike Revolution 6 Masculino Preto",
+    "price": 249.9,
+    "originalPrice": 399.99,
+    "discount": 38,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0BL2K42TN.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0BL2K42TN.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Moda",
+    "categorySlug": "moda",
+    "freeShipping": true
+  },
+  {
+    "asin": "B09NNRFLZN",
+    "title": "Tênis Nike Air Max SC Masculino Branco",
+    "price": 299.9,
+    "originalPrice": 449.99,
+    "discount": 33,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B09NNRFLZN.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B09NNRFLZN.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Moda",
+    "categorySlug": "moda",
+    "freeShipping": true
+  },
+  {
+    "asin": "B0CY5JD84X",
+    "title": "Tênis Adidas Runfalcon 3.0 Masculino Preto",
+    "price": 199.9,
+    "originalPrice": 349.99,
+    "discount": 43,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0CY5JD84X.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0CY5JD84X.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Moda",
+    "categorySlug": "moda",
+    "freeShipping": true
+  },
+  {
+    "asin": "B0BXKJ2WGV",
+    "title": "Tênis Olympikus Corre 3 Masculino Academia Corrida",
+    "price": 159.9,
+    "originalPrice": 249.9,
+    "discount": 36,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0BXKJ2WGV.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0BXKJ2WGV.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Moda",
+    "categorySlug": "moda",
+    "freeShipping": true
+  },
+  {
+    "asin": "B0CGK3W5RQ",
+    "title": "Tênis Nike Court Vision Low Feminino Branco",
+    "price": 279.9,
+    "originalPrice": 399.99,
+    "discount": 30,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0CGK3W5RQ.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0CGK3W5RQ.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Moda",
+    "categorySlug": "moda",
+    "freeShipping": true
+  },
+  {
+    "asin": "B0BKJQ8DQR",
+    "title": "Tênis Adidas Grand Court Base 2.0 Feminino Branco Rosa",
+    "price": 229.9,
+    "originalPrice": 349.99,
+    "discount": 34,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0BKJQ8DQR.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0BKJQ8DQR.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Moda",
+    "categorySlug": "moda",
+    "freeShipping": true
+  },
+  {
+    "asin": "B0CPJQFH7D",
+    "title": "Sandália Havaianas Slim Feminina Rosa",
+    "price": 34.9,
+    "originalPrice": 49.9,
+    "discount": 30,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0CPJQFH7D.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0CPJQFH7D.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Moda",
+    "categorySlug": "moda",
+    "freeShipping": false
+  },
+  {
+    "asin": "B0CXK7MMWZ",
+    "title": "Calça Jeans Masculina Slim Fit Lycra Azul Escuro",
+    "price": 89.9,
+    "originalPrice": 149.9,
+    "discount": 40,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0CXK7MMWZ.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0CXK7MMWZ.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Moda",
+    "categorySlug": "moda",
+    "freeShipping": true
+  },
+  {
+    "asin": "B0CRWJT5N7",
+    "title": "Calça Jeans Feminina Skinny Cintura Alta Azul",
+    "price": 79.9,
+    "originalPrice": 129.9,
+    "discount": 38,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0CRWJT5N7.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0CRWJT5N7.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Moda",
+    "categorySlug": "moda",
+    "freeShipping": true
+  },
+  {
+    "asin": "B0CPJDT4MR",
+    "title": "Camiseta Polo Masculina Lacoste Classic Fit Algodão",
+    "price": 299.9,
+    "originalPrice": 449,
+    "discount": 33,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0CPJDT4MR.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0CPJDT4MR.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Moda",
+    "categorySlug": "moda",
+    "freeShipping": true
+  },
+  {
+    "asin": "B0BX4T2ZRP",
+    "title": "Camiseta Básica Masculina Algodão Lisa Preta",
+    "price": 39.9,
+    "originalPrice": 69.9,
+    "discount": 43,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0BX4T2ZRP.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0BX4T2ZRP.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Moda",
+    "categorySlug": "moda",
+    "freeShipping": false
+  },
+  {
+    "asin": "B0CRWK2PNR",
+    "title": "Bermuda Masculina Sarja Slim com Lycra Bege",
+    "price": 69.9,
+    "originalPrice": 119.9,
+    "discount": 42,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0CRWK2PNR.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0CRWK2PNR.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Moda",
+    "categorySlug": "moda",
+    "freeShipping": true
+  },
+  {
+    "asin": "B0BWGJF5JQ",
+    "title": "Jaqueta Corta Vento Masculina Impermeável com Capuz",
+    "price": 99.9,
+    "originalPrice": 179.9,
+    "discount": 44,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0BWGJF5JQ.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0BWGJF5JQ.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Moda",
+    "categorySlug": "moda",
+    "freeShipping": true
+  },
+  {
+    "asin": "B0CRN6LRG9",
+    "title": "Vestido Feminino Midi Canelado Manga Longa Preto",
+    "price": 79.9,
+    "originalPrice": 139.9,
+    "discount": 43,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0CRN6LRG9.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0CRN6LRG9.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Moda",
+    "categorySlug": "moda",
+    "freeShipping": true
+  },
+  {
+    "asin": "B0CXJQP2HL",
+    "title": "Vestido Feminino Longo Floral Estampado Verão",
+    "price": 89.9,
+    "originalPrice": 159.9,
+    "discount": 44,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0CXJQP2HL.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0CXJQP2HL.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Moda",
+    "categorySlug": "moda",
+    "freeShipping": true
+  },
+  {
+    "asin": "B0CPJKQT8Z",
+    "title": "Blusa Feminina Cropped Canelada Manga Curta Branca",
+    "price": 39.9,
+    "originalPrice": 79.9,
+    "discount": 50,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0CPJKQT8Z.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0CPJKQT8Z.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Moda",
+    "categorySlug": "moda",
+    "freeShipping": false
+  },
+  {
+    "asin": "B0CRN58WGH",
+    "title": "Conjunto Feminino Moletom Cropped e Calça Jogger",
+    "price": 109.9,
+    "originalPrice": 189.9,
+    "discount": 42,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0CRN58WGH.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0CRN58WGH.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Moda",
+    "categorySlug": "moda",
+    "freeShipping": true
+  },
+  {
+    "asin": "B0BX5K7QJR",
+    "title": "Bolsa Feminina Transversal Couro Sintético Preta",
+    "price": 59.9,
+    "originalPrice": 99.9,
+    "discount": 40,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0BX5K7QJR.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0BX5K7QJR.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Moda",
+    "categorySlug": "moda",
+    "freeShipping": true
+  },
+  {
+    "asin": "B0CK4RJQWN",
+    "title": "Bolsa Feminina Grande Tote Bag Shopper Couro PU",
+    "price": 89.9,
+    "originalPrice": 159.9,
+    "discount": 44,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0CK4RJQWN.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0CK4RJQWN.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Moda",
+    "categorySlug": "moda",
+    "freeShipping": true
+  },
+  {
+    "asin": "B0CRWJ7HPN",
+    "title": "Saia Feminina Midi Plissada Cintura Alta Preta",
+    "price": 69.9,
+    "originalPrice": 119.9,
+    "discount": 42,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0CRWJ7HPN.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0CRWJ7HPN.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Moda",
+    "categorySlug": "moda",
+    "freeShipping": true
+  },
+  {
+    "asin": "B0CPJGV8DL",
+    "title": "Sandália Feminina Plataforma Anabela Tratorada",
+    "price": 89.9,
+    "originalPrice": 149.9,
+    "discount": 40,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0CPJGV8DL.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0CPJGV8DL.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Moda",
+    "categorySlug": "moda",
+    "freeShipping": true
+  },
+  {
+    "asin": "B0CXK8NWT5",
+    "title": "Relógio Casio Vintage A168WA-1WDF Unissex Prateado",
+    "price": 199.9,
+    "originalPrice": 299,
+    "discount": 33,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0CXK8NWT5.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0CXK8NWT5.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Moda",
+    "categorySlug": "moda",
+    "freeShipping": true
+  },
+  {
+    "asin": "B0BKJFR3WZ",
+    "title": "Relógio Masculino Casio G-Shock DW-5600BB Preto Digital",
+    "price": 449,
+    "originalPrice": 649,
+    "discount": 31,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0BKJFR3WZ.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0BKJFR3WZ.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Moda",
+    "categorySlug": "moda",
+    "freeShipping": true
+  },
+  {
+    "asin": "B0CRN42JVN",
+    "title": "Óculos de Sol Masculino Polarizado UV400 Esportivo",
+    "price": 59.9,
+    "originalPrice": 99.9,
+    "discount": 40,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0CRN42JVN.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0CRN42JVN.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Moda",
+    "categorySlug": "moda",
+    "freeShipping": true
+  },
+  {
+    "asin": "B0CPJFR4QZ",
+    "title": "Óculos de Sol Feminino Gatinho Vintage UV400",
+    "price": 49.9,
+    "originalPrice": 89.9,
+    "discount": 44,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0CPJFR4QZ.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0CPJFR4QZ.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Moda",
+    "categorySlug": "moda",
+    "freeShipping": false
+  },
+  {
+    "asin": "B0BWGKF8ZN",
+    "title": "Mochila Masculina Executiva Notebook 15.6\" Couro",
+    "price": 129.9,
+    "originalPrice": 219.9,
+    "discount": 41,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0BWGKF8ZN.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0BWGKF8ZN.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Moda",
+    "categorySlug": "moda",
+    "freeShipping": true
+  },
+  {
+    "asin": "B0CXK6JD2M",
+    "title": "Cinto Masculino Couro Legítimo Fivela Automática",
+    "price": 49.9,
+    "originalPrice": 89.9,
+    "discount": 44,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0CXK6JD2M.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0CXK6JD2M.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Moda",
+    "categorySlug": "moda",
+    "freeShipping": false
+  },
+  {
+    "asin": "B0CRWH9FJL",
+    "title": "Carteira Masculina Couro Legítimo Slim Bifold",
+    "price": 59.9,
+    "originalPrice": 99.9,
+    "discount": 40,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0CRWH9FJL.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0CRWH9FJL.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Moda",
+    "categorySlug": "moda",
+    "freeShipping": false
+  },
+  {
+    "asin": "B0CPJHT6QK",
+    "title": "Calça Legging Feminina Fitness Cintura Alta Preta",
+    "price": 49.9,
+    "originalPrice": 89.9,
+    "discount": 44,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0CPJHT6QK.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0CPJHT6QK.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Moda",
+    "categorySlug": "moda",
+    "freeShipping": false
+  },
+  {
+    "asin": "B0CRN3BQ8R",
+    "title": "Top Fitness Feminino com Bojo Removível Preto",
+    "price": 34.9,
+    "originalPrice": 59.9,
+    "discount": 42,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0CRN3BQ8R.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0CRN3BQ8R.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Moda",
+    "categorySlug": "moda",
+    "freeShipping": false
+  },
+  {
+    "asin": "B0BX4VTR8G",
+    "title": "Moletom Masculino com Capuz Básico Algodão Cinza",
+    "price": 79.9,
+    "originalPrice": 139.9,
+    "discount": 43,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0BX4VTR8G.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0BX4VTR8G.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Moda",
+    "categorySlug": "moda",
+    "freeShipping": true
+  },
+  {
+    "asin": "B0CXJHFNW4",
+    "title": "Calça Jogger Masculina Moletom com Bolso Preta",
+    "price": 69.9,
+    "originalPrice": 119.9,
+    "discount": 42,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0CXJHFNW4.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0CXJHFNW4.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Moda",
+    "categorySlug": "moda",
+    "freeShipping": true
+  },
+  {
+    "asin": "B0CPJMQZ4W",
+    "title": "Vestido Feminino Tubinho Social Manga Curta Azul",
+    "price": 99.9,
+    "originalPrice": 179.9,
+    "discount": 44,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0CPJMQZ4W.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0CPJMQZ4W.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Moda",
+    "categorySlug": "moda",
+    "freeShipping": true
+  },
+  {
+    "asin": "B0CRN67JWH",
+    "title": "Camisa Social Masculina Slim Fit Manga Longa Branca",
+    "price": 79.9,
+    "originalPrice": 139.9,
+    "discount": 43,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0CRN67JWH.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0CRN67JWH.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Moda",
+    "categorySlug": "moda",
+    "freeShipping": true
+  },
+  {
+    "asin": "B0BWGM2RNV",
+    "title": "Kit 5 Camisetas Masculinas Básicas Algodão Cores",
+    "price": 89.9,
+    "originalPrice": 149.9,
+    "discount": 40,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0BWGM2RNV.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0BWGM2RNV.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Moda",
+    "categorySlug": "moda",
+    "freeShipping": true
+  },
+  {
+    "asin": "B0CXK4NGRT",
+    "title": "Chinelo Havaianas Brasil Logo Unissex Verde",
+    "price": 29.9,
+    "originalPrice": 44.9,
+    "discount": 33,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0CXK4NGRT.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0CXK4NGRT.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Moda",
+    "categorySlug": "moda",
+    "freeShipping": false
+  },
+  {
+    "asin": "B0CRWF4PKD",
+    "title": "Jaqueta Feminina Puffer Nylon com Capuz Preta",
+    "price": 149.9,
+    "originalPrice": 249.9,
+    "discount": 40,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0CRWF4PKD.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0CRWF4PKD.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Moda",
+    "categorySlug": "moda",
+    "freeShipping": true
+  },
+  {
+    "asin": "B0CPJNW3QL",
+    "title": "Short Feminino Jeans Cintura Alta Destroyed Azul",
+    "price": 59.9,
+    "originalPrice": 99.9,
+    "discount": 40,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0CPJNW3QL.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0CPJNW3QL.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Moda",
+    "categorySlug": "moda",
+    "freeShipping": false
+  },
+  {
+    "asin": "B0CRN5KQMR",
+    "title": "Blazer Feminino Alfaiataria Oversized Bege",
+    "price": 149.9,
+    "originalPrice": 249.9,
+    "discount": 40,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0CRN5KQMR.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0CRN5KQMR.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Moda",
+    "categorySlug": "moda",
+    "freeShipping": true
+  },
+  {
+    "asin": "B0BX5JFQP8",
+    "title": "Sapatênis Masculino Casual Couro Confort Marrom",
+    "price": 119.9,
+    "originalPrice": 199.9,
+    "discount": 40,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0BX5JFQP8.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0BX5JFQP8.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Moda",
+    "categorySlug": "moda",
+    "freeShipping": true
+  },
+  {
+    "asin": "B0CXJRT5GN",
+    "title": "Kit 3 Cuecas Boxer Masculina Algodão Sem Costura",
+    "price": 49.9,
+    "originalPrice": 79.9,
+    "discount": 38,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0CXJRT5GN.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0CXJRT5GN.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Moda",
+    "categorySlug": "moda",
+    "freeShipping": false
+  },
+  {
+    "asin": "B0CPJKQWZ2",
+    "title": "Pijama Feminino Longo Inverno Estampado Confort",
+    "price": 69.9,
+    "originalPrice": 109.9,
+    "discount": 36,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0CPJKQWZ2.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0CPJKQWZ2.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Moda",
+    "categorySlug": "moda",
+    "freeShipping": true
+  },
+  {
+    "asin": "B0BX4RJ7NQ",
+    "title": "Aspirador de Pó Robô Inteligente Wi-Fi com Mapeamento",
+    "price": 799,
+    "originalPrice": 1199,
+    "discount": 33,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0BX4RJ7NQ.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0BX4RJ7NQ.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Casa & Decoração",
+    "categorySlug": "casa-decoracao",
+    "freeShipping": true
+  },
+  {
+    "asin": "B0CK4M2FQZ",
+    "title": "Air Fryer Mondial Forno 12L Digital Inox 1500W",
+    "price": 399,
+    "originalPrice": 599,
+    "discount": 33,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0CK4M2FQZ.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0CK4M2FQZ.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Casa & Decoração",
+    "categorySlug": "casa-decoracao",
+    "freeShipping": true
+  },
+  {
+    "asin": "B0CRWGN5MR",
+    "title": "Lâmpada Inteligente Wi-Fi LED RGB 10W Alexa Google",
+    "price": 29.9,
+    "originalPrice": 49.9,
+    "discount": 40,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0CRWGN5MR.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0CRWGN5MR.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Casa & Decoração",
+    "categorySlug": "casa-decoracao",
+    "freeShipping": false
+  },
+  {
+    "asin": "B0BWGH4RJD",
+    "title": "Jogo de Cama Queen 4 Peças Microfibra 150 Fios",
+    "price": 79.9,
+    "originalPrice": 129.9,
+    "discount": 38,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0BWGH4RJD.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0BWGH4RJD.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Casa & Decoração",
+    "categorySlug": "casa-decoracao",
+    "freeShipping": true
+  },
+  {
+    "asin": "B0CPJRWZ7K",
+    "title": "Purificador de Água IBBL Avanti Refrigerado Branco",
+    "price": 599,
+    "originalPrice": 799,
+    "discount": 25,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0CPJRWZ7K.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0CPJRWZ7K.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Casa & Decoração",
+    "categorySlug": "casa-decoracao",
+    "freeShipping": true
+  },
+  {
+    "asin": "B0CRN8KQVR",
+    "title": "Perfume Masculino Malbec Gold O Boticário 100ml",
+    "price": 149.9,
+    "originalPrice": 219.9,
+    "discount": 32,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0CRN8KQVR.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0CRN8KQVR.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Beleza & Saúde",
+    "categorySlug": "beleza-saude",
+    "freeShipping": true
+  },
+  {
+    "asin": "B0CPJW4KRZ",
+    "title": "Secador de Cabelo Profissional 2200W Íons Taiff",
+    "price": 199.9,
+    "originalPrice": 299.9,
+    "discount": 33,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0CPJW4KRZ.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0CPJW4KRZ.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Beleza & Saúde",
+    "categorySlug": "beleza-saude",
+    "freeShipping": true
+  },
+  {
+    "asin": "B0BX5HQJR7",
+    "title": "Kit Maquiagem Completo Paleta Sombras + Pincéis 12 Peças",
+    "price": 69.9,
+    "originalPrice": 119.9,
+    "discount": 42,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0BX5HQJR7.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0BX5HQJR7.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Beleza & Saúde",
+    "categorySlug": "beleza-saude",
+    "freeShipping": true
+  },
+  {
+    "asin": "B0CXJM3QWR",
+    "title": "Aparador de Barba e Cabelo Philips OneBlade QP2521",
+    "price": 149.9,
+    "originalPrice": 229,
+    "discount": 35,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0CXJM3QWR.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0CXJM3QWR.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Beleza & Saúde",
+    "categorySlug": "beleza-saude",
+    "freeShipping": true
+  },
+  {
+    "asin": "B0CRWN2QJK",
+    "title": "Perfume Feminino Egeo Dolce O Boticário 90ml",
+    "price": 129.9,
+    "originalPrice": 189.9,
+    "discount": 32,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0CRWN2QJK.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0CRWN2QJK.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Beleza & Saúde",
+    "categorySlug": "beleza-saude",
+    "freeShipping": true
+  },
+  {
+    "asin": "B0CPJZ5KR8",
+    "title": "Chapinha Profissional Titanium 450°F Bivolt Lizze",
+    "price": 179.9,
+    "originalPrice": 279,
+    "discount": 36,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0CPJZ5KR8.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0CPJZ5KR8.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Beleza & Saúde",
+    "categorySlug": "beleza-saude",
+    "freeShipping": true
+  },
+  {
+    "asin": "B0BX5NWR3Q",
+    "title": "Protetor Solar Facial La Roche-Posay Anthelios FPS70",
+    "price": 79.9,
+    "originalPrice": 109.9,
+    "discount": 27,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0BX5NWR3Q.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0BX5NWR3Q.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Beleza & Saúde",
+    "categorySlug": "beleza-saude",
+    "freeShipping": true
+  },
+  {
+    "asin": "B0CRN7WQJ4",
+    "title": "Whey Protein Concentrado 1kg Sabor Chocolate",
+    "price": 89.9,
+    "originalPrice": 139.9,
+    "discount": 36,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0CRN7WQJ4.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0CRN7WQJ4.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Esportes",
+    "categorySlug": "esportes",
+    "freeShipping": true
+  },
+  {
+    "asin": "B0CPJV5QR2",
+    "title": "Creatina Monohidratada 300g Max Titanium",
+    "price": 69.9,
+    "originalPrice": 99.9,
+    "discount": 30,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0CPJV5QR2.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0CPJV5QR2.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Esportes",
+    "categorySlug": "esportes",
+    "freeShipping": true
+  },
+  {
+    "asin": "B0BWGR4MQJ",
+    "title": "Garrafa Térmica Inox 1 Litro com Tampa Rosca",
+    "price": 49.9,
+    "originalPrice": 79.9,
+    "discount": 38,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0BWGR4MQJ.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0BWGR4MQJ.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Esportes",
+    "categorySlug": "esportes",
+    "freeShipping": true
+  },
+  {
+    "asin": "B0CXJKFR2Q",
+    "title": "Corda de Pular Speed Rope Rolamento Crossfit",
+    "price": 29.9,
+    "originalPrice": 49.9,
+    "discount": 40,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0CXJKFR2Q.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0CXJKFR2Q.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Esportes",
+    "categorySlug": "esportes",
+    "freeShipping": false
+  },
+  {
+    "asin": "B0CRN4MWQ7",
+    "title": "Colchonete Yoga Mat 10mm com Alça Transporte",
+    "price": 49.9,
+    "originalPrice": 89.9,
+    "discount": 44,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0CRN4MWQ7.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0CRN4MWQ7.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Esportes",
+    "categorySlug": "esportes",
+    "freeShipping": true
+  },
+  {
+    "asin": "B0DGRK4X9H",
+    "title": "Samsung Galaxy A35 5G 128GB Tela 6.6\" Super AMOLED",
+    "price": 1599,
+    "originalPrice": 2099,
+    "discount": 24,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0DGRK4X9H.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0DGRK4X9H.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Eletrônicos",
+    "categorySlug": "eletronicos",
+    "freeShipping": true
+  },
+  {
+    "asin": "B0CQ2H4F96",
+    "title": "Samsung Galaxy A25 5G 128GB Câmera Tripla 50MP",
+    "price": 1199,
+    "originalPrice": 1599,
+    "discount": 25,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0CQ2H4F96.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0CQ2H4F96.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Eletrônicos",
+    "categorySlug": "eletronicos",
+    "freeShipping": true
+  },
+  {
+    "asin": "B0CQ2GX4JB",
+    "title": "Samsung Galaxy A15 128GB Tela 6.5\" Super AMOLED",
+    "price": 849,
+    "originalPrice": 1199,
+    "discount": 29,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0CQ2GX4JB.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0CQ2GX4JB.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Eletrônicos",
+    "categorySlug": "eletronicos",
+    "freeShipping": true
+  },
+  {
+    "asin": "B0CN1TNXJP",
+    "title": "Motorola Edge 40 256GB Tela 6.55\" pOLED 144Hz",
+    "price": 1999,
+    "originalPrice": 2699,
+    "discount": 26,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0CN1TNXJP.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0CN1TNXJP.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Eletrônicos",
+    "categorySlug": "eletronicos",
+    "freeShipping": true
+  },
+  {
+    "asin": "B0CLP7N83V",
+    "title": "Motorola Moto G54 5G 128GB Tela 6.5\" IPS 120Hz",
+    "price": 999,
+    "originalPrice": 1399,
+    "discount": 29,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0CLP7N83V.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0CLP7N83V.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Eletrônicos",
+    "categorySlug": "eletronicos",
+    "freeShipping": true
+  },
+  {
+    "asin": "B0D6KJZ4WR",
+    "title": "Motorola Moto G34 5G 128GB Tela 6.5\" HD+ 120Hz",
+    "price": 799,
+    "originalPrice": 1099,
+    "discount": 27,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0D6KJZ4WR.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0D6KJZ4WR.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Eletrônicos",
+    "categorySlug": "eletronicos",
+    "freeShipping": true
+  },
+  {
+    "asin": "B0DGXF2NMP",
+    "title": "iPhone 15 128GB Preto Tela 6.1\" Super Retina XDR",
+    "price": 4999,
+    "originalPrice": 6499,
+    "discount": 23,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0DGXF2NMP.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0DGXF2NMP.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Eletrônicos",
+    "categorySlug": "eletronicos",
+    "freeShipping": true
+  },
+  {
+    "asin": "B0CG9HFG2V",
+    "title": "Xiaomi Poco X6 Pro 256GB Tela 6.67\" AMOLED 120Hz",
+    "price": 1699,
+    "originalPrice": 2199,
+    "discount": 23,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0CG9HFG2V.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0CG9HFG2V.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Eletrônicos",
+    "categorySlug": "eletronicos",
+    "freeShipping": true
+  },
+  {
+    "asin": "B0CG9GRDP9",
+    "title": "Xiaomi Redmi 13C 128GB Tela 6.74\" HD+ Câmera 50MP",
+    "price": 649,
+    "originalPrice": 899,
+    "discount": 28,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0CG9GRDP9.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0CG9GRDP9.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Eletrônicos",
+    "categorySlug": "eletronicos",
+    "freeShipping": true
+  },
+  {
+    "asin": "B0DFZFHKNM",
+    "title": "Realme C55 128GB Tela 6.72\" FHD+ Câmera 64MP",
+    "price": 749,
+    "originalPrice": 1099,
+    "discount": 32,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0DFZFHKNM.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0DFZFHKNM.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Eletrônicos",
+    "categorySlug": "eletronicos",
+    "freeShipping": true
+  },
+  {
+    "asin": "B0CT5QW4YK",
+    "title": "JBL Wave Beam TWS Fone Bluetooth In-Ear IP54",
+    "price": 149,
+    "originalPrice": 249,
+    "discount": 40,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0CT5QW4YK.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0CT5QW4YK.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Eletrônicos",
+    "categorySlug": "eletronicos",
+    "freeShipping": true
+  },
+  {
+    "asin": "B0BVH2RH8V",
+    "title": "Sony WF-C700N Fone TWS com Cancelamento de Ruído",
+    "price": 349,
+    "originalPrice": 599,
+    "discount": 42,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0BVH2RH8V.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0BVH2RH8V.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Eletrônicos",
+    "categorySlug": "eletronicos",
+    "freeShipping": true
+  },
+  {
+    "asin": "B0CHWRXH8P",
+    "title": "Edifier W820NB Plus Fone Bluetooth ANC Hi-Res",
+    "price": 279,
+    "originalPrice": 449,
+    "discount": 38,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0CHWRXH8P.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0CHWRXH8P.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Eletrônicos",
+    "categorySlug": "eletronicos",
+    "freeShipping": true
+  },
+  {
+    "asin": "B0BT9L2MDK",
+    "title": "Soundcore Life Q30 Fone Bluetooth ANC Anker",
+    "price": 249,
+    "originalPrice": 399,
+    "discount": 38,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0BT9L2MDK.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0BT9L2MDK.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Eletrônicos",
+    "categorySlug": "eletronicos",
+    "freeShipping": true
+  },
+  {
+    "asin": "B09LYB72GS",
+    "title": "JBL Tune 130NC TWS Fone Bluetooth ANC IPX4",
+    "price": 199,
+    "originalPrice": 349,
+    "discount": 43,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B09LYB72GS.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B09LYB72GS.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Eletrônicos",
+    "categorySlug": "eletronicos",
+    "freeShipping": true
+  },
+  {
+    "asin": "B0CFQN7R8T",
+    "title": "JBL Tune Flex Fone TWS Bluetooth com ANC",
+    "price": 249,
+    "originalPrice": 399,
+    "discount": 38,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0CFQN7R8T.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0CFQN7R8T.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Eletrônicos",
+    "categorySlug": "eletronicos",
+    "freeShipping": true
+  },
+  {
+    "asin": "B0BXRS1MZB",
+    "title": "Marshall Minor III Fone TWS Bluetooth Premium",
+    "price": 399,
+    "originalPrice": 649,
+    "discount": 39,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0BXRS1MZB.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0BXRS1MZB.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Eletrônicos",
+    "categorySlug": "eletronicos",
+    "freeShipping": true
+  },
+  {
+    "asin": "B0C8PTZWH6",
+    "title": "JBL Pulse 5 Caixa de Som Bluetooth LED 360°",
+    "price": 1299,
+    "originalPrice": 1799,
+    "discount": 28,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0C8PTZWH6.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0C8PTZWH6.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Eletrônicos",
+    "categorySlug": "eletronicos",
+    "freeShipping": true
+  },
+  {
+    "asin": "B0C8PSTX3L",
+    "title": "JBL Xtreme 4 Caixa de Som Bluetooth 100W IP67",
+    "price": 1799,
+    "originalPrice": 2499,
+    "discount": 28,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0C8PSTX3L.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0C8PSTX3L.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Eletrônicos",
+    "categorySlug": "eletronicos",
+    "freeShipping": true
+  },
+  {
+    "asin": "B08PZHYWJS",
+    "title": "Edifier R1280T Caixa de Som Monitor Ativo 42W",
+    "price": 499,
+    "originalPrice": 699,
+    "discount": 29,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B08PZHYWJS.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B08PZHYWJS.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Eletrônicos",
+    "categorySlug": "eletronicos",
+    "freeShipping": true
+  },
+  {
+    "asin": "B0CXHK3YJR",
+    "title": "Smart TV Samsung 43\" Crystal UHD 4K Gaming Hub",
+    "price": 1799,
+    "originalPrice": 2399,
+    "discount": 25,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0CXHK3YJR.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0CXHK3YJR.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Eletrônicos",
+    "categorySlug": "eletronicos",
+    "freeShipping": true
+  },
+  {
+    "asin": "B0CXHKF4JP",
+    "title": "Smart TV Samsung 55\" Crystal UHD 4K Tizen",
+    "price": 2499,
+    "originalPrice": 3299,
+    "discount": 24,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0CXHKF4JP.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0CXHKF4JP.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Eletrônicos",
+    "categorySlug": "eletronicos",
+    "freeShipping": true
+  },
+  {
+    "asin": "B0CXHKT9JN",
+    "title": "Smart TV Samsung 65\" Crystal UHD 4K HDR10+",
+    "price": 3299,
+    "originalPrice": 4499,
+    "discount": 27,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0CXHKT9JN.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0CXHKT9JN.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Eletrônicos",
+    "categorySlug": "eletronicos",
+    "freeShipping": true
+  },
+  {
+    "asin": "B0CXHM7RJK",
+    "title": "Smart TV LG 50\" 4K UHD ThinQ AI WebOS",
+    "price": 2099,
+    "originalPrice": 2799,
+    "discount": 25,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0CXHM7RJK.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0CXHM7RJK.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Eletrônicos",
+    "categorySlug": "eletronicos",
+    "freeShipping": true
+  },
+  {
+    "asin": "B0CXHM9RJM",
+    "title": "Smart TV LG 55\" 4K OLED evo ThinQ AI WebOS",
+    "price": 4999,
+    "originalPrice": 6999,
+    "discount": 29,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0CXHM9RJM.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0CXHM9RJM.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Eletrônicos",
+    "categorySlug": "eletronicos",
+    "freeShipping": true
+  },
+  {
+    "asin": "B0CXHN3RJQ",
+    "title": "Smart TV TCL 50\" 4K Google TV Dolby Vision",
+    "price": 1699,
+    "originalPrice": 2299,
+    "discount": 26,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0CXHN3RJQ.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0CXHN3RJQ.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Eletrônicos",
+    "categorySlug": "eletronicos",
+    "freeShipping": true
+  },
+  {
+    "asin": "B0CXHN5RJS",
+    "title": "Smart TV Philco 32\" HD Smart Android TV",
+    "price": 799,
+    "originalPrice": 1099,
+    "discount": 27,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0CXHN5RJS.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0CXHN5RJS.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Eletrônicos",
+    "categorySlug": "eletronicos",
+    "freeShipping": true
+  },
+  {
+    "asin": "B0BTMML8K5",
+    "title": "Notebook Acer Aspire 5 Intel i5 12ª Gen 8GB 512GB SSD 15.6\"",
+    "price": 2899,
+    "originalPrice": 3699,
+    "discount": 22,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0BTMML8K5.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0BTMML8K5.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Eletrônicos",
+    "categorySlug": "eletronicos",
+    "freeShipping": true
+  },
+  {
+    "asin": "B0BTN2L9K7",
+    "title": "Notebook Dell Inspiron 15 Intel i7 12ª Gen 16GB 512GB SSD",
+    "price": 3999,
+    "originalPrice": 4999,
+    "discount": 20,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0BTN2L9K7.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0BTN2L9K7.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Eletrônicos",
+    "categorySlug": "eletronicos",
+    "freeShipping": true
+  },
+  {
+    "asin": "B0BTP3M8K9",
+    "title": "Notebook Samsung Book Intel i5 8GB 256GB SSD 15.6\" FHD",
+    "price": 2599,
+    "originalPrice": 3299,
+    "discount": 21,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0BTP3M8K9.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0BTP3M8K9.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Eletrônicos",
+    "categorySlug": "eletronicos",
+    "freeShipping": true
+  },
+  {
+    "asin": "B0BTQ4N7KB",
+    "title": "Notebook ASUS Vivobook 15 AMD Ryzen 5 8GB 256GB SSD",
+    "price": 2399,
+    "originalPrice": 2999,
+    "discount": 20,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0BTQ4N7KB.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0BTQ4N7KB.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Eletrônicos",
+    "categorySlug": "eletronicos",
+    "freeShipping": true
+  },
+  {
+    "asin": "B0BTR5P6KD",
+    "title": "MacBook Air M2 8GB 256GB SSD Tela 13.6\" Liquid Retina",
+    "price": 7999,
+    "originalPrice": 9999,
+    "discount": 20,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0BTR5P6KD.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0BTR5P6KD.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Eletrônicos",
+    "categorySlug": "eletronicos",
+    "freeShipping": true
+  },
+  {
+    "asin": "B0BTS6Q5KF",
+    "title": "Notebook Gamer Acer Nitro 5 i5 RTX 3050 8GB 512GB",
+    "price": 4499,
+    "originalPrice": 5999,
+    "discount": 25,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0BTS6Q5KF.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0BTS6Q5KF.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Eletrônicos",
+    "categorySlug": "eletronicos",
+    "freeShipping": true
+  },
+  {
+    "asin": "B0CFPK3YR9",
+    "title": "Samsung Galaxy Tab S9 FE 128GB Wi-Fi Tela 10.9\"",
+    "price": 2199,
+    "originalPrice": 2999,
+    "discount": 27,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0CFPK3YR9.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0CFPK3YR9.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Eletrônicos",
+    "categorySlug": "eletronicos",
+    "freeShipping": true
+  },
+  {
+    "asin": "B0CFPL4ZR1",
+    "title": "Tablet Lenovo Tab M10 Plus 128GB Tela 10.6\" 2K",
+    "price": 999,
+    "originalPrice": 1399,
+    "discount": 29,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0CFPL4ZR1.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0CFPL4ZR1.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Eletrônicos",
+    "categorySlug": "eletronicos",
+    "freeShipping": true
+  },
+  {
+    "asin": "B0CFPM5AR3",
+    "title": "iPad 10ª Geração 64GB Wi-Fi Tela 10.9\" A14 Bionic",
+    "price": 3499,
+    "originalPrice": 4499,
+    "discount": 22,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0CFPM5AR3.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0CFPM5AR3.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Eletrônicos",
+    "categorySlug": "eletronicos",
+    "freeShipping": true
+  },
+  {
+    "asin": "B0CSTK3Y5H",
+    "title": "Samsung Galaxy Watch FE 40mm Bluetooth Smartwatch",
+    "price": 999,
+    "originalPrice": 1399,
+    "discount": 29,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0CSTK3Y5H.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0CSTK3Y5H.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Eletrônicos",
+    "categorySlug": "eletronicos",
+    "freeShipping": true
+  },
+  {
+    "asin": "B0BDHX9Z8T",
+    "title": "Amazfit GTS 4 Mini Smartwatch AMOLED GPS Integrado",
+    "price": 449,
+    "originalPrice": 699,
+    "discount": 36,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0BDHX9Z8T.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0BDHX9Z8T.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Eletrônicos",
+    "categorySlug": "eletronicos",
+    "freeShipping": true
+  },
+  {
+    "asin": "B0CHX9SZQT",
+    "title": "Apple Watch Series 9 GPS 41mm Alumínio",
+    "price": 2999,
+    "originalPrice": 3999,
+    "discount": 25,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0CHX9SZQT.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0CHX9SZQT.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Eletrônicos",
+    "categorySlug": "eletronicos",
+    "freeShipping": true
+  },
+  {
+    "asin": "B0BDHX7Z6R",
+    "title": "Huawei Band 8 Smartband AMOLED 1.47\" à Prova dÁgua",
+    "price": 179,
+    "originalPrice": 299,
+    "discount": 40,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0BDHX7Z6R.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0BDHX7Z6R.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Eletrônicos",
+    "categorySlug": "eletronicos",
+    "freeShipping": true
+  },
+  {
+    "asin": "B09HM3M5SP",
+    "title": "Logitech G305 Mouse Gamer Sem Fio Lightspeed 12000DPI",
+    "price": 199,
+    "originalPrice": 299,
+    "discount": 33,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B09HM3M5SP.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B09HM3M5SP.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Eletrônicos",
+    "categorySlug": "eletronicos",
+    "freeShipping": true
+  },
+  {
+    "asin": "B08N6WRWNX",
+    "title": "Razer DeathAdder V3 Mouse Gamer 30000DPI Ergonômico",
+    "price": 349,
+    "originalPrice": 549,
+    "discount": 36,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B08N6WRWNX.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B08N6WRWNX.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Eletrônicos",
+    "categorySlug": "eletronicos",
+    "freeShipping": true
+  },
+  {
+    "asin": "B08N7XRWNZ",
+    "title": "Teclado Mecânico Logitech G413 SE Switches Tácteis",
+    "price": 299,
+    "originalPrice": 449,
+    "discount": 33,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B08N7XRWNZ.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B08N7XRWNZ.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Eletrônicos",
+    "categorySlug": "eletronicos",
+    "freeShipping": true
+  },
+  {
+    "asin": "B08N8YRWP2",
+    "title": "HyperX Alloy Origins Core Teclado Mecânico RGB",
+    "price": 399,
+    "originalPrice": 599,
+    "discount": 33,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B08N8YRWP2.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B08N8YRWP2.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Eletrônicos",
+    "categorySlug": "eletronicos",
+    "freeShipping": true
+  },
+  {
+    "asin": "B09HM4M6SQ",
+    "title": "Webcam Logitech Brio 500 Full HD 1080p USB-C",
+    "price": 449,
+    "originalPrice": 649,
+    "discount": 31,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B09HM4M6SQ.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B09HM4M6SQ.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Eletrônicos",
+    "categorySlug": "eletronicos",
+    "freeShipping": true
+  },
+  {
+    "asin": "B08MQIWFJ3",
+    "title": "Hub USB-C 7 em 1 HDMI 4K USB 3.0 SD Card Baseus",
+    "price": 149,
+    "originalPrice": 249,
+    "discount": 40,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B08MQIWFJ3.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B08MQIWFJ3.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Eletrônicos",
+    "categorySlug": "eletronicos",
+    "freeShipping": true
+  },
+  {
+    "asin": "B0BM4WR6RH",
+    "title": "SSD Kingston NV2 1TB NVMe M.2 PCIe Gen4 Leitura 3500MB/s",
+    "price": 349,
+    "originalPrice": 499,
+    "discount": 30,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0BM4WR6RH.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0BM4WR6RH.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Eletrônicos",
+    "categorySlug": "eletronicos",
+    "freeShipping": true
+  },
+  {
+    "asin": "B0BM5XR7RJ",
+    "title": "HD Externo Seagate 1TB USB 3.0 Portátil Slim",
+    "price": 279,
+    "originalPrice": 399,
+    "discount": 30,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0BM5XR7RJ.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0BM5XR7RJ.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Eletrônicos",
+    "categorySlug": "eletronicos",
+    "freeShipping": true
+  },
+  {
+    "asin": "B0BM6YR8RL",
+    "title": "Pen Drive SanDisk Ultra 128GB USB 3.0 Até 130MB/s",
+    "price": 49,
+    "originalPrice": 79,
+    "discount": 38,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0BM6YR8RL.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0BM6YR8RL.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Eletrônicos",
+    "categorySlug": "eletronicos",
+    "freeShipping": true
+  },
+  {
+    "asin": "B08MQJWFK5",
+    "title": "Carregador USB-C 65W GaN Carga Rápida Baseus",
+    "price": 119,
+    "originalPrice": 189,
+    "discount": 37,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B08MQJWFK5.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B08MQJWFK5.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Eletrônicos",
+    "categorySlug": "eletronicos",
+    "freeShipping": true
+  },
+  {
+    "asin": "B0BM7ZR9RN",
+    "title": "Roteador TP-Link Archer AX23 WiFi 6 AX1800 Dual Band",
+    "price": 249,
+    "originalPrice": 349,
+    "discount": 29,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0BM7ZR9RN.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0BM7ZR9RN.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Eletrônicos",
+    "categorySlug": "eletronicos",
+    "freeShipping": true
+  },
+  {
+    "asin": "B0BM8AR1RP",
+    "title": "Impressora Multifuncional Epson EcoTank L3250 Wi-Fi",
+    "price": 899,
+    "originalPrice": 1199,
+    "discount": 25,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0BM8AR1RP.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0BM8AR1RP.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Eletrônicos",
+    "categorySlug": "eletronicos",
+    "freeShipping": true
+  },
+  {
+    "asin": "B0BM9BR2RR",
+    "title": "Ring Stick Up Cam Câmera de Segurança Wi-Fi Indoor",
+    "price": 349,
+    "originalPrice": 499,
+    "discount": 30,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0BM9BR2RR.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0BM9BR2RR.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Eletrônicos",
+    "categorySlug": "eletronicos",
+    "freeShipping": true
+  },
+  {
+    "asin": "B0BMACR3RT",
+    "title": "Tomada Inteligente Wi-Fi Positivo Smart Plug 10A",
+    "price": 49,
+    "originalPrice": 79,
+    "discount": 38,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0BMACR3RT.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0BMACR3RT.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Eletrônicos",
+    "categorySlug": "eletronicos",
+    "freeShipping": true
+  },
+  {
+    "asin": "B0BMBDR4RV",
+    "title": "Lâmpada Inteligente Wi-Fi Positivo Smart RGB 9W",
+    "price": 39,
+    "originalPrice": 69,
+    "discount": 43,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0BMBDR4RV.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0BMBDR4RV.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Eletrônicos",
+    "categorySlug": "eletronicos",
+    "freeShipping": true
+  },
+  {
+    "asin": "B0CPJQF8HD",
+    "title": "Vestido Feminino Longo Estampado Floral com Fenda",
+    "price": 89,
+    "originalPrice": 159,
+    "discount": 44,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0CPJQF8HD.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0CPJQF8HD.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Moda",
+    "categorySlug": "moda",
+    "freeShipping": true
+  },
+  {
+    "asin": "B0CRWJT6N8",
+    "title": "Vestido Feminino Midi Manga Bufante Elegante",
+    "price": 99,
+    "originalPrice": 179,
+    "discount": 45,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0CRWJT6N8.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0CRWJT6N8.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Moda",
+    "categorySlug": "moda",
+    "freeShipping": true
+  },
+  {
+    "asin": "B0CPJKR9TZ",
+    "title": "Vestido Feminino Tubinho Canelado Justo Básico",
+    "price": 59,
+    "originalPrice": 99,
+    "discount": 40,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0CPJKR9TZ.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0CPJKR9TZ.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Moda",
+    "categorySlug": "moda",
+    "freeShipping": false
+  },
+  {
+    "asin": "B0CRN6MRH1",
+    "title": "Vestido Feminino Longo Decote V Festa Madrinha",
+    "price": 149,
+    "originalPrice": 279,
+    "discount": 47,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0CRN6MRH1.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0CRN6MRH1.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Moda",
+    "categorySlug": "moda",
+    "freeShipping": true
+  },
+  {
+    "asin": "B0CXJQR3HM",
+    "title": "Calça Wide Leg Feminina Cintura Alta Pantalona",
+    "price": 79,
+    "originalPrice": 139,
+    "discount": 43,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0CXJQR3HM.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0CXJQR3HM.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Moda",
+    "categorySlug": "moda",
+    "freeShipping": true
+  },
+  {
+    "asin": "B0CRWJV7N2",
+    "title": "Calça Cargo Feminina Cintura Alta com Bolsos",
+    "price": 89,
+    "originalPrice": 149,
+    "discount": 40,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0CRWJV7N2.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0CRWJV7N2.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Moda",
+    "categorySlug": "moda",
+    "freeShipping": true
+  },
+  {
+    "asin": "B0CPJLT1UZ",
+    "title": "Calça Flare Feminina Jeans Cintura Alta Boca de Sino",
+    "price": 99,
+    "originalPrice": 169,
+    "discount": 41,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0CPJLT1UZ.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0CPJLT1UZ.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Moda",
+    "categorySlug": "moda",
+    "freeShipping": true
+  },
+  {
+    "asin": "B0CRN7NRJ3",
+    "title": "Blusa Feminina Social Manga Longa Elegante",
+    "price": 69,
+    "originalPrice": 119,
+    "discount": 42,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0CRN7NRJ3.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0CRN7NRJ3.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Moda",
+    "categorySlug": "moda",
+    "freeShipping": false
+  },
+  {
+    "asin": "B0CXJRR4HP",
+    "title": "Blusa Regata Feminina Básica Canelada Kit 3 Peças",
+    "price": 49,
+    "originalPrice": 89,
+    "discount": 45,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0CXJRR4HP.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0CXJRR4HP.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Moda",
+    "categorySlug": "moda",
+    "freeShipping": false
+  },
+  {
+    "asin": "B0CPJMR2VZ",
+    "title": "Cardigan Feminino Longo Tricot Inverno",
+    "price": 89,
+    "originalPrice": 159,
+    "discount": 44,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0CPJMR2VZ.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0CPJMR2VZ.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Moda",
+    "categorySlug": "moda",
+    "freeShipping": true
+  },
+  {
+    "asin": "B0CRN8PRK5",
+    "title": "Conjunto Feminino Alfaiataria Blazer + Calça Social",
+    "price": 179,
+    "originalPrice": 299,
+    "discount": 40,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0CRN8PRK5.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0CRN8PRK5.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Moda",
+    "categorySlug": "moda",
+    "freeShipping": true
+  },
+  {
+    "asin": "B0CXJSR5HQ",
+    "title": "Macacão Feminino Longo Crepe com Cinto",
+    "price": 109,
+    "originalPrice": 189,
+    "discount": 42,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0CXJSR5HQ.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0CXJSR5HQ.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Moda",
+    "categorySlug": "moda",
+    "freeShipping": true
+  },
+  {
+    "asin": "B0CPJNR3WZ",
+    "title": "Saia Midi Feminina Plissada Cintura Elástica",
+    "price": 69,
+    "originalPrice": 119,
+    "discount": 42,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0CPJNR3WZ.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0CPJNR3WZ.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Moda",
+    "categorySlug": "moda",
+    "freeShipping": false
+  },
+  {
+    "asin": "B0CRN9QRL7",
+    "title": "Jaqueta Jeans Feminina Oversized Destroyed",
+    "price": 119,
+    "originalPrice": 199,
+    "discount": 40,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0CRN9QRL7.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0CRN9QRL7.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Moda",
+    "categorySlug": "moda",
+    "freeShipping": true
+  },
+  {
+    "asin": "B0CXJTR6HR",
+    "title": "Sobretudo Feminino Lã Batida Longo com Cinto",
+    "price": 199,
+    "originalPrice": 349,
+    "discount": 43,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0CXJTR6HR.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0CXJTR6HR.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Moda",
+    "categorySlug": "moda",
+    "freeShipping": true
+  },
+  {
+    "asin": "B0CPJPR4XZ",
+    "title": "Biquini Feminino Cortininha com Saída de Praia",
+    "price": 69,
+    "originalPrice": 119,
+    "discount": 42,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0CPJPR4XZ.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0CPJPR4XZ.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Moda",
+    "categorySlug": "moda",
+    "freeShipping": false
+  },
+  {
+    "asin": "B0CRNAQRM9",
+    "title": "Body Feminino Manga Longa Canelado Gola Alta",
+    "price": 39,
+    "originalPrice": 69,
+    "discount": 43,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0CRNAQRM9.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0CRNAQRM9.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Moda",
+    "categorySlug": "moda",
+    "freeShipping": false
+  },
+  {
+    "asin": "B0CXJUR7HS",
+    "title": "Kit 5 Calcinhas Femininas Cotton Algodão",
+    "price": 39,
+    "originalPrice": 69,
+    "discount": 43,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0CXJUR7HS.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0CXJUR7HS.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Moda",
+    "categorySlug": "moda",
+    "freeShipping": false
+  },
+  {
+    "asin": "B0CPJQR5YZ",
+    "title": "Sutiã Push Up Feminino com Renda",
+    "price": 49,
+    "originalPrice": 89,
+    "discount": 45,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0CPJQR5YZ.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0CPJQR5YZ.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Moda",
+    "categorySlug": "moda",
+    "freeShipping": false
+  },
+  {
+    "asin": "B0CRNBRQN1",
+    "title": "Pijama Curto Feminino Verão Estampado Algodão",
+    "price": 49,
+    "originalPrice": 89,
+    "discount": 45,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0CRNBRQN1.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0CRNBRQN1.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Moda",
+    "categorySlug": "moda",
+    "freeShipping": false
+  },
+  {
+    "asin": "B0BX4T3ZSP",
+    "title": "Kit 5 Camisetas Masculinas Dry Fit Academia",
+    "price": 79,
+    "originalPrice": 139,
+    "discount": 43,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0BX4T3ZSP.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0BX4T3ZSP.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Moda",
+    "categorySlug": "moda",
+    "freeShipping": true
+  },
+  {
+    "asin": "B0CRWK3POR",
+    "title": "Calça Cargo Masculina Jogger com Bolsos Laterais",
+    "price": 89,
+    "originalPrice": 149,
+    "discount": 40,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0CRWK3POR.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0CRWK3POR.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Moda",
+    "categorySlug": "moda",
+    "freeShipping": true
+  },
+  {
+    "asin": "B0CPJDS5MR",
+    "title": "Camisa Masculina Manga Longa Linho Premium",
+    "price": 89,
+    "originalPrice": 159,
+    "discount": 44,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0CPJDS5MR.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0CPJDS5MR.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Moda",
+    "categorySlug": "moda",
+    "freeShipping": true
+  },
+  {
+    "asin": "B0BWGJG6JR",
+    "title": "Jaqueta Bomber Masculina Nylon Forrada",
+    "price": 119,
+    "originalPrice": 199,
+    "discount": 40,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0BWGJG6JR.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0BWGJG6JR.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Moda",
+    "categorySlug": "moda",
+    "freeShipping": true
+  },
+  {
+    "asin": "B0CXK7NNX2",
+    "title": "Bermuda Masculina Moletom com Bolso Cinza",
+    "price": 49,
+    "originalPrice": 89,
+    "discount": 45,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0CXK7NNX2.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0CXK7NNX2.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Moda",
+    "categorySlug": "moda",
+    "freeShipping": false
+  },
+  {
+    "asin": "B0CRWL4QPS",
+    "title": "Shorts Masculino Praia Tactel Estampado Kit 3",
+    "price": 69,
+    "originalPrice": 119,
+    "discount": 42,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0CRWL4QPS.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0CRWL4QPS.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Moda",
+    "categorySlug": "moda",
+    "freeShipping": false
+  },
+  {
+    "asin": "B0CPJER6NR",
+    "title": "Calça Masculina Alfaiataria Social Slim",
+    "price": 89,
+    "originalPrice": 159,
+    "discount": 44,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0CPJER6NR.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0CPJER6NR.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Moda",
+    "categorySlug": "moda",
+    "freeShipping": true
+  },
+  {
+    "asin": "B0BWGKH7KR",
+    "title": "Colete Masculino Puffer Sem Manga Inverno",
+    "price": 99,
+    "originalPrice": 179,
+    "discount": 45,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0BWGKH7KR.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0BWGKH7KR.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Moda",
+    "categorySlug": "moda",
+    "freeShipping": true
+  },
+  {
+    "asin": "B0CXK8POY4",
+    "title": "Suéter Masculino Gola V Tricot Lã",
+    "price": 79,
+    "originalPrice": 139,
+    "discount": 43,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0CXK8POY4.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0CXK8POY4.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Moda",
+    "categorySlug": "moda",
+    "freeShipping": true
+  },
+  {
+    "asin": "B0CRWM5RQT",
+    "title": "Blazer Masculino Casual Slim Fit Preto",
+    "price": 149,
+    "originalPrice": 249,
+    "discount": 40,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0CRWM5RQT.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0CRWM5RQT.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Moda",
+    "categorySlug": "moda",
+    "freeShipping": true
+  },
+  {
+    "asin": "B0CPJFR7OR",
+    "title": "Kit 6 Meias Masculinas Cano Médio Algodão",
+    "price": 39,
+    "originalPrice": 69,
+    "discount": 43,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0CPJFR7OR.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0CPJFR7OR.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Moda",
+    "categorySlug": "moda",
+    "freeShipping": false
+  },
+  {
+    "asin": "B0BX5JGRQ9",
+    "title": "Bota Masculina Coturno Couro Confort Preta",
+    "price": 149,
+    "originalPrice": 249,
+    "discount": 40,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0BX5JGRQ9.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0BX5JGRQ9.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Moda",
+    "categorySlug": "moda",
+    "freeShipping": true
+  },
+  {
+    "asin": "B0CXK9QR26",
+    "title": "Relógio Casio MRW-200H Masculino Analógico Preto",
+    "price": 149,
+    "originalPrice": 219,
+    "discount": 32,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0CXK9QR26.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0CXK9QR26.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Moda",
+    "categorySlug": "moda",
+    "freeShipping": true
+  },
+  {
+    "asin": "B0BKJGR4X2",
+    "title": "Relógio Fossil Masculino Grant Chronograph Couro",
+    "price": 499,
+    "originalPrice": 799,
+    "discount": 38,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0BKJGR4X2.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0BKJGR4X2.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Moda",
+    "categorySlug": "moda",
+    "freeShipping": true
+  },
+  {
+    "asin": "B0CRN4MJW8",
+    "title": "Relógio Feminino Champion Dourado Analógico",
+    "price": 129,
+    "originalPrice": 199,
+    "discount": 35,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0CRN4MJW8.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0CRN4MJW8.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Moda",
+    "categorySlug": "moda",
+    "freeShipping": true
+  },
+  {
+    "asin": "B0CPJGR5PZ",
+    "title": "Bolsa Feminina Clutch Festa com Corrente Dourada",
+    "price": 49,
+    "originalPrice": 89,
+    "discount": 45,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0CPJGR5PZ.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0CPJGR5PZ.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Moda",
+    "categorySlug": "moda",
+    "freeShipping": false
+  },
+  {
+    "asin": "B0CXK1RR38",
+    "title": "Mala de Viagem Média 23kg Rígida 4 Rodas 360°",
+    "price": 249,
+    "originalPrice": 399,
+    "discount": 38,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0CXK1RR38.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0CXK1RR38.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Moda",
+    "categorySlug": "moda",
+    "freeShipping": true
+  },
+  {
+    "asin": "B0BWGLR8LR",
+    "title": "Boné Masculino Aba Reta Ajustável Preto",
+    "price": 29,
+    "originalPrice": 49,
+    "discount": 41,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0BWGLR8LR.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0BWGLR8LR.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Moda",
+    "categorySlug": "moda",
+    "freeShipping": false
+  },
+  {
+    "asin": "B0CRWN6RSU",
+    "title": "Kit 3 Pares Meia Sapatilha Invisível Feminina",
+    "price": 19,
+    "originalPrice": 39,
+    "discount": 51,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0CRWN6RSU.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0CRWN6RSU.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Moda",
+    "categorySlug": "moda",
+    "freeShipping": false
+  },
+  {
+    "asin": "B0BX4SK8NR",
+    "title": "Robot Aspirador Xiaomi E10 Sucção 4000Pa Wi-Fi",
+    "price": 999,
+    "originalPrice": 1499,
+    "discount": 33,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0BX4SK8NR.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0BX4SK8NR.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Casa & Decoração",
+    "categorySlug": "casa-decoracao",
+    "freeShipping": true
+  },
+  {
+    "asin": "B0CK4N3GR2",
+    "title": "Fritadeira Elétrica Air Fryer Philco 5.5L Digital",
+    "price": 349,
+    "originalPrice": 499,
+    "discount": 30,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0CK4N3GR2.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0CK4N3GR2.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Casa & Decoração",
+    "categorySlug": "casa-decoracao",
+    "freeShipping": true
+  },
+  {
+    "asin": "B0CRWHR6MT",
+    "title": "Cafeteira Nespresso Vertuo Next Cápsulas",
+    "price": 499,
+    "originalPrice": 799,
+    "discount": 38,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0CRWHR6MT.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0CRWHR6MT.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Casa & Decoração",
+    "categorySlug": "casa-decoracao",
+    "freeShipping": true
+  },
+  {
+    "asin": "B0BWGI5RKD",
+    "title": "Liquidificador Oster Xpert Series 1100W 3.2L",
+    "price": 249,
+    "originalPrice": 399,
+    "discount": 38,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0BWGI5RKD.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0BWGI5RKD.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Casa & Decoração",
+    "categorySlug": "casa-decoracao",
+    "freeShipping": true
+  },
+  {
+    "asin": "B0CPJSR8RZ",
+    "title": "Ventilador de Torre Arno Eole Control 40cm",
+    "price": 299,
+    "originalPrice": 449,
+    "discount": 33,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0CPJSR8RZ.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0CPJSR8RZ.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Casa & Decoração",
+    "categorySlug": "casa-decoracao",
+    "freeShipping": true
+  },
+  {
+    "asin": "B0CRN1QRL4",
+    "title": "Jogo de Panelas Tramontina Paris 10 Peças Antiaderente",
+    "price": 299,
+    "originalPrice": 449,
+    "discount": 33,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0CRN1QRL4.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0CRN1QRL4.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Casa & Decoração",
+    "categorySlug": "casa-decoracao",
+    "freeShipping": true
+  },
+  {
+    "asin": "B0CXJVR9HT",
+    "title": "Luminária de Mesa LED Articulável USB Escritório",
+    "price": 79,
+    "originalPrice": 129,
+    "discount": 39,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0CXJVR9HT.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0CXJVR9HT.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Casa & Decoração",
+    "categorySlug": "casa-decoracao",
+    "freeShipping": false
+  },
+  {
+    "asin": "B0CPJTR9SZ",
+    "title": "Cortina Blackout Térmica com Ilhós 2.80x1.80m",
+    "price": 79,
+    "originalPrice": 129,
+    "discount": 39,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0CPJTR9SZ.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0CPJTR9SZ.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Casa & Decoração",
+    "categorySlug": "casa-decoracao",
+    "freeShipping": true
+  },
+  {
+    "asin": "B0CRN2RRM6",
+    "title": "Tapete Sala Felpudo Shaggy 150x200cm Cinza",
+    "price": 149,
+    "originalPrice": 249,
+    "discount": 40,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0CRN2RRM6.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0CRN2RRM6.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Casa & Decoração",
+    "categorySlug": "casa-decoracao",
+    "freeShipping": true
+  },
+  {
+    "asin": "B0CXJWR1HU",
+    "title": "Organizador Multiuso para Banheiro Bamboo 3 Andares",
+    "price": 69,
+    "originalPrice": 109,
+    "discount": 37,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0CXJWR1HU.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0CXJWR1HU.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Casa & Decoração",
+    "categorySlug": "casa-decoracao",
+    "freeShipping": false
+  },
+  {
+    "asin": "B0CPJUR1TZ",
+    "title": "Umidificador de Ar Ultrassônico 3L com LED",
+    "price": 89,
+    "originalPrice": 149,
+    "discount": 40,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0CPJUR1TZ.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0CPJUR1TZ.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Casa & Decoração",
+    "categorySlug": "casa-decoracao",
+    "freeShipping": true
+  },
+  {
+    "asin": "B0CRN3SRN8",
+    "title": "Chaleira Elétrica Inox 1.7L Desligamento Automático",
+    "price": 99,
+    "originalPrice": 159,
+    "discount": 38,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0CRN3SRN8.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0CRN3SRN8.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Casa & Decoração",
+    "categorySlug": "casa-decoracao",
+    "freeShipping": true
+  },
+  {
+    "asin": "B0CRN9KRVR",
+    "title": "Perfume Masculino Malbec Tradicional O Boticário 100ml",
+    "price": 129,
+    "originalPrice": 189,
+    "discount": 32,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0CRN9KRVR.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0CRN9KRVR.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Beleza & Saúde",
+    "categorySlug": "beleza-saude",
+    "freeShipping": true
+  },
+  {
+    "asin": "B0CPJWR5KR",
+    "title": "Perfume Feminino Lily O Boticário 75ml",
+    "price": 139,
+    "originalPrice": 199,
+    "discount": 30,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0CPJWR5KR.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0CPJWR5KR.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Beleza & Saúde",
+    "categorySlug": "beleza-saude",
+    "freeShipping": true
+  },
+  {
+    "asin": "B0BX5IR4R8",
+    "title": "Kit Skincare Facial Vitamina C + Ácido Hialurônico",
+    "price": 89,
+    "originalPrice": 149,
+    "discount": 40,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0BX5IR4R8.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0BX5IR4R8.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Beleza & Saúde",
+    "categorySlug": "beleza-saude",
+    "freeShipping": true
+  },
+  {
+    "asin": "B0CXJNR4WR",
+    "title": "Escova Secadora Rotating Styler 1200W Bivolt",
+    "price": 149,
+    "originalPrice": 249,
+    "discount": 40,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0CXJNR4WR.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0CXJNR4WR.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Beleza & Saúde",
+    "categorySlug": "beleza-saude",
+    "freeShipping": true
+  },
+  {
+    "asin": "B0CRWNR3QK",
+    "title": "Base Líquida Matte HD Ruby Rose FPS30",
+    "price": 29,
+    "originalPrice": 49,
+    "discount": 41,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0CRWNR3QK.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0CRWNR3QK.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Beleza & Saúde",
+    "categorySlug": "beleza-saude",
+    "freeShipping": false
+  },
+  {
+    "asin": "B0CPJZR6LR",
+    "title": "Kit Pincéis de Maquiagem Profissional 15 Peças",
+    "price": 49,
+    "originalPrice": 89,
+    "discount": 45,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0CPJZR6LR.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0CPJZR6LR.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Beleza & Saúde",
+    "categorySlug": "beleza-saude",
+    "freeShipping": false
+  },
+  {
+    "asin": "B0BX5OR5R0",
+    "title": "Máscara de Cílios Volume Express The Falsies",
+    "price": 34,
+    "originalPrice": 54,
+    "discount": 37,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0BX5OR5R0.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0BX5OR5R0.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Beleza & Saúde",
+    "categorySlug": "beleza-saude",
+    "freeShipping": false
+  },
+  {
+    "asin": "B0CXJPR5XR",
+    "title": "Balança Digital Corporal Bioimpedância Bluetooth",
+    "price": 99,
+    "originalPrice": 169,
+    "discount": 41,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0CXJPR5XR.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0CXJPR5XR.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Beleza & Saúde",
+    "categorySlug": "beleza-saude",
+    "freeShipping": true
+  },
+  {
+    "asin": "B0CRN8WRQ5",
+    "title": "Whey Protein Gold Standard Optimum Nutrition 907g",
+    "price": 199,
+    "originalPrice": 279,
+    "discount": 29,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0CRN8WRQ5.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0CRN8WRQ5.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Esportes",
+    "categorySlug": "esportes",
+    "freeShipping": true
+  },
+  {
+    "asin": "B0CPJXR7MR",
+    "title": "Creatina Monohidratada 300g Integral Médica",
+    "price": 79,
+    "originalPrice": 119,
+    "discount": 34,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0CPJXR7MR.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0CPJXR7MR.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Esportes",
+    "categorySlug": "esportes",
+    "freeShipping": true
+  },
+  {
+    "asin": "B0BWGSR5MR",
+    "title": "Luva de Treino Academia Grip Palmar com Munhequeira",
+    "price": 39,
+    "originalPrice": 69,
+    "discount": 43,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0BWGSR5MR.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0BWGSR5MR.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Esportes",
+    "categorySlug": "esportes",
+    "freeShipping": false
+  },
+  {
+    "asin": "B0CXJLR3VR",
+    "title": "Elástico de Resistência Kit 5 Faixas Exercício",
+    "price": 29,
+    "originalPrice": 49,
+    "discount": 41,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0CXJLR3VR.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0CXJLR3VR.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Esportes",
+    "categorySlug": "esportes",
+    "freeShipping": false
+  },
+  {
+    "asin": "B0CRN5NWR8",
+    "title": "Garrafa de Água 2 Litros com Marcador de Horário",
+    "price": 29,
+    "originalPrice": 49,
+    "discount": 41,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0CRN5NWR8.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0CRN5NWR8.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Esportes",
+    "categorySlug": "esportes",
+    "freeShipping": false
+  },
+  {
+    "asin": "B0CPJYR8NR",
+    "title": "Bicicleta Ergométrica Vertical Magnética Kikos",
+    "price": 799,
+    "originalPrice": 1199,
+    "discount": 33,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0CPJYR8NR.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0CPJYR8NR.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Esportes",
+    "categorySlug": "esportes",
+    "freeShipping": true
+  },
+  {
+    "asin": "B0BWGTR6NR",
+    "title": "Rolo de Espuma Foam Roller 45cm Massagem Miofascial",
+    "price": 39,
+    "originalPrice": 69,
+    "discount": 43,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0BWGTR6NR.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0BWGTR6NR.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Esportes",
+    "categorySlug": "esportes",
+    "freeShipping": false
+  },
+  {
+    "asin": "B0CXJMR4WR",
+    "title": "Kit Halteres Emborrachados 10kg (Par 5kg) Academia",
+    "price": 89,
+    "originalPrice": 149,
+    "discount": 40,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0CXJMR4WR.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0CXJMR4WR.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Esportes",
+    "categorySlug": "esportes",
+    "freeShipping": true
+  },
+  {
+    "asin": "B0CF6BZ76P",
+    "title": "PlayStation 5 Slim Digital Edition 1TB Branco",
+    "price": 3199,
+    "originalPrice": 3999,
+    "discount": 20,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0CF6BZ76P.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0CF6BZ76P.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Games",
+    "categorySlug": "games",
+    "freeShipping": true
+  },
+  {
+    "asin": "B0CF6CZ87Q",
+    "title": "Xbox Series X 1TB Console Preto",
+    "price": 3499,
+    "originalPrice": 4299,
+    "discount": 19,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0CF6CZ87Q.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0CF6CZ87Q.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Games",
+    "categorySlug": "games",
+    "freeShipping": true
+  },
+  {
+    "asin": "B0CF6DZ98R",
+    "title": "Nintendo Switch OLED Branco 64GB Tela 7\"",
+    "price": 2199,
+    "originalPrice": 2799,
+    "discount": 21,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0CF6DZ98R.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0CF6DZ98R.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Games",
+    "categorySlug": "games",
+    "freeShipping": true
+  },
+  {
+    "asin": "B09JQSJD6B",
+    "title": "DualSense Edge Controle PS5 Sem Fio Pro",
+    "price": 999,
+    "originalPrice": 1399,
+    "discount": 29,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B09JQSJD6B.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B09JQSJD6B.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Games",
+    "categorySlug": "games",
+    "freeShipping": true
+  },
+  {
+    "asin": "B0BN73Y8NH",
+    "title": "Headset Gamer Razer Kraken V3 X USB 7.1 Surround",
+    "price": 249,
+    "originalPrice": 399,
+    "discount": 38,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0BN73Y8NH.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0BN73Y8NH.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Games",
+    "categorySlug": "games",
+    "freeShipping": true
+  },
+  {
+    "asin": "B0CX24V3ZK",
+    "title": "Cadeira Gamer Fortrek Holt Reclinável 120kg",
+    "price": 699,
+    "originalPrice": 999,
+    "discount": 30,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0CX24V3ZK.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0CX24V3ZK.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Games",
+    "categorySlug": "games",
+    "freeShipping": true
+  },
+  {
+    "asin": "B08N6XRWNY",
+    "title": "Monitor Gamer Samsung 24\" FHD 75Hz IPS HDMI",
+    "price": 699,
+    "originalPrice": 999,
+    "discount": 30,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B08N6XRWNY.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B08N6XRWNY.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Games",
+    "categorySlug": "games",
+    "freeShipping": true
+  },
+  {
+    "asin": "B0BM4WS7RI",
+    "title": "SteelSeries Arctis Nova 3 Headset Gamer Surround",
+    "price": 349,
+    "originalPrice": 549,
+    "discount": 36,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0BM4WS7RI.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0BM4WS7RI.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Games",
+    "categorySlug": "games",
+    "freeShipping": true
+  },
+  {
+    "asin": "B0CPJZS9PR",
+    "title": "Pai Rico, Pai Pobre — Robert Kiyosaki",
+    "price": 29,
+    "originalPrice": 54,
+    "discount": 46,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0CPJZS9PR.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0CPJZS9PR.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Livros",
+    "categorySlug": "livros",
+    "freeShipping": false
+  },
+  {
+    "asin": "B0CRN1TRQ2",
+    "title": "A Psicologia Financeira — Morgan Housel",
+    "price": 34,
+    "originalPrice": 59,
+    "discount": 42,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0CRN1TRQ2.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0CRN1TRQ2.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Livros",
+    "categorySlug": "livros",
+    "freeShipping": false
+  },
+  {
+    "asin": "B0CXJNR5YR",
+    "title": "Mindset: A Nova Psicologia do Sucesso — Carol Dweck",
+    "price": 34,
+    "originalPrice": 59,
+    "discount": 42,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0CXJNR5YR.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0CXJNR5YR.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Livros",
+    "categorySlug": "livros",
+    "freeShipping": false
+  },
+  {
+    "asin": "B0CPJAT1QR",
+    "title": "O Poder do Hábito — Charles Duhigg",
+    "price": 29,
+    "originalPrice": 54,
+    "discount": 46,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0CPJAT1QR.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0CPJAT1QR.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Livros",
+    "categorySlug": "livros",
+    "freeShipping": false
+  },
+  {
+    "asin": "B0CRN2URR4",
+    "title": "Essencialismo — Greg McKeown",
+    "price": 34,
+    "originalPrice": 59,
+    "discount": 42,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0CRN2URR4.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0CRN2URR4.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Livros",
+    "categorySlug": "livros",
+    "freeShipping": false
+  },
+  {
+    "asin": "B0CXJPR6ZR",
+    "title": "12 Regras para a Vida — Jordan Peterson",
+    "price": 39,
+    "originalPrice": 69,
+    "discount": 43,
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0CXJPR6ZR.01.LZZZZZZZ.jpg",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/P/B0CXJPR6ZR.01.LZZZZZZZ.jpg"
+    ],
+    "category": "Livros",
+    "categorySlug": "livros",
+    "freeShipping": false
+  }
 ]
