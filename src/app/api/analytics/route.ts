@@ -1,5 +1,5 @@
 import { NextRequest, NextResponse } from "next/server";
-import { supabase } from "@/lib/supabase";
+import { getSupabase } from "@/lib/supabase";
 
 export async function GET(req: NextRequest) {
   const secret = req.headers.get("x-dashboard-key");
@@ -13,7 +13,7 @@ export async function GET(req: NextRequest) {
   since.setDate(since.getDate() - days);
 
   // Daily stats
-  const { data: events, error } = await supabase
+  const { data: events, error } = await getSupabase()
     .from("events")
     .select("*")
     .gte("created_at", since.toISOString())

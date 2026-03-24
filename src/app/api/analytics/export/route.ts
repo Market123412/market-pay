@@ -1,5 +1,5 @@
 import { NextRequest, NextResponse } from "next/server";
-import { supabase } from "@/lib/supabase";
+import { getSupabase } from "@/lib/supabase";
 import * as XLSX from "xlsx";
 
 export async function GET(req: NextRequest) {
@@ -12,7 +12,7 @@ export async function GET(req: NextRequest) {
   const since = new Date();
   since.setDate(since.getDate() - days);
 
-  const { data: events, error } = await supabase
+  const { data: events, error } = await getSupabase()
     .from("events")
     .select("*")
     .gte("created_at", since.toISOString())

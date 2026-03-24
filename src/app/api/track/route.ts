@@ -1,5 +1,5 @@
 import { NextRequest, NextResponse } from "next/server";
-import { supabase } from "@/lib/supabase";
+import { getSupabase } from "@/lib/supabase";
 
 export async function POST(req: NextRequest) {
   try {
@@ -23,7 +23,7 @@ export async function POST(req: NextRequest) {
       return NextResponse.json({ error: "event_type required" }, { status: 400 });
     }
 
-    const { error } = await supabase.from("events").insert({
+    const { error } = await getSupabase().from("events").insert({
       event_type,
       page_path: page_path || null,
       product_id: product_id || null,
