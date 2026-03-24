@@ -28,12 +28,11 @@ export function loadAmazonProducts(): Product[] {
     const rating = 4.0 + seededRandom(seed) * 0.9;
     const reviewCount = Math.floor(100 + seededRandom(seed + 1) * 2000);
 
-    // Search-based affiliate link — always lands on real results, any purchase in 24h earns commission
-    const searchQuery = encodeURIComponent(item.title);
-    const affiliateUrl = `https://www.amazon.com.br/s?k=${searchQuery}&tag=${AFFILIATE_TAG}`;
+    // SiteStripe direct product link — official Amazon Associates format
+    const affiliateUrl = `https://www.amazon.com.br/dp/${item.asin}?tag=${AFFILIATE_TAG}&linkCode=ogi&th=1&psc=1`;
 
-    // Use ASIN-based image URL (works for real ASINs), fallback to original
-    const asinImage = `https://images-na.ssl-images-amazon.com/images/P/${item.asin}.01.LZZZZZZZ.jpg`;
+    // SiteStripe image URL — official Amazon Associates image widget
+    const siteStripeImage = `https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=${item.asin}&Format=_SL250_&ID=AsinImage&MarketPlace=BR&ServiceVersion=20070822&WS=1&tag=${AFFILIATE_TAG}`;
 
     return {
       id,
@@ -42,8 +41,8 @@ export function loadAmazonProducts(): Product[] {
       price: item.price,
       originalPrice: item.originalPrice,
       discount: item.discount,
-      image: asinImage,
-      images: [asinImage],
+      image: siteStripeImage,
+      images: [siteStripeImage],
       category: item.category,
       categorySlug: item.categorySlug,
       source: "amazon" as const,
