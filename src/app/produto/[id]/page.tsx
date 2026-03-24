@@ -24,7 +24,9 @@ interface ProductPageProps {
 }
 
 export function generateStaticParams() {
-  return allProducts.map((p) => ({ id: p.id }));
+  // Only pre-render first 50 products at build time to avoid Vercel memory limits
+  // Remaining ~8000 products are generated on-demand (ISR) on first visit
+  return allProducts.slice(0, 50).map((p) => ({ id: p.id }));
 }
 
 export async function generateMetadata({ params }: ProductPageProps): Promise<Metadata> {
