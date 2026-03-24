@@ -7,6 +7,7 @@ import AdBanner from "@/components/AdBanner";
 import ProductCard from "@/components/ProductCard";
 import ProductImageGallery from "./ProductImageGallery";
 import ShuffledRecommendations from "./ShuffledRecommendations";
+import AffiliateButton from "@/components/AffiliateButton";
 import {
   ChevronRight,
   ExternalLink,
@@ -196,15 +197,15 @@ export default async function ProductPage({ params }: ProductPageProps) {
                   </div>
 
                   {/* CTA */}
-                  <a
+                  <AffiliateButton
                     href={affiliateLink}
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="mt-6 flex w-full items-center justify-center gap-2 rounded-lg bg-orange-500 py-3.5 text-base font-bold text-white transition-all hover:bg-orange-600 hover:shadow-lg"
-                  >
-                    <ExternalLink size={18} />
-                    Comprar no {sourceLabels[product.source]}
-                  </a>
+                    sourceLabel={sourceLabels[product.source]}
+                    productId={product.id}
+                    productTitle={product.title}
+                    productCategory={product.category}
+                    productSource={product.source}
+                    productPrice={product.price}
+                  />
 
                   <p className="mt-2 text-center text-xs text-gray-400">
                     Você será redirecionado para o {sourceLabels[product.source]}

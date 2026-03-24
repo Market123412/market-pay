@@ -4,6 +4,7 @@ import Link from "next/link";
 import { Star } from "lucide-react";
 import { Product } from "@/data/products";
 import { formatPrice } from "@/lib/affiliate";
+import { trackProductClick } from "@/lib/tracking";
 
 interface ProductCardProps {
   product: Product;
@@ -19,6 +20,7 @@ export default function ProductCard({ product }: ProductCardProps) {
   return (
     <Link
       href={`/produto/${product.id}`}
+      onClick={() => trackProductClick({ id: product.id, title: product.title, category: product.category, source: product.source, price: product.price })}
       className="group flex flex-col overflow-hidden rounded-lg border border-gray-100 bg-white transition-all hover:shadow-md"
     >
       {/* Image */}
