@@ -27,9 +27,10 @@ function seeded(seed: number): number {
   return x - Math.floor(x);
 }
 
-function buildMLAffiliateUrl(permalink: string): string {
-  const sep = permalink.includes("?") ? "&" : "?";
-  return `${permalink}${sep}matt_tool=${ML_AFFILIATE_ID}&matt_word=marcelwillianreissales&matt_source=marketpay&matt_campaign_id=marketpay_site`;
+function buildMLAffiliateUrl(itemId: string): string {
+  // Use produto.mercadolivre.com.br/{itemId} — direct item listing URL (no 302 redirect)
+  // The old /p/MLBxx catalog format redirected and STRIPPED matt_tool params → 0 tracked clicks
+  return `https://produto.mercadolivre.com.br/${itemId}?matt_tool=${ML_AFFILIATE_ID}&matt_word=marcelwillianreissales&matt_source=marketpay&matt_campaign_id=marketpay_site`;
 }
 
 export function loadMLProducts(): Product[] {
@@ -47,7 +48,7 @@ export function loadMLProducts(): Product[] {
       category: item.category,
       categorySlug: item.categorySlug,
       source: "mercadolivre" as const,
-      affiliateUrl: buildMLAffiliateUrl(item.permalink),
+      affiliateUrl: buildMLAffiliateUrl(item.mlItemId),
       rating: Math.round((3.8 + seeded(seed) * 1.2) * 10) / 10,
       reviewCount: Math.floor(seeded(seed + 1) * 800) + 20,
       reviews: [],
