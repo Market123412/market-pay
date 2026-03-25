@@ -70,6 +70,12 @@ export default function Header() {
                 {cat.name}
               </Link>
             ))}
+            <Link
+              href="/pascoa"
+              className="shrink-0 rounded-full bg-amber-50 px-4 py-1.5 text-sm font-semibold text-amber-700 transition-colors hover:bg-amber-100"
+            >
+              🐰 Páscoa
+            </Link>
           </div>
         </div>
       </nav>
@@ -88,6 +94,13 @@ export default function Header() {
                 {cat.name}
               </Link>
             ))}
+            <Link
+              href="/pascoa"
+              onClick={() => setMenuOpen(false)}
+              className="rounded-lg bg-amber-50 px-4 py-2.5 text-sm font-semibold text-amber-700 hover:bg-amber-100"
+            >
+              🐰 Páscoa
+            </Link>
           </div>
         </div>
       )}
