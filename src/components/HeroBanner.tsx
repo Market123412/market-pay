@@ -4,7 +4,8 @@ import Link from "next/link";
 import { ArrowRight, Zap } from "lucide-react";
 import { useState, useEffect, useMemo } from "react";
 import { allProducts } from "@/data/products";
-import { formatPrice } from "@/lib/affiliate";
+import { formatPrice, getAffiliateUrl } from "@/lib/affiliate";
+import { trackAffiliateClick } from "@/lib/tracking";
 import { shuffle } from "@/lib/shuffle";
 
 const CAROUSEL_COUNT = 6;
@@ -13,9 +14,14 @@ const CAROUSEL_INTERVAL = 8000;
 const allDeals = allProducts.filter((p) => p.discount && p.discount >= 15);
 
 function MiniProductCard({ product }: { product: typeof allDeals[0] }) {
+  const affiliateUrl = getAffiliateUrl(product.affiliateUrl, product.id, product.title);
+
   return (
-    <Link
-      href={`/produto/${product.id}`}
+    <a
+      href={affiliateUrl}
+      target="_blank"
+      rel="noopener noreferrer"
+      onClick={() => trackAffiliateClick({ id: product.id, title: product.title, category: product.category, source: product.source, price: product.price, affiliateUrl })}
       className="group flex flex-col overflow-hidden rounded-lg bg-white shadow transition-shadow hover:shadow-md"
     >
       <div className="relative aspect-square overflow-hidden bg-white">
@@ -37,7 +43,7 @@ function MiniProductCard({ product }: { product: typeof allDeals[0] }) {
         <p className="line-clamp-1 text-[10px] text-gray-600">{product.title}</p>
         <p className="text-xs font-bold text-orange-600">{formatPrice(product.price)}</p>
       </div>
-    </Link>
+    </a>
   );
 }
 
@@ -55,9 +61,14 @@ function RotatingCard({ products }: { products: typeof allDeals }) {
   const product = products[index];
   if (!product) return null;
 
+  const affiliateUrl = getAffiliateUrl(product.affiliateUrl, product.id, product.title);
+
   return (
-    <Link
-      href={`/produto/${product.id}`}
+    <a
+      href={affiliateUrl}
+      target="_blank"
+      rel="noopener noreferrer"
+      onClick={() => trackAffiliateClick({ id: product.id, title: product.title, category: product.category, source: product.source, price: product.price, affiliateUrl })}
       className="group flex flex-col overflow-hidden rounded-lg bg-white shadow transition-shadow hover:shadow-md"
     >
       <div className="relative aspect-square overflow-hidden bg-white">
@@ -79,7 +90,7 @@ function RotatingCard({ products }: { products: typeof allDeals }) {
         <p className="line-clamp-1 text-[10px] text-gray-600">{product.title}</p>
         <p className="text-xs font-bold text-orange-600">{formatPrice(product.price)}</p>
       </div>
-    </Link>
+    </a>
   );
 }
 

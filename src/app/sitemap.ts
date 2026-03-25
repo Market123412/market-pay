@@ -1,5 +1,4 @@
 import type { MetadataRoute } from "next";
-import { allProducts } from "@/data/products";
 import { categories } from "@/data/categories";
 
 const SITE_URL = "https://marketpaycommerce.com.br";
@@ -61,13 +60,8 @@ export default function sitemap(): MetadataRoute.Sitemap {
     priority: 0.8,
   }));
 
-  // Product pages (limit to top products for sitemap performance)
-  const productPages: MetadataRoute.Sitemap = allProducts.map((product) => ({
-    url: `${SITE_URL}/produto/${product.id}`,
-    lastModified: now,
-    changeFrequency: "weekly" as const,
-    priority: 0.6,
-  }));
+  // Product pages removed — cards now link directly to affiliate URLs
+  // /produto/[id] only exists as a redirect for legacy/Meta campaign links
 
-  return [...staticPages, ...categoryPages, ...productPages];
+  return [...staticPages, ...categoryPages];
 }

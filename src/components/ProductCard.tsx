@@ -1,10 +1,15 @@
 "use client";
 
-import Link from "next/link";
 import { Star } from "lucide-react";
 import { Product } from "@/data/products";
-import { formatPrice } from "@/lib/affiliate";
-import { trackProductClick } from "@/lib/tracking";
+import { formatPrice, getAffiliateUrl } from "@/lib/affiliate";
+import { trackAffiliateClick } from "@/lib/tracking";
+
+declare global {
+  interface Window {
+    fbq?: (...args: unknown[]) => void;
+  }
+}
 
 interface ProductCardProps {
   product: Product;
@@ -17,10 +22,38 @@ export default function ProductCard({ product }: ProductCardProps) {
     ? `${product.reviewCount}`
     : null;
 
+  const affiliateUrl = getAffiliateUrl(product.affiliateUrl, product.id, product.title);
+
+  const handleClick = () => {
+    // Track affiliate click
+    trackAffiliateClick({
+      id: product.id,
+      title: product.title,
+      category: product.category,
+      source: product.source,
+      price: product.price,
+      affiliateUrl,
+    });
+
+    // Fire Meta Pixel ViewContent event
+    if (typeof window !== "undefined" && window.fbq) {
+      window.fbq("track", "ViewContent", {
+        content_name: product.title,
+        content_category: product.category,
+        content_ids: [product.id],
+        content_type: "product",
+        value: product.price,
+        currency: "BRL",
+      });
+    }
+  };
+
   return (
-    <Link
-      href={`/produto/${product.id}`}
-      onClick={() => trackProductClick({ id: product.id, title: product.title, category: product.category, source: product.source, price: product.price })}
+    <a
+      href={affiliateUrl}
+      target="_blank"
+      rel="noopener noreferrer"
+      onClick={handleClick}
       className="group flex flex-col overflow-hidden rounded-lg border border-gray-100 bg-white transition-all hover:shadow-md"
     >
       {/* Image */}
@@ -74,6 +107,6 @@ export default function ProductCard({ product }: ProductCardProps) {
           {product.seller}
         </span>
       </div>
-    </Link>
+    </a>
   );
 }
