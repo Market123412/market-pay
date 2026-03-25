@@ -54,6 +54,9 @@ export async function GET(req: NextRequest) {
     } else if (e.event_type === "affiliate_click") {
       dailyMap[day].affiliates++;
       totalAffiliates++;
+      // Also count affiliate clicks in category/source/product stats (cards now link directly to affiliate)
+      if (e.product_category) categoryMap[e.product_category] = (categoryMap[e.product_category] || 0) + 1;
+      if (e.product_source) sourceMap[e.product_source] = (sourceMap[e.product_source] || 0) + 1;
       if (e.product_id) {
         if (!topProducts[e.product_id]) topProducts[e.product_id] = { title: e.product_title || e.product_id, clicks: 0, affiliates: 0, source: e.product_source || "" };
         topProducts[e.product_id].affiliates++;
