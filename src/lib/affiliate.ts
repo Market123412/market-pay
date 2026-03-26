@@ -26,6 +26,11 @@ export function formatPrice(price: number): string {
 }
 
 export function getAffiliateUrl(baseUrl: string, productId: string, title?: string): string {
+  // ML redirect API — already handled by our /api/ml-redirect endpoint
+  if (baseUrl.startsWith("/api/ml-redirect/")) {
+    return baseUrl;
+  }
+
   // Shopee datafeed links (shope.ee/an_redir) — already have affiliate tracking
   if (baseUrl.includes("shope.ee/")) {
     return baseUrl;
@@ -41,7 +46,9 @@ export function getAffiliateUrl(baseUrl: string, productId: string, title?: stri
   if (isGenericUrl && title) {
     const q = encodeURIComponent(title);
     if (baseUrl.includes("mercadolivre")) {
-      return `https://lista.mercadolivre.com.br/${q.replace(/%20/g, "-")}?matt_tool=35864491&matt_word=marcelwillianreissales`;
+      // Hardcoded ML products without meli.la — redirect through our API
+      const mlId = productId.replace(/^ml-/, "");
+      return `/api/ml-redirect/${mlId}?fallback_title=${q}`;
     }
     if (baseUrl.includes("amazon")) {
       return `https://www.amazon.com.br/s?k=${q}&tag=marketpaycomm-20`;

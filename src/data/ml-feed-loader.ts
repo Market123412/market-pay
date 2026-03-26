@@ -1,8 +1,6 @@
 import type { Product } from "./products";
 import mlRaw from "./ml-products.json";
 
-const ML_AFFILIATE_ID = "35864491";
-
 interface MLRawProduct {
   mlProductId: string;
   mlItemId: string;
@@ -27,10 +25,11 @@ function seeded(seed: number): number {
   return x - Math.floor(x);
 }
 
-function buildMLAffiliateUrl(permalink: string): string {
-  // Use the catalog permalink (/p/MLBxx) — ML does 301 redirect to full URL and preserves matt_tool params
-  const sep = permalink.includes("?") ? "&" : "?";
-  return `${permalink}${sep}matt_tool=${ML_AFFILIATE_ID}&matt_word=marcelwillianreissales&matt_source=marketpay&matt_campaign_id=marketpay_site`;
+function buildMLAffiliateUrl(mlProductId: string): string {
+  // Redirect through our API which checks Supabase for meli.la links
+  // If a meli.la link exists → redirects to meli.la (tracked by ML)
+  // If not → redirects to ML search with product title (no commission)
+  return `/api/ml-redirect/${mlProductId}`;
 }
 
 export function loadMLProducts(): Product[] {
@@ -48,7 +47,7 @@ export function loadMLProducts(): Product[] {
       category: item.category,
       categorySlug: item.categorySlug,
       source: "mercadolivre" as const,
-      affiliateUrl: buildMLAffiliateUrl(item.permalink),
+      affiliateUrl: buildMLAffiliateUrl(item.mlProductId),
       rating: Math.round((3.8 + seeded(seed) * 1.2) * 10) / 10,
       reviewCount: Math.floor(seeded(seed + 1) * 800) + 20,
       reviews: [],
