@@ -2,7 +2,7 @@
 
 import { useState } from "react";
 import {
-  ExternalLink, Star, TrendingUp, BookOpen, Monitor, Briefcase,
+  ExternalLink, Star, TrendingUp, BookOpen, Briefcase,
   Heart, DollarSign, Shield, Zap, ChevronDown, Search,
   CheckCircle, ArrowRight, Gift, Users, Award, Clock,
 } from "lucide-react";
@@ -40,10 +40,9 @@ const platformConfig: Record<string, { label: string; color: string; bg: string;
 const categories = [
   { slug: "todos", label: "Todos", icon: Zap, count: 0 },
   { slug: "marketing-digital", label: "Marketing Digital", icon: TrendingUp, count: 0 },
-  { slug: "desenvolvimento", label: "Desenvolvimento", icon: Monitor, count: 0 },
-  { slug: "negocios", label: "Negócios", icon: Briefcase, count: 0 },
-  { slug: "educacao", label: "Educação", icon: BookOpen, count: 0 },
   { slug: "saude", label: "Saúde & Bem-estar", icon: Heart, count: 0 },
+  { slug: "educacao", label: "Educação", icon: BookOpen, count: 0 },
+  { slug: "negocios", label: "Negócios", icon: Briefcase, count: 0 },
   { slug: "financas", label: "Finanças", icon: DollarSign, count: 0 },
 ];
 
