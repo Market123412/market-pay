@@ -58,7 +58,7 @@ export const metadata: Metadata = {
   },
 };
 
-const adsenseId = process.env.NEXT_PUBLIC_ADSENSE_CLIENT_ID;
+const adsenseId = process.env.NEXT_PUBLIC_ADSENSE_CLIENT_ID?.trim().replace(/[^\w-]/g, '');
 
 export default function RootLayout({
   children,
