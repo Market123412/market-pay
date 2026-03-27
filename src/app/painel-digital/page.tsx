@@ -313,15 +313,12 @@ export default function PainelDigitalPage() {
                         {formatPrice(product.price)}
                       </p>
                     </div>
-                    <button
+                    <a
+                      href={product.affiliateUrl}
+                      target="_blank"
+                      rel="noopener noreferrer"
                       onClick={(e) => {
-                        alert('CLIQUE FUNCIONOU! Produto: ' + product.title);
-                        console.log('=== CLIQUE DETECTADO ===');
-                        console.log('Produto:', product.title);
-                        console.log('URL:', product.affiliateUrl);
-                        console.log('Preço:', product.price);
-                        console.log('Evento:', e);
-                        
+                        console.log('Clique no produto:', product.title);
                         // Tracking
                         if (typeof window !== 'undefined' && (window as any).gtag) {
                           (window as any).gtag('event', 'click', {
@@ -330,19 +327,12 @@ export default function PainelDigitalPage() {
                             value: product.price
                           });
                         }
-                        
-                        // Abrir na mesma aba
-                        setTimeout(() => {
-                          window.location.href = product.affiliateUrl;
-                        }, 1000);
                       }}
-                      onMouseDown={() => console.log('MOUSE DOWN no botão')}
-                      className="flex items-center gap-1.5 rounded-xl bg-gradient-to-r from-violet-600 to-fuchsia-600 px-5 py-2.5 text-xs font-bold transition-all duration-200 hover:shadow-lg hover:shadow-violet-600/30 hover:scale-[1.03] active:scale-95 cursor-pointer"
-                      style={{ pointerEvents: 'auto', zIndex: 10 }}
+                      className="flex items-center gap-1.5 rounded-xl bg-gradient-to-r from-violet-600 to-fuchsia-600 px-5 py-2.5 text-xs font-bold transition-all duration-200 hover:shadow-lg hover:shadow-violet-600/30 hover:scale-[1.03] active:scale-95"
                     >
                       Acessar
                       <ArrowRight size={13} />
-                    </button>
+                    </a>
                   </div>
                 </div>
               </div>
