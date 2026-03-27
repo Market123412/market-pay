@@ -317,6 +317,18 @@ export default function PainelDigitalPage() {
                       href={product.affiliateUrl}
                       target="_blank"
                       rel="noopener noreferrer"
+                      onClick={(e) => {
+                        console.log('Clicou no produto:', product.title);
+                        console.log('URL:', product.affiliateUrl);
+                        // Adicionando tracking
+                        if (typeof window !== 'undefined' && (window as any).gtag) {
+                          (window as any).gtag('event', 'click', {
+                            event_category: 'affiliate_link',
+                            event_label: product.title,
+                            value: product.price
+                          });
+                        }
+                      }}
                       className="flex items-center gap-1.5 rounded-xl bg-gradient-to-r from-violet-600 to-fuchsia-600 px-5 py-2.5 text-xs font-bold transition-all duration-200 hover:shadow-lg hover:shadow-violet-600/30 hover:scale-[1.03] active:scale-95"
                     >
                       Acessar
