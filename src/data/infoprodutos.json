@@ -195,7 +195,7 @@
     "rating": 4.9,
     "sales": "150mil+",
     "image": "https://images.unsplash.com/photo-1510915361894-db8b60106cb1?w=400&h=300&fit=crop",
-    "affiliateUrl": "https://go.hotmart.com/SUBSTITUIR_SEU_HOTLINK",
+    "affiliateUrl": "https://go.hotmart.com/I105101224F",
     "badge": "Best Seller",
     "highlights": [
       "Do zero ao avançado",
@@ -403,6 +403,190 @@
       "Só com celular",
       "Instagram",
       "E-commerce"
+    ]
+  },
+  {
+    "id": "info-020",
+    "title": "Viver de Cílios Plano Master - 15 Técnicas",
+    "description": "Aprenda 15 técnicas profissionais de alongamento de cílios. Curso completo com materiais, suporte e certificado para trabalhar com cílios.",
+    "price": 197,
+    "originalPrice": 397,
+    "commission": "60%",
+    "platform": "hotmart",
+    "category": "Negócios",
+    "categorySlug": "negocios",
+    "rating": 4.8,
+    "sales": "50mil+",
+    "image": "https://images.unsplash.com/photo-1620916566398-39f666be02db?w=400&h=300&fit=crop",
+    "affiliateUrl": "https://go.hotmart.com/V105101293W",
+    "badge": "Popular",
+    "highlights": [
+      "15 técnicas",
+      "Material incluso",
+      "Certificado"
+    ]
+  },
+  {
+    "id": "info-021",
+    "title": "Guitarra Intensiva® 2.0 — Acesso Vitalício",
+    "description": "Curso completo de guitarra com acesso vitalício. Do iniciante ao avançado com aulas em vídeo, backing tracks e suporte do professor.",
+    "price": 297,
+    "originalPrice": 597,
+    "commission": "50%",
+    "platform": "hotmart",
+    "category": "Educação",
+    "categorySlug": "educacao",
+    "rating": 4.9,
+    "sales": "30mil+",
+    "image": "https://images.unsplash.com/photo-1510915361894-db8b60106cb1?w=400&h=300&fit=crop",
+    "affiliateUrl": "https://go.hotmart.com/I105101224F",
+    "highlights": [
+      "Acesso vitalício",
+      "Todos os níveis",
+      "Backing tracks"
+    ]
+  },
+  {
+    "id": "info-022",
+    "title": "Desenho Método Fanart 4.0",
+    "description": "Aprenda a desenhar personagens de anime, mangá e games com o método mais completo do mercado. Passo a passo para iniciantes.",
+    "price": 97,
+    "originalPrice": 197,
+    "commission": "60%",
+    "platform": "hotmart",
+    "category": "Educação",
+    "categorySlug": "educacao",
+    "rating": 4.8,
+    "sales": "200mil+",
+    "image": "https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?w=400&h=300&fit=crop",
+    "affiliateUrl": "https://go.hotmart.com/Y105101057X",
+    "badge": "Best Seller",
+    "highlights": [
+      "Anime & Games",
+      "Passo a passo",
+      "Iniciante"
+    ]
+  },
+  {
+    "id": "info-023",
+    "title": "Auxiliar Administrativo",
+    "description": "Curso completo para se tornar Auxiliar Administrativo. Aprenda informática, rotinas administrativas e prepare-se para o mercado.",
+    "price": 97,
+    "originalPrice": 197,
+    "commission": "50%",
+    "platform": "hotmart",
+    "category": "Educação",
+    "categorySlug": "educacao",
+    "rating": 4.7,
+    "sales": "40mil+",
+    "image": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=400&h=300&fit=crop",
+    "affiliateUrl": "https://go.hotmart.com/A105101276J",
+    "highlights": [
+      "Informática",
+      "Rotinas admin",
+      "Mercado de trabalho"
+    ]
+  },
+  {
+    "id": "info-024",
+    "title": "Curso de Excel — Do Básico ao Avançado",
+    "description": "Domine o Microsoft Excel com aulas práticas. Fórmulas, funções, gráficos, tabelas dinâmicas e macros para o trabalho.",
+    "price": 97,
+    "originalPrice": 197,
+    "commission": "50%",
+    "platform": "hotmart",
+    "category": "Educação",
+    "categorySlug": "educacao",
+    "rating": 4.8,
+    "sales": "150mil+",
+    "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=400&h=300&fit=crop",
+    "affiliateUrl": "https://go.hotmart.com/Q105101159S",
+    "badge": "Popular",
+    "highlights": [
+      "Básico ao avançado",
+      "Macros",
+      "Certificado"
+    ]
+  },
+  {
+    "id": "info-025",
+    "title": "Cutilagem para Manicures",
+    "description": "Curso especializado em cutilagem para manicures. Aprenda a técnica mais procurada do mercado de unhas com segurança.",
+    "price": 147,
+    "originalPrice": 297,
+    "commission": "60%",
+    "platform": "hotmart",
+    "category": "Negócios",
+    "categorySlug": "negocios",
+    "rating": 4.8,
+    "sales": "35mil+",
+    "image": "https://images.unsplash.com/photo-1610990154485-874c3a839dca?w=400&h=300&fit=crop",
+    "affiliateUrl": "https://go.hotmart.com/E105101120A",
+    "highlights": [
+      "Cutilagem",
+      "Segurança",
+      "Alta procura"
+    ]
+  },
+  {
+    "id": "info-026",
+    "title": "Curso Sobrancelhas Perfeitas — Oficial",
+    "description": "Curso oficial de design e preenchimento de sobrancelhas. Aprenda henna, micropigmentação e design facial.",
+    "price": 197,
+    "originalPrice": 397,
+    "commission": "60%",
+    "platform": "hotmart",
+    "category": "Negócios",
+    "categorySlug": "negocios",
+    "rating": 4.9,
+    "sales": "60mil+",
+    "image": "https://images.unsplash.com/photo-1596462502278-27b8625a8a4a?w=400&h=300&fit=crop",
+    "affiliateUrl": "https://go.hotmart.com/Y105101236E",
+    "badge": "Oficial",
+    "highlights": [
+      "Design facial",
+      "Henna",
+      "Micropigmentação"
+    ]
+  },
+  {
+    "id": "info-027",
+    "title": "Curso de AUTOCAD — Projetos 2D e 3D",
+    "description": "Aprenda AUTOCAD para criar projetos arquitetônicos e engenharia. Desenho 2D, modelagem 3D e plantas baixas.",
+    "price": 197,
+    "originalPrice": 397,
+    "commission": "50%",
+    "platform": "hotmart",
+    "category": "Educação",
+    "categorySlug": "educacao",
+    "rating": 4.7,
+    "sales": "25mil+",
+    "image": "https://images.unsplash.com/photo-1581291518857-67026a8845a5?w=400&h=300&fit=crop",
+    "affiliateUrl": "https://go.hotmart.com/K105101179N",
+    "highlights": [
+      "2D e 3D",
+      "Projetos",
+      "Certificado"
+    ]
+  },
+  {
+    "id": "info-028",
+    "title": "Curso EJA Supletivo — Ensino Médio",
+    "description": "Curso completo para conclusão do Ensino Médio via EJA. Todas as matérias com aulas online e certificado reconhecido.",
+    "price": 297,
+    "originalPrice": 597,
+    "commission": "40%",
+    "platform": "hotmart",
+    "category": "Educação",
+    "categorySlug": "educacao",
+    "rating": 4.6,
+    "sales": "20mil+",
+    "image": "https://images.unsplash.com/photo-1524178232363-1fb2b075b655?w=400&h=300&fit=crop",
+    "affiliateUrl": "https://go.hotmart.com/C105101256K",
+    "highlights": [
+      "EJA",
+      "Ensino Médio",
+      "Certificado"
     ]
   }
 ]
