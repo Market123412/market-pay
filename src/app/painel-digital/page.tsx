@@ -1,6 +1,7 @@
 "use client";
 
-import { useState } from "react";
+import { useState, useEffect } from "react";
+import { trackPageView, trackAffiliateClick } from "@/lib/tracking";
 import {
   ExternalLink, Star, TrendingUp, BookOpen, Briefcase,
   Heart, DollarSign, Shield, Zap, ChevronDown, Search,
@@ -69,6 +70,10 @@ export default function PainelDigitalPage() {
   const [activeCategory, setActiveCategory] = useState("todos");
   const [searchQuery, setSearchQuery] = useState("");
   const [sortBy, setSortBy] = useState<"popular" | "price-asc" | "price-desc" | "commission">("popular");
+
+  useEffect(() => {
+    trackPageView("/painel-digital");
+  }, []);
 
   const filtered = INFOPRODUTOS
     .filter((p) => activeCategory === "todos" || p.categorySlug === activeCategory)
@@ -249,6 +254,14 @@ export default function PainelDigitalPage() {
                   className="aspect-[16/10] overflow-hidden block"
                   onClick={(e) => {
                     console.log('Clique na imagem:', product.title);
+                    trackAffiliateClick({
+                      id: product.id,
+                      title: product.title,
+                      category: product.category,
+                      source: product.platform,
+                      price: product.price,
+                      affiliateUrl: product.affiliateUrl,
+                    });
                   }}
                 >
                   <img
@@ -324,7 +337,15 @@ export default function PainelDigitalPage() {
                       rel="noopener noreferrer"
                       onClick={(e) => {
                         console.log('Clique no produto:', product.title);
-                        // Tracking
+                        trackAffiliateClick({
+                          id: product.id,
+                          title: product.title,
+                          category: product.category,
+                          source: product.platform,
+                          price: product.price,
+                          affiliateUrl: product.affiliateUrl,
+                        });
+                        // Google Analytics
                         if (typeof window !== 'undefined' && (window as any).gtag) {
                           (window as any).gtag('event', 'click', {
                             event_category: 'affiliate_link',
