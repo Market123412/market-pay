@@ -242,18 +242,26 @@ export default function PainelDigitalPage() {
                 )}
 
                 {/* Image */}
-                <div className="aspect-[16/10] overflow-hidden">
+                <a 
+                  href={product.affiliateUrl}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="aspect-[16/10] overflow-hidden block"
+                  onClick={(e) => {
+                    console.log('Clique na imagem:', product.title);
+                  }}
+                >
                   <img
                     src={product.image}
                     alt={product.title}
                     loading="lazy"
-                    className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-110"
+                    className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-110 cursor-pointer"
                     onError={(e) => {
                       e.currentTarget.src = "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=400&h=300&fit=crop";
                     }}
                   />
                   <div className="absolute inset-0 bg-gradient-to-t from-gray-900/60 via-transparent to-transparent" />
-                </div>
+                </a>
 
                 {/* Content */}
                 <div className="flex flex-col flex-1 p-5">
@@ -293,9 +301,6 @@ export default function PainelDigitalPage() {
                       {product.rating}
                     </span>
                     <span>{product.sales} vendas</span>
-                    <span className="ml-auto text-emerald-400 font-bold text-xs">
-                      {product.commission} comissão
-                    </span>
                   </div>
 
                   {/* Spacer */}
